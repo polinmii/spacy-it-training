@@ -1,0 +1,1 @@
+../../documentation/scripts/deploy_term_scanner.md

@@ -1,0 +1,1 @@
+../../documentation/scripts/test_deploy_scanner.md

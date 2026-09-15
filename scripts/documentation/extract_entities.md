@@ -1,0 +1,1 @@
+../../documentation/scripts/extract_entities.md
