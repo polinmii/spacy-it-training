@@ -1,0 +1,801 @@
+term,source,count,documents,trigger_verb,example_sentence
+ACTIVITIES,ner,145,14,,
+Excel,ner,21,6,,
+Canva,ner,17,5,,
+ACTIVITIES,context_pattern,5,5,maintain,"To maintain the cleanliness, organization, and efficient operation through attendance
+monitoring, document routing, shelving books, and arranging library facilities.
+
+ACTIVITIES: REFLECTIONS:"
+Canva,context_pattern,4,4,use,"To enhance technical and creative skills by editing presentations and Instructional
+materials using Canva."
+IT,ner,4,3,,
+Day,context_pattern,3,3,use,"And make statistics in canva
+of the AMS, BORROWED
+BOOKS LIBRARY INSIDE USED
+
+Day"
+Assisted,ner,7,2,,
+version control,ner,3,2,,
+Excel,context_pattern,2,2,use,"Furthermore, | assisted the staff in doing firearms stencil documentation on paper and encoded the
+names of patrolling officers using Excel."
+CIF,ner,20,1,,
+PESO system,ner,6,1,,
+Photoshop,ner,6,1,,
+ID,ner,4,1,,
+CIF system,ner,2,1,,
+Livewire,ner,2,1,,
+PDF generation feature,ner,2,1,,
+"
+
+C",context_pattern,1,1,develop,"During my On-the-Job
+
+e for Business admisnistration, | worked
+on developing the
+
+C m a web-based platform designed for
+ince tracking, evaluation, and assessment reporting."
+"
+Head",context_pattern,1,1,handle,"| experience that Doing
+some Administrative tasks has be many things
+you can do especially only two of them
+Handling some E-Clearance/Clearance the
+Head of SDO and his Aid but Since we are
+here, I am "
+"
+OnlineServices",context_pattern,1,1,implement,"Implemented a new feature in  both
+OnlineServices and QRIAS that remembers
+where a user scrolled in the sidebar menu using
+session storage and router events."
+"
+Paymentintent creation",context_pattern,1,1,build,"Built the
+Paymentintent creation and retrieval APl with
+""idempotency"" and multi-tenancy support."
+2 system,context_pattern,1,1,build,"Mobile view is important as majority of the
+users will be using mobile
+
+Having a global search will make it much easier for
+users to also find service specific names rather
+than office only search par"
+"2/3/2026
+
+
+Republic",context_pattern,1,1,apply,"| 1 Runner-up | NBSC IT FEST 2025 Web Design Competition
+
+MEMBERSHIP IN ORGANIZATIONS:
+
+NBSC InfoTech Club, NBSC Sports Club
+
+IN CASE OF EMERGENCY, PLEASE
+
+NOTIFY:
+NAME LUCILA A. PINALAS RELATION MOTH"
+"2/3/2026
+
+
+Republic",ner,1,1,,
+2/3/2026 2/3/2026,ner,1,1,,
+2nd,context_pattern,1,1,implement,"the BSBA department heid the Caalam Expo event, o
+we 2ssisted in handling the Mobile Legends tourmament We beipec
+|agaﬁmandmge:h:compaiﬁmmmemrzdu
+
+Cazlam Expo Mobile Legends Tournament
+
+This week, we "
+3 working svstem,context_pattern,1,1,create,"To be able (0 Create 3 working svstem for the Institute for Basiness
+Management."
+4th day,context_pattern,1,1,create,"We converted the HTML pages to PHP and
+migrated from Supabase to MySQL 10 XAMPP We started working
+on the dashboard and login access control to make the system secure
+from potential threats and misuse"
+AGTIVITIES,ner,1,1,,
+Admin,context_pattern,1,1,connect,"Added system logic and database connections
+
+| also focused on adding backend logic and
+connecting the Admin features to the database."
+Admin Backend,ner,1,1,,
+Admin Dashboard,context_pattern,1,1,build,Build the Admin Dashboard with backend functions and logic.
+Admin login logic,ner,1,1,,
+Adobe Photoshop,context_pattern,1,1,use,"> Graphic Design Production: Created the official FRONT and BACK layout of
+PWD IDs using Adobe Photoshop, managing batch templates for 22 barangays,
+DAPA, and PMAG officers."
+Attendance,context_pattern,1,1,write,"Receiving Intemal and External Documents, Scanning the Received Documents,
+Writing Attendance on Log Book, Writing Remarks on the Log Books.
+
+ACTIVITIES:"
+Attendance System,context_pattern,1,1,use,"1. Updating the Attendance LogBook Using
+the Attendance System
+
+2."
+BFP personnel,context_pattern,1,1,train,"Hosting the
+community program at the gymnasium and training the BFP personnel taught me how to
+articulate complex technical ideas to non-technical users clearly and patiently."
+Bar Graph,context_pattern,1,1,create,"| I Create Bar Graph on Dashboard Per Course
+Creating a Bar Graph on Dashboard on how many students have complaints in this
+
+Month or Weeks."
+"Bayad Manolo
+Fortich",context_pattern,1,1,create,"In addition, | created 'Bayad Manolo
+Fortich', a secure payment orchestration engine."
+CIF,context_pattern,1,1,develop,"These tasks helped me develop
+
+CIF, preparing account aging reports, and organizing member
+rds."
+CIF system,context_pattern,1,1,handle,"The Week 2 activities aim to teach us how to handle the CIF system, organize and manage data
+in Excel, and keep accurate records."
+CRUD system,context_pattern,1,1,build,"| also added an automated background job to
+handle permit expiry and built a CRUD system for
+managing enforcer accounts."
+CRUD system,ner,1,1,,
+"Canva
+Start",context_pattern,1,1,use,"e Designed office materials using Canva
+Start of work/End of work: From: 08:00 AM To: 06:00 PM
+EVA RAYON GRAZEMARIE M. BUCIO SHIELA M ROZCO, MIT
+Signature\bver Printed name Signature over Printed name"
+Capcut,context_pattern,1,1,use,"Creating Indigenous Music Video using
+Capcut
+
+In this day sir Adonis Head of Student
+Discipline Office wants us to make Multimedia
+Named Ugtong Daw Bahandi which is
+Indigenous Music Video but first th"
+Capcut,ner,1,1,,
+Cenler,ner,1,1,,
+Clearance,context_pattern,1,1,handle,"| experience that Doing
+some Administrative tasks has be many things
+you can do especially only two of them
+Handling some E-Clearance/Clearance the
+Head of SDO and his Aid but Since we are
+here, I am "
+Clearing Student,context_pattern,1,1,handle,"| experience that Doing
+some Administrative tasks has be many things
+you can do especially only two of them
+Handling some E-Clearance/Clearance the
+Head of SDO and his Aid but Since we are
+here, I am "
+"Contact Us"" page",context_pattern,1,1,develop,"To develop essential communication pages and implement municipal policies.
+
+ACTIVITIES: REFLECTIONS:
+> DAY 24 April 6, 2026
+
+| realized that providing a structured way for PWD
+v"" Developed the ""Contac"
+Convocation Program,context_pattern,1,1,develop,"To develop skills in inventory management, including tagging and labeling office equipme
+
+PN
+
+To enhance attention to detail, organization, and record-keeping for efficient monitoring of
+
+resources.
+
+"
+Dashboard,context_pattern,1,1,create,"| I Create Bar Graph on Dashboard Per Course
+Creating a Bar Graph on Dashboard on how many students have complaints in this
+
+Month or Weeks."
+E,context_pattern,1,1,handle,"| experience that Doing
+some Administrative tasks has be many things
+you can do especially only two of them
+Handling some E-Clearance/Clearance the
+Head of SDO and his Aid but Since we are
+here, I am "
+"E COLLEGE
+
+e",context_pattern,1,1,learn,"One challen
+
+practice is also
+
+organized and handi
+carefully are essential s
+
+activity, | leamed  the
+
+document is officially markeq
+
+responsibly, maintaining proper
+
+their month and year.
+learned the"
+"Employee Information
+System",context_pattern,1,1,work,"One of the most meaningful parts of my training was working on the Employee Information
+System (EIS)."
+Employee Information System,context_pattern,1,1,work,The most exciting part for me was working on the Employee Information System.
+Employer Portal,context_pattern,1,1,create,Create the Employer Portal with consistent Ul design and navigation.
+English translations,context_pattern,1,1,integrate,"| used transition and visual effects,
+then | also integrated English translations."
+Excel file,ner,1,1,,
+Forl,context_pattern,1,1,use,"Assisted in handling the system used in the Forl learned how to use the system and became
+office."
+Format slip,context_pattern,1,1,create,"My Pair and | work together to create Violation
+
+Integrating into our System to their Format slip, Good Moral, and Community Service
+
+through their Slip and Forms."
+Fortich,ner,1,1,,
+GEC book,ner,1,1,,
+"HRIS
+
+Day",context_pattern,1,1,use,"Updating the Leave Card Form of
+
+Employee using the HRIS
+
+Day 5 (April 24, 2026)
+
+1."
+HTML,context_pattern,1,1,use,"On the frontend, | created responsive and user-friendly interfaces using
+HTML, CSS, and JavaScript, and improved the system’s UI/UX design for the landing |
+page and role-specific dashboards."
+"Head Office’s Suggestion
+
+ACTIVITIES",context_pattern,1,1,implement,"Enhancing our Student Discipline Management System and Adding new Functionalities And
+
+implementing Head Office’s Suggestion
+
+ACTIVITIES:
+
+REFLECTIONS:"
+Head Suggestion,context_pattern,1,1,implement,"Implementing on Head Suggestion
+
+I Continue Working on the System that our
+Head Want to added the functionality and add
+more information about the student like once
+you add or edit about student infor"
+Health Appraisal Record,context_pattern,1,1,create,"Add and Create Health Appraisal Record In this Day | Create the Health Appraisal Record,
+after the instructor approved the student request
+
+of having done creating their accounts, they
+must fill up th"
+Help and Frequently workload,context_pattern,1,1,develop,"|
+> DAY 32 April 21, 2026
+‘ | realized that a good FAQ page reduces the office’s
+v Developed the Help and Frequently workload by answering common questions before the
+Asked Questions (FAQs) modules."
+"Hybrid One-to-Many"" OP system",context_pattern,1,1,implement,"ACTIVITIES:
+
+REFLECTIONS:
+
+| implemented a ""Hybrid One-to-Many"" OP system
+that allows multiple fee items in one reference, |
+also added a ""Draft-to-Issued” lifecycle with
+mandatory audit trails, the a"
+ID layouts,ner,1,1,,
+ID production,context_pattern,1,1,handle,"Being assigned alone to handle the ID production
+made me realize the importance of focus and
+efficiency."
+ID production,ner,1,1,,
+IT skills,context_pattern,1,1,use,"| can apply this outside the DENR
+by using my IT skills to assist classmates."
+Importance,context_pattern,1,1,learn,"And
+in the afternoon is time for hardware
+maintenance which is cleaning the system unit
+of the pc in the E library this task help me
+learn the Importance of proper care and
+maintenance of equipment to"
+"Important office
+documents",context_pattern,1,1,handle,"Photocopy of Documents
+
+This activity Improved my efficiency and
+responsibility in handling Important office
+documents."
+Important office documents,context_pattern,1,1,handle,"This task improved my sense of responsibility and
+accuracy in handling Important office documents."
+Indigenous Music Video,context_pattern,1,1,create,"Creating Indigenous Music Video using
+Capcut
+
+In this day sir Adonis Head of Student
+Discipline Office wants us to make Multimedia
+Named Ugtong Daw Bahandi which is
+Indigenous Music Video but first th"
+"InfinityFree We
+",ner,1,1,,
+Inspection Management System,context_pattern,1,1,develop,"Developing the Inspection Management System gave me profound, hands-on experience
+in implementing interactive geographic features using Leaflet.js and constructing robust
+data management modules."
+Integrity,context_pattern,1,1,maintain,"It also taught me the
+importance of maintaining the Integrity of data and
+carefully reviewing my work to avoid errors."
+Intelligence Day 2 relationships,context_pattern,1,1,manage,"The second day focused on managing
+
+Intelligence Day 2 relationships and conflict resolution."
+Interment Management module,context_pattern,1,1,implement,"| realized how much communication with
+collaborators matter as well as how critical version
+control is.
+
+Implemented the Interment Management module
+including CRUD operations and grave selection
+using"
+L,context_pattern,1,1,maintain,"1 also learned the importance of accurate
+documentation in maintaining reliable records in
+L the offlce."
+"Laravel
+Framework",context_pattern,1,1,build,"|
+
+Assigned Tasks:
+
+Contributed to the development of a Job Portal System built with the Laravel
+Framework by supporting both frontend and backend tasks."
+Laravel Framework,context_pattern,1,1,use,"Whereas | focused on backend processes and administrative
+functionalities using a Laravel Framework."
+Laravel Livewire,context_pattern,1,1,use,"| realized how much communication with
+collaborators matter as well as how critical version
+control is.
+
+Implemented the Interment Management module
+including CRUD operations and grave selection
+using"
+Laravel Livewire,ner,1,1,,
+Laravel and related technologies,context_pattern,1,1,use,"Implementation Phase
+« Development of web-based and mobile application systems using
+
+Laravel and related technologies.
+«"
+Leaflet mapping functionality,context_pattern,1,1,integrate,"To integrate Leaflet mapping functionality for geotagging and validate its performance through real-world
+
+field testing."
+"Linux
+terminal",context_pattern,1,1,use,"Even though | couldn't replicate the specific server
+security errors locally, learning to use the Linux
+terminal and managing a virtual environment was
+a valuable experience for my growth as a
+develop"
+Livewire components,context_pattern,1,1,implement,"ACTIVITIES:
+
+REFLECTIONS:
+
+Developed and improved the Sales and Deceased
+modules by implementing Livewire components for
+pricing, invoices, and automated contract
+| synchronization
+
+| gained practical"
+Log,context_pattern,1,1,create,"Al REFLECTIONS:
+
+Created the Log"
+Log Book,context_pattern,1,1,write,"Receiving Intemal and External Documents, Scanning the Received Documents,
+Writing Attendance on Log Book, Writing Remarks on the Log Books.
+
+ACTIVITIES:"
+Log Books,context_pattern,1,1,write,"Writing Remarks on the Log Books after
+the Routed Documents Arrive on its
+Designated Offices."
+MOA,context_pattern,1,1,handle,"Handling the MOA also
+the MOA from HR and delivered it to tha | remindad me of my responsibility to bridge the gap
+ICS Program Head, encoded data for between my schaal and the agency
+
+Brgy."
+"Ma'am
+Queen",context_pattern,1,1,work,"| worked with Ma'am
+Queen, and she guided me and made me feel
+
+comfortable while doing my work."
+March,context_pattern,1,1,work,"On March 3, | worked on updating the DTR in the
+logbook through the Attendance Track system,
+updating the Client Satisfaction Survey, and
+updating the leave cards of employees."
+May,ner,1,1,,
+Mental state,context_pattern,1,1,maintain,"In this day it took me 4 Days to finish inputting
+their information So that i can input it into our
+System as well because many Students
+coming at SDO Office to Clear their E-
+Clearance like almost Ev"
+Mobile Legends tourmament,context_pattern,1,1,handle,"the BSBA department heid the Caalam Expo event, o
+we 2ssisted in handling the Mobile Legends tourmament We beipec
+|agaﬁmandmge:h:compaiﬁmmmemrzdu
+
+Cazlam Expo Mobile Legends Tournament
+
+This week, we "
+"Multimedia Music Video
+
+ACTIVITIES",context_pattern,1,1,create,"Creating Multimedia Music Video
+
+ACTIVITIES:
+
+REFLECTIONS:"
+MySQL 10 XAMPP,context_pattern,1,1,migrate,"We converted the HTML pages to PHP and
+migrated from Supabase to MySQL 10 XAMPP We started working
+on the dashboard and login access control to make the system secure
+from potential threats and misuse"
+OJT,context_pattern,1,1,learn,"What | learned from this OJT was really helpful because it taught me to be flexible
+and work in areas."
+OJT APPLICANT'S SIGNATURE,context_pattern,1,1,apply,"Scholarship Grantee
+
+| MEMBERSHIP IN ORGANIZATIONS
+| IN CASE OF EMERGENCY, FLEASE
+
+NOTIFY |
+| NaME l Jato P. Butuanon RELATION
+
+ADRESS | Zone & Lunacan, Manoia Fortich, Bukidnon
+
+TELEPHONE/FAX NUMSERS"
+"OPAC
+system",context_pattern,1,1,use,"And | will go to my
+- Entrance assign area which is the entrance to guide
+~Route papers the students who will use the library and
+
+make sure them to attendance In the
+system and edited In canva which "
+OPAC tutorials,context_pattern,1,1,work,"| worked on several Canva projects, such as presentations for newly acquired books,
+OPAC tutorials, and library statistics, which improved my creativity and technical skills."
+OnlineServices,context_pattern,1,1,deploy,"3. Deploy minor patches and data safeguards to OnlineServices and QRIAS.
+
+ACTIVITIES: REFLECTIONS:
+
+Youth-Profiling-System (Foundation): Started [ We rebuilt the system to match the legacy
+converting "
+PC,context_pattern,1,1,use,"On my seventh day In LRC | continued
+encoding the Important details of the books
+and this day also Is | assign In the E- library
+the task Is to digitalizing the logbook and
+printing,and If someone bor"
+PDF download functionality,context_pattern,1,1,implement,"PESO Clearance Feature Development
+
+| implemented a PDF download functionality for
+the PESO clearance."
+PDF download functionality,ner,1,1,,
+PDF generation feature,context_pattern,1,1,create,"0o
+
+Create a PDF generation feature for downloadable clearance documents."
+PESO clearance backend,ner,1,1,,
+PESO clearance backend functionality,context_pattern,1,1,implement,"Week 13 (May 25 -29)
+
+Objective(s) for the week:
+
+-
+
+Develop and implement the PESO clearance backend functionality."
+PWD Head,context_pattern,1,1,work,"Working directly with the PWD Head
+taught me the value of strict document verification."
+PWD ID issuance,context_pattern,1,1,manage,"To manage PWD ID issuance and participate in the Emotional Intelligence for Life and
+
+Leadership seminar."
+PWD clients,context_pattern,1,1,handle,"v Handled the technical issuance of IDs to
+PWD clients."
+Path-fit Tracking System,context_pattern,1,1,create,"In this day, our Head of the SDO (Student
+
+Brainstorming and Listen to Ma’am Grace Discipline Office) called me to help Ma’am Grace
+
+Guidance on how the System Works to Create Path-fit Tracking System"
+"Path-fit Tracking System
+
+ACTIVITIES",context_pattern,1,1,create,"Republic of the Philippines
+NORTHERN BUKIDNON STATE COLLEGE
+
+Manolo Fortich, 8703 Bukidunon
+
+Documentation:
+
+Signed: W o
+Andrion Clemence P. Rangillas Adonf§ J. Onahon, MBA, MPA
+Student Trainee Signat"
+PayMongo gateway integration,context_pattern,1,1,implement,"araen m ity nalize te: g
+
+ACTIVITIES:
+
+Implemented the PayMongo gateway integration,
+complete with database seeders and a dedicated
+test suite."
+PayMongo payment gateway,context_pattern,1,1,integrate,"Integrate the PayMongo payment gateway and improve payment orchestration schemas.
+
+2."
+Pending E-Clearance at,ner,1,1,,
+"Philippine
+National Police",context_pattern,1,1,handle,"Profilling,
+Paperworks
+
+I learned how profiling and paperwork are organized and handled in the Philippine
+National Police (PNP)."
+Philippine E-Journals,ner,1,1,,
+Photoshop,context_pattern,1,1,use,"» DAY 6 March 3, 2026
+v Designed FRONT and BACK layout of Using Photoshop for the ID layout allowed me to
+PW[?ID Y apply my design skills to a physical output."
+Premium Branding,context_pattern,1,1,implement,"| also implemented ""Premium Branding"" for
+emails using signed URLs for secure access and
+enabled PWA web push notifications."
+Profiling System,context_pattern,1,1,develop,Continuing The | continued developing the Profiling System and improved its features.
+Profilling Developing Profiling System,context_pattern,1,1,develop,"Developing Profilling Developing Profiling System 2 helped me improve my understanding of organizing
+
+System 2 and managing data in a system."
+Python programming language,context_pattern,1,1,build,"Further, | helped the Local Youth Development Office with the successful migration of
+their youth profiling system, built with the Python programming language, to a scalable
+Laravel application, which"
+"QR code
+attendance tracking system",ner,1,1,,
+QR codes,context_pattern,1,1,employ,"Then we also developed a mobile-friendly
+registration checker and field enforcement system for the transport sector called
+“TricabQR,” which employs QR codes for rapid permit checking by traffic offic"
+QRIAS,context_pattern,1,1,implement,"Implemented a new feature in  both
+OnlineServices and QRIAS that remembers
+where a user scrolled in the sidebar menu using
+session storage and router events."
+REFLECTIONS,ner,1,1,,
+Records Office,context_pattern,1,1,work,"On March 12, Me and logether with my Co-
+Intemns worked on network cable identification in
+the Records Office, RPS, and CDS sections."
+Referral Slip,context_pattern,1,1,write,"Receiving Internal and External Documents, Recording Request Slip in the
+Attendance Logbook, Making Written Remarks in the Logbooks, Editing PDFs for
+Attendance in the computer, Writing on the Referra"
+Remarks,context_pattern,1,1,write,"Writing Remarks on the Log Books after
+the Routed Documents Arrive on its
+Designated Offices."
+SQL,context_pattern,1,1,create,"| Starting to Develop our System through coding | | Setup and add the Admin user in SQL Server so
+application and Creating SQL for storing data later | that the Admin User is accessible that i registe"
+SQL statements,context_pattern,1,1,write,"Republic of the Philippines
+NORTHERN BUKIDNON STATE COLLEGE
+
+Manolo Fortich, 8703 Bukidnon
+
+Documentation:
+
+Signed:
+o
+M/ Adorf$ J. Onahon, MBA, MPA
+Andrion Clemence P. Rangillas
+Student Trainee Signat"
+SRS,ner,1,1,,
+Slip,context_pattern,1,1,create,"My Pair and | work together to create Violation
+
+Integrating into our System to their Format slip, Good Moral, and Community Service
+
+through their Slip and Forms."
+"Student
+Evaluation System",context_pattern,1,1,develop,"QUIDIT
+
+Studeft-Trainee
+A
+
+Signature over printed Name of HTE Supery isor
+Iy
+t 5
+FAISALL S7H) RAT, MMITM
+
+OF1 Coded iy
+
+Republic of the Plilippines
+
+NORTHERN BUKIDNON STATE COLLEGE
+L
+
+During our On-th"
+Student Discipline Management System,context_pattern,1,1,build,I built the Student Discipline Management System.
+Supabase,context_pattern,1,1,migrate,"We converted the HTML pages to PHP and
+migrated from Supabase to MySQL 10 XAMPP We started working
+on the dashboard and login access control to make the system secure
+from potential threats and misuse"
+Supabase,ner,1,1,,
+Technical skills,context_pattern,1,1,develop,"To develop my Technical skills, organizational abilities, and sense of responsibility by actively
+assisting in daily tasks and operations."
+"Travel
+Order Electronic System",context_pattern,1,1,use,"Printing a travel order using the Travel
+Order Electronic System under the
+supervision of Sir Ronie Nufieza."
+"Travel
+Order Electronic System",ner,1,1,,
+Travel Order Electronic System,context_pattern,1,1,use,"Updating the DTR in logbook through
+Attendance Tracker System
+
+Day 2 (March 3, 2026)
+
+Updating the DTR in logbook through
+Attendance Tracker System
+
+Updating the Client Satisfactory Survey
+Updating th"
+Travel Order Electronic System,ner,1,1,,
+Ul,context_pattern,1,1,handle,"Assisted in building and
+refining core features such as user authentication, job posting and
+management, company profiles, job browsing, application tracking, saved jobs,
+Description of and request sy"
+Ul,ner,1,1,,
+Ul consistency,context_pattern,1,1,maintain,"» DAY 59 June 2, 2026
+Expanding the footer modules taught me how to
+v Developed and polished newly added sub- | maintain Ul consistency across all secondary pages.
+pages within the system footer links"
+"Violation
+
+Integrating",context_pattern,1,1,create,"My Pair and | work together to create Violation
+
+Integrating into our System to their Format slip, Good Moral, and Community Service
+
+through their Slip and Forms."
+WACS,context_pattern,1,1,implement,"Enhance data schema for waste disposal records and field collection logs
+
+ACTIVITIES: REFLECTIONS:
+
+Implemented WACS (Waste Assessment and | Tracking baselines allows the LGU to accurately
+Characteriz"
+Week,context_pattern,1,1,work,"On Week 10, | worked on adding the
+
+requested admin-alde statistica for files and job
+
+Added admin-side statistics for flles and Jobs | data as Instructed by Sir Jerome."
+Week,ner,1,1,,
+XAMPP,context_pattern,1,1,use,"16-19, 2026
+
+we continued the system programming Ma'am Mars
+us to meet with the ICTMO department 1o ask sbout the |
+
+ntegrated with the school’s data in the future ]
+On Days 2-3 of Week 4, we redevelo"
+actual Job environment,context_pattern,1,1,work,"Brainstorming
+
+On our brainstorming activites 1 have
+leamed to better understand the concept of what
+we are developing and | also learned that working
+in an actual Job environment is very different th"
+"also
+the MOA",context_pattern,1,1,handle,"Handling the MOA also
+the MOA from HR and delivered it to tha | remindad me of my responsibility to bridge the gap
+ICS Program Head, encoded data for between my schaal and the agency
+
+Brgy."
+alternative UI/UX designs,context_pattern,1,1,develop,"To develop alternative UI/UX designs and layout the official PWD ID.
+
+ACTIVITIES:
+
+REFLECTIONS:
+
+DAY 5 March 2, 2026"
+base Obituary module,context_pattern,1,1,develop,"Developed the base Obituary module with a rich
+text editor, public navigation layout, and integration
+with upcoming interment services."
+basic IT support tanks,context_pattern,1,1,handle,"Thig gave me an
+idea of how important reliable systoms are for
+communication and documentation
+
+[ Thelped in f080lving small lsauos such as
+
+slow performance and connection problems,
+This improved my "
+basic IT support tanks,ner,1,1,,
+"basijc IT
+Support tasks",context_pattern,1,1,handle,"This
+mproved my confidence in handling basijc IT
+Support tasks."
+canva,ner,1,1,,
+canva edited the presentation,ner,1,1,,
+consistent Ul design,context_pattern,1,1,create,Create the Employer Portal with consistent Ul design and navigation.
+core API,context_pattern,1,1,develop,"Develop the core API, security vaults, and failover engines for the new Bayad Manolo
+
+Eortich payment gateway."
+core Sales,context_pattern,1,1,develop,"| learned how small interface bugs can affect
+usability and how debugging it will improve system
+stability while developing.
+
+Developed the core Sales and Financial modules
+including contracts, invoic"
+"corresponding
+PESO",context_pattern,1,1,create,"In/ Sign Up Page On week two our main objective was to
+
+create the Employer Portal with the corresponding
+PESO sign up form."
+"daily
+Ooperations",context_pattern,1,1,use,"This experience
+taught me that regular maintenance helps
+
+Prevent overheating and extends the life of
+Computers.
+
+observed how computers are used in daily
+Ooperations within the office."
+"data
+
+Day",context_pattern,1,1,handle,"On my 16"" days we do shelving and
+encode Important details of the books
+such as the title, author, year published,
+and publisher and checking the books
+details This task helped me become more
+accurate"
+dateRangePicker,ner,1,1,,
+dynamic Ul,ner,1,1,,
+"dynamic Ul
+components",context_pattern,1,1,integrate,"il
+| gained experience integrating dynamic Ul
+components with backend logic in Laravel."
+"e-library processes
+
+ACTIVITIES",context_pattern,1,1,manage,"To enhance accuracy and efficiency in encoding book details and attendance records
+To develop skills In digitalizing records and managing e-library processes
+
+ACTIVITIES:
+
+REFLECTIONS:
+
+Day"
+"flexible
+JSON metadata",context_pattern,1,1,use,"| refactored the payment system to use flexible
+JSON metadata."
+following BSIT students,context_pattern,1,1,write,"Therefore, | am writing this
+letter 10 endorse the following BSIT students in your respective organization."
+gtf?ned Photoshop,context_pattern,1,1,use,"| learned how to use templates in
+gtf?ned Photoshop lgyouts for PWD Photoshop to maintain consistency across all
+icers across 22 different Barangays."
+"how proper documentation
+Logbook",context_pattern,1,1,learn,"Recording Request Slip in the Attendance | | learned how proper documentation
+Logbook. helps keep records clear and easy to
+
+track whenever needed."
+interactive Leaflet mapping API,context_pattern,1,1,integrate,"Over the course of its development lifecycle, | |
+managed the project from the initial planning phase, initialized the core repository ‘
+structures, and integrated an interactive Leaflet mapping API f"
+laravel,ner,1,1,,
+"looping
+Lottie animations",context_pattern,1,1,implement,"| added a custom 404 error page, customizable
+status badge chips, and implemented looping
+Lottie animations for a more modern feel."
+more comprehensive Ul,context_pattern,1,1,implement,"Rebranded the application to ""Bayad MF"",
+redesigned the payment details card, and
+implemented a more comprehensive Ul.
+
+Added a comprehensive hardening test suite
+
+focusing on system reconciliation, h"
+official ID layouts,context_pattern,1,1,create,"To create official ID layouts for Barangay PWD Officers and continue front-end
+
+development.
+ACTIVITIES: REFLECTIONS:
+» DAY35/April 27, 2026 Managing layouts for 22 barangays requires high
+v organizat"
+official Memorandum,context_pattern,1,1,manage,"Finally, | performed critical administrative liaison duties, routing legal
+documents and managing the official Memorandum of Agreement (MOA) coordination between the
+HR department, the Mayor's Office,"
+open-source Leaflet.js mapping API,context_pattern,1,1,integrate,"o Integrating the open-source Leaflet.js mapping API to capture, store,
+and display real-time coordinate data for geotagging purposes."
+personal Sorter Dashboard,context_pattern,1,1,develop,Develop a personal Sorter Dashboard featuring role-based revenue tracking.
+resilient Ul components,context_pattern,1,1,build,"Building resilient Ul components that don't stretch
+or break under heavy data loads ensures the
+application remains usable and visually stable,
+even as the municipality's operations scale up."
+"responsive Directory
+modules",context_pattern,1,1,develop,"Developed responsive Directory
+modules."
+secure Universal Vault,context_pattern,1,1,create,"Created
+a secure Universal Vault for tokenization."
+semantic Ul tokens,context_pattern,1,1,migrate,"This included
+revamping user roles into a minimalist table,
+migrating to semantic Ul tokens, and resolving
+major merge conflicts."
+several Canva projects,context_pattern,1,1,work,"| worked on several Canva projects, such as presentations for newly acquired books,
+OPAC tutorials, and library statistics, which improved my creativity and technical skills."
+signed URLSs,context_pattern,1,1,use,"Using
+signed URLSs adds a layer of ""premium"" security,
+ensuring that email links are unique and cannot be
+tampered with."
+signed URLs,context_pattern,1,1,use,"| also implemented ""Premium Branding"" for
+emails using signed URLs for secure access and
+enabled PWA web push notifications."
+sir Adonis Head,context_pattern,1,1,create,"Creating Indigenous Music Video using
+Capcut
+
+In this day sir Adonis Head of Student
+Discipline Office wants us to make Multimedia
+Named Ugtong Daw Bahandi which is
+Indigenous Music Video but first th"
+sir Ronnie,context_pattern,1,1,use,"Today | worked on editing lot permits using
+google sheets and word with sir Ronnie."
+"static
+IPs",context_pattern,1,1,configure,"In the
+afternoon, | helped set up laptops for the pageant,
+which involved networking and configuring static
+IPs to ensure a stable connection for the event
+software."
+strict 2MB limit,context_pattern,1,1,implement,"ACTIVITIES:
+
+REFLECTIONS:
+
+I implemented a strict 2MB limit for file uploads and
+added client-side image compression."
+"student evaluation
+Imafonby",context_pattern,1,1,develop,"Th This week, we continued developing the student evaluation
+Imafonby adding a subject loading feature We also categorized
+‘students first as non-IBM, transferee, or regular before starting the
+evalua"
+system's Excel exports,context_pattern,1,1,migrate,"ACTIVITIES:
+
+migrated the system's Excel exports to use an
+excel package to generate native .xIsx files and
+implemented missing report types along with their
+calculated totals."
+various PWD associations,context_pattern,1,1,manage,"Coordinating with different groups like PMAG made
+me realize the scale of the PDAQ’s responsibility in
+managing various PWD associations."

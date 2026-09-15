@@ -1,0 +1,42 @@
+term,label
+Python,PROG_LANG
+Java,PROG_LANG
+JavaScript,PROG_LANG
+TypeScript,PROG_LANG
+C#,PROG_LANG
+PHP,PROG_LANG
+React,FRAMEWORK
+Angular,FRAMEWORK
+Vue.js,FRAMEWORK
+Django,FRAMEWORK
+Flask,FRAMEWORK
+Laravel,FRAMEWORK
+Spring Boot,FRAMEWORK
+Node.js,FRAMEWORK
+MySQL,DATABASE
+PostgreSQL,DATABASE
+MongoDB,DATABASE
+SQLite,DATABASE
+Oracle Database,DATABASE
+Git,TOOL
+GitHub,TOOL
+Docker,TOOL
+Kubernetes,TOOL
+Jenkins,TOOL
+Postman,TOOL
+Jira,TOOL
+Figma,TOOL
+AWS,CLOUD
+Microsoft Azure,CLOUD
+Google Cloud Platform,CLOUD
+Linux,OS
+Windows Server,OS
+Ubuntu,OS
+REST API,CONCEPT
+Machine Learning,CONCEPT
+Data Structures,CONCEPT
+Object-Oriented Programming,CONCEPT
+Version Control,CONCEPT
+Agile,METHODOLOGY
+Scrum,METHODOLOGY
+DevOps,METHODOLOGY
