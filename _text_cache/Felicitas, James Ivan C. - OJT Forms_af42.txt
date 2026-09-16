@@ -1,0 +1,332 @@
+Selup laravel environments and read On my first day, we have discussed the foatures
+documentations and flow of the systom that we're going to build. Since
+don't have experience with the laravel
+framework, I started to read some tutorial and
+read some documentation to set up the laravel
+environment. I realized that we need to adapt in
+every technology used In industry.
+Start to code the initial landing page On my second day, I started 1o build initial landing
+page for the job portal system. I learned the
+basics of CSS framework which is the tailwind. |
+realized that simple Ul matter and have a good
+color theme combination.
+Continue the landing page focus on "about usTM On my 3rd day, I continued to build some
+"job listing * and "contact us" pages necessary information for the landing page. |
+learned the routing for the different pages, |
+realized that I need to have a solid foundation of
+Programming.
+Fix some bugs and improve the layout for the On my 4th day, I still continued to finalized the
+landing pages with working button layout for the landing page with working button.
+I learmed media query to be responsive to different
+size of gadget. I realized that simplicity of Ul is a
+must for responsive in different size of gadget.
+et ol ihe P dupprmey
+' NORTHERN RUKIDNON STATE COLLEGE '
+Mot Fortieh 500 Bk idon
+Repitty
+o the P ppomes
+NORTHERN BRUKIDNON STATE COLLEGE
+Vet L omoich 08 P idvyony
+
+Start coding the employer log in and registration
+for the employer portal
+On this day, I decided to sta the employers
+portal by coding the registration and log in form.
+Atfirst I'm struggling to make it working on a
+static so I decided to works on its logic. I realize
+that I need to understand to code not just copy
+Pasting.
+Finalize the information needed for the registration
+On the second day of this week, I decided to
+finalize the contact information needed for the
+registration based on the form from our
+supervisor. I tried to break It into category since
+theres a lot of information needed.
+Start the dashboard for the employers and added
+other features for the employers portal
+Erainslorm and finalize the landing page
+mruuvmmugevm:omuafimmm
+After I finished the registration and login, I started
+to code the initial dashboard for the employers
+portal. I code some graphs and metrics that
+needed to see In the dashboard. Also the job
+posting for the job vacancies.
+landing page from different programmers. We
+decided to brainstorm with my teams with regards
+fo collaboration and how the color combination will
+be executed.
+Poa "
+i Pwrud i
+Pormneatinn
+Repatiic of the Phhipyvncs
+NORTHERN RUKIDNON STATE COLLEGE
+Mol Fontich 70 Bukidwon
+Forme
+
+Make & new repository and brainstorm the new
+fiow to avoid the git confiict
+On the first day of this week we decided to do a
+branstorm on what to do to aveid the git conflict.
+We created different branches for every developer
+and work on our chosen design and layout
+Make Al chatbot using Gemini API for contact
+fom
+Since I have a free time in early moming, |
+decided to explore new things that I'm not famili
+with. At first, it didn't work and it takes time to
+figure out what's the problem. At the end of the
+day, I was able to make a chatbot form but the Al
+is still not working
+Continued to fix the Al chatbot problem
+l'.)rnhesef.xmcldayanhisweek.lstiloumirmelo'J
+figure on how to fix the existing problem on my
+code. Eventually, I started to watch some tutorial
+and I'm happy that it works, and realize the
+problem is, I didn't include the URL for the API in
+my code. I just copy the AP key so it didnt make
+sense
+1started 1o code on my active branch
+On the last day of this week, I finally started to
+code the design and contents that Is chosen on
+me. Al first there is a problem when it comes to
+merging so I struggled a lot.
+Paprtils of ke Phit g s
+Mamet Farvich 900 ok o
+oJr ator MGDH | PE! ager
+Pepertitn al the (90
+NORTHERN RUKIDNON STATE COLLYGE
+Waartes Fomsich 290 BN i
+Form
+
+"Mnknhe Ul consistent every section
+Since we have different Ul in different programmer |
+helped my team when it comes 1o maintaining
+good Ul that is easy to use for the user and relate
+to footer and header.
+Debug some error and refactor some code
+Added some FAQS or frequently ask questions in
+our contact form
+Adaed filtenng in chatbot
+On my 3rd day, I continued to refactor some code and
+decided to add some frequently ask question for the
+user to have information with regards to system
+functionalities o features.
+n my Y, some ing in our
+bot since the free API from Gemini is limited
+hour. So I filtered it to answer some question
+related to system only not in general.
+Mottt ol he P
+NORTHERN RUKIDNON STATE COLLEGE '
+st Vv 4901 ok i
+Signed Reviewed by,
+oT linator
+NORTHERN RUKIDNON STATE COLLEGH
+Wampile Lol %08 Pk b
+Form #
+
+Encoded the survey results for the Crisis On this day, all intern assigned to encode the
+Management survey survey from the consumer and vendors. I learned
+that doing this will helped me to encounter some
+feature of google forms that I'm not familiar with. |
+realized that clerical works is very important to
+leam
+I started to implement the backend for the log in
+register. I learned the MySQL syntax again that |
+didn't encounter before. I realized that it's okay If
+mldkrw everything since technology is a
+Started the jobseeker dashboard fealures On this day I was assigned to implement the
+mboum.lbamm-lwhnanunmm
+need to display. I realized that I need to make this
+as simple especially the Ul
+Repub'sc of e Philipyes
+Manedo ortich 701 Bukidnon
+
+On this day, I refaclor some code, I leamed that |
+need to make the code easy to understand by
+the others developer. I realized that I need to
+maintain my code readable, reusable,
+maintainable.
+Added some data needed 1o display for the Dashboard) On this day, I implement the
+and
+malnlarl'nll:wodunofmum.luafiudm
+every bug is a oppurtunity to learn and
+mflwlumhwbmimmu.
+'Attend the Banog Banog Festival Openings
+On this day, I attended the Banog Festival
+upenings,!hamadmeknmmam ofa
+transparency in a local government. I realized
+that every projects is need to have transparency
+for a successful city.
+Repiin of e Pistgpnes
+Mot Fortch #5018 Rk sben
+Sigried. Raviewod by:
+Student Tralnee flz& w
+QJT G nator MGODH | PEJO Manager
+Repsni af g
+Ve Fiwrah &
+Porm b
+ON-THE-JOR TRAINING LOG SHEET
+Y 202
+e Jnrmos ven Febitas i
+Campary Pubihc Employment Service Office B |
+Week ' [
+Objective(e) for the week
+7 Selyemerge vontlich and continue the jebseeker featuee.
+Upskill 01 Gl Workfow 10 solve & merge On this day, we experience dferent problem 1
+cont when we tried to merge, After I upsiill, I leamed
+Peprtiic ot P paes
+Moo Perrkh 908 Pk aten
+Documentation
+
+Checkod the Spes examination result
+"On this day. I checked the Spes examination result
+learnod again the basic fundamentals In
+subject when I checked their answer, I realized thal
+this kind of clerical work is need to be accur;
+'whenever I'm checking their answers.
+{"Start 1o work on the my profie features On (s day, I tied 1o work on the my profl
+features. I started to work on the inform:
+needed by the admin. I realized that this data will
+needed and essential part of the feature to make
+transaction
+Start implement a Resume Builder
+On this data, I was assigned to build a resume
+builder. I learned that in making a resume builder that
+is easy to navigate for the user. I realized that this will
+helped the jobseeker to use it to their application
+Improve the Resume Builder structure On this day, I enhance the resume builder
+by following the harvard style resume. I realized
+Importance of the resume, since the market is
+saturated
+" the Py
+Mot et b S0 ok iy
+
+Added Rate limiting for the Al Chatbot On this day, I am assigned to make the chatoot
+have rate limiting. I learned that, this will lessen to
+'spam by the hacker since the free Gemini Api have|
+alimit per hour. I realized that this will be must
+essential for a system who have a chatbot features.
+1o make it useful by a user,
+I started to impement the Myprofile by
+automating it to make as a resume. I learned that
+this process will helped the jobseeker to lessen
+their worries when it comes to their resume. |
+realized that since it is automated it will boost
+Automate the My Pofile information into Resume
+Builder
+their productivity.
+Make the Resume choices in application On this day I was assigned lo implement the
+resume (o make it as an choices to thes
+application. I've leamed the some logic on how
+this will be process. I realized that this will benefits
+a lot the user when I successfully implement this
+feature.
+Pepuitine of the Mhilypincs
+Romibiic o e Phb
+NORTHERN RUKIDNON STATE COTLEGE
+Mot Femich 07 L e
+Form @
+
+Implement the apply jobs for job seeker On this day, I started to code the apply jobs
+where the user can apply based on the approved
+post by the administrator. I learned that these 3
+actors or module must need to be sync in order
+to make this work.
+Added Saved Jobs On this day, 1 implement the saved jobs icon
+where the jobseeker can see what he/she saved
+to locate their interest easily, this will helped them
+when they want to apply to that post soon.
+Added skill feature On this day, 1 applied the skill gaps where the
+l- e jobseeker will know what his/her lack skills base
+on the em| post, so he can upskill to
+improve and what are the mjust to be
+qualified.
+[ Mty
+' NORTHERN RUKIDNON STATE COLEEGE '
+vk 1 rikh Pk
+OJT Coordl MGDH | RS0 Manager
+Fepuitiic of e Phibippnes
+Fortich 70 Wb idnon
+
+Research about the email service provider that |
+can use for free.
+On this day, I do a research on what free email
+service provider should I chose. I decided to
+used the brevo service provider since it has a
+free 300 email limit per day. I leamed on how to
+set it up and implement this on code
+Implement the contact inquirt
+Connect inquiry to admin side and can also reply
+After I chose the brevo, at first I just connect it to
+Peso email. I leamed that this approach is not
+recommended, because it will cause unorganized
+and spam and email.
+On this day, I finalized this by connecting the
+inquiry to admin side. After I connect, I set up
+the brevo where the admin can answer the
+inquiry from jobseeker. I realized that this
+approach Is ideal to keep the system useful
+when the user have encounter some problem.
+SORTHERS BUKIDNOS STATE COLTEGE
+Student Tralnes
+Pepttic at e Fatipgree
+Mo Ptk 90 i afoon
+form
+
+[Eneode e Profiing information for the jobseeker |
+in PEIS system
+On this day, I helped my classmalas 1o encods fhe|
+profiing Information of the jobseeker. I learned that
+it Is important to be patience when encoding a lots
+of data. I realized that I need to laser focus on
+verifying the applicant info before I encode it to the
+PEIS database
+Checked the Jobstart apphcants from module 1 to
+On this day, I helped our HTE to checked the
+jobstart applicants module from module 1 to
+module 30. I learned on how to grades their
+answer based on the given criteria, I realized that
+it needs to have a lot of patience in chacking their
+answers
+Fix the Merge conflictin my branch
+On this day, I fixed the bugs in our code to
+improve the sytems effeciency and lessen our
+problems. I leamed to utiized some coding
+agents that I am not familiar with. I realized that
+everyday.
+Improve the job recommendation algorithm
+On this day, I spent my day on how the job
+recommendation will improve than before, |
+learned some techniques on how to implement my
+new changes to the system. I realized that I need
+fo be consistent when learning new things for my
+growth
+Repuiic of the Phlippres
+Manelo Fortieh, #3071 Buk idnon
+
+On this day, I encoded the profiling form data in
+PEIS system since this is urgent and needed in the
+office. I spend my whole day encoding the data
+Suddenly, there's no internet in the afternoon. so |
+take a break to lessen my stress.
+Encode the Profiling information for the Jobseeker
+in PEIS system
+On this day, I'm still trying to figure out the way on
+how to make the foms in OFW easy to use and
+how to implement the backend in the admin end.
+Since our output is currently not merge in all the
+branches. I'm trying my best on how we will debug
+all the merge conflict in our system.
+Continued the OFW module
+On this day, I know what are the processed on
+what are the role of association in a system. |
+started to brainstorm on how I will implement this
+in our current system and make it usable.
+Start the Association module
+Ropubtic of the Iiligpines
+Myobs Fortih 8700 Bobidnon
+Sighod
+Student Tralnes
+0JT Coor or
+Repeitic Sf the Phiippines
+Mok Fortich. 70% Bukidnon

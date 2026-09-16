@@ -1,0 +1,336 @@
+Set up my workstation for the development tasks.
+The workstation setup was beneficial in preparing
+me to work on the environment. I got to know ho
+development tools should be installed and
+configured to prevent problems in the project.
+Installed necessary software and tools needed for
+the project.
+Organized project folders and ensured the
+computer environment was ready for development.
+It helped in both enhancing my knowledge of thel
+fundamental networking principles like IP
+configuration and also in improving my practica
+knowledge, putting together computer hardware.
+had a pleasant experience on the integration of
+software and hardware.
+Assigned a task to convert an existing website into
+a mobile application.
+Performed IP configuration for network connectivity.,
+Assisted in assembling a desktop computer.
+The flutter framework setup has enabled me to
+learn the operation of the mobile development
+environments. I also got to know the significance o
+proper configuration ~ when embarking o
+developing the system.
+Started the mobile application project.
+Installed and configured the Flutter framework and
+development environment.
+Created the initial project structure.
+
+Continued developing the mobile application The exercise allowed me to realize how to organiz
+named Health N Wellness App using Flutter. the primary interface of a mobile app. Developing
+tabs and dashboards helped me to develop my skillg
+in creating Flutter Ul and navigating through the
+Created the main dashboard of the application.
+Implemented tab navigation for different sections of
+the app.
+Fixed several errors encountered in the application. [The errors that were troubleshooted enabled me to
+build my problem solving skills. I came to know that
+Performed troubleshooting to resolve coding issuesdebugging is a significant aspect of the development
+. process that is used to make sure that the
+Continued improving the dashboard design and application works accordingly.
+\ unctionality.
+Continued refining and improving the dashboard ~ [The enhancement of the dashboard contributed to
+interface. the fact that I became concentrated on making the
+application easier and more convenient. The other
+area I practiced was optimization of the layout so
+Adjusted layout elements and ensured the ihat it is easy to use.
+dashboard functions correctly.
+f Tested the mobile application on my personal Running the application in a live machine allowed
+4 phone. me to achieve problems that cannot be noticeable]
+when developing the application. It also made m
+. . : realise why it is necessary to test applications, prio
+Buitt the APK file for installation. to their release or upgrade in future.
+Fixed errors encountered during the APK build
+process.
+
+Presented the prototype of the mobile application tg
+the employees in the MIS Office.
+Received suggestions to add an admin feature to
+manage the application.
+Started developing the admin functionality for the
+mobile app.
+Developed API connections to link the mobile
+application with the web portal.
+Implemented data fetching from the web system
+to the mobile app.
+Continued building the admin panel.
+Fixed errors encountered in the system.
+Conducted testing to ensure proper functionality.
+Focused on troubleshooting backend-related
+issues.
+Performed quality assurance testing for the
+application.
+Identified several issues during testing.
+Fixed the detected errors to improve system
+stability.
+
+The process of working on the reports section
+A Customer Satisfaction Management System was Ienabled me to know the importance of clearly and
+created known as QRIAS. accurately presenting data in a system.
+he task also enabled me to enhance my technical
+abilities in building the features on the administration|
+ront and provided me with a more in-depth
+perspective of the uses of reports in monitoring the
+systems and decision-making.
+Worked on the reports section of the system that |
+am assigned on the side of the administration.
+Began systematizing the report attributes and
+display of data to the admin page.
+Further development of the reports feature on the
+CSM QRIAS system on the admin side.
+This day made me understand that it is
+time-consuming and attention-consuming to create
+reports.
+Enhanced the style and usability of the reports to
+render them easier and more convenient.
+I also got to know that with such a system even a
+minor mistake in the presentation of data can be the
+difference between a useful system and a useless
+one and that accuracy and thorough verification is o
+great concern.
+Checking the report outputs to determine that the
+information that was depicted was accurate.
+Went on with the reports section of the CSM
+he section of completing reports made me feel
+QRIAS system on the administration side.
+accomplished and proud of my work.
+Added the report features and completed
+required parts that I was assigned.
+I came to know that consistency and constant
+improvement is vital in making a system feature
+successful and effective.
+Verified the output of the reports to make sure
+that they were working well.
+
+1. To fix system errors and improve the functionality of the Online Services System.
+To perform quality assurance and ensure the system works properly.
+To create a user manual for better system usability.
+To implement an OTP feature using a GSM modem.
+Fixed errors in the Online Services System, This assignment enhanced my debugging abilities
+including 403 errors and merge conflicts. and made me familiar with the typical system errors.
+I also got to know the importance of designing user
+friendly interfaces particularly in the systems of
+public services.
+I got to know the need to test a system
+comprehensively before it can be deployed.
+Added a Citizen's Charter Ul for all offices of the
+LGU of Manolo Fortich.
+Performed quality assurance testing on the Online
+Services System.
+Quality assurance will assist in making sure that the
+users will experience a hassle free experience.
+Identified and fixed errors found during testing.
+The exercise made me get to know the system
+better.
+Started creating a user manual for the Online
+Services System.
+I also understood that documentation is essential
+to enable users to navigate the system with ease.
+Outlined the steps and instructions for using the
+system.
+The assignment familiarized me with the concept
+Configured a GSM modem to implement an OTP
+of combining hardware and software.
+(One-Time Password) feature for the Online
+Services System.
+I also got to know how OTP will provide an
+additional security layer, and a system will be
+more secure.
+
+1 T? develop and improve the Online Services System by creating a user manual and
+implementing suggested features,
+Started creating the user manual for the Online
+Services System.
+I got to know that good documentation is essential to
+ensure that the system is easily followed and used
+by the users.
+Outlined the basic steps and instructions for users.
+It was also helpful to present the system and get the
+valuable feedback of our HTE.
+Received suggestions and feedback for system
+I learned that other people have a lot of suggestions
+improvement.
+that can be useful in enhancing the system quality
+and usability.
+Continued working on the user manual.
+his assignment allowed me to work on my
+documentation and development skills.
+/Added new features to the system based on the
+suggestions from our HTE.
+I also got to know that when feedback is combined
+with continuous improvement, then you will be
+able to create a better and more effective system.
+
+This exercise made me realize the difficulties with
+ested the Online Services System together with ourfsystem deployment.
+HTE and employees. ] ]
+I was made aware of the significance of version
+lcontrol and configuration in order to prevent
+Deployed the system and identified errors related to [~ da i
+mistakes in a live environment.
+deployment and version control.
+The experience boosted my learning in networking
+Went to the gym in Manolo Fortich to set up a point [and systems set up.
+system for a pageant event. |
+I also got to discover how to properly set up devices
+and provide connectivity to use the real-time system
+during events.
+Configured the router, LAN cables, and switches.
+Quality assurance allowed me to enhance my
+Continued performing quality assurance on the skills in paying attention and solving problems.
+Online Services System.
+I understood that it is essential to keep on testing
+Tested system functions to ensure they were the system to make sure that the system is
+working properly. running properly and effectively.
+
+Improving the system contributed to my own
+echnical learning and my understanding of
+he value of system improvement to achieve
+a better user experience.
+Enhanced the Online Services System by improving
+some features and functionalities.
+Fixed several bugs and errors found in the Online
+Bug fixing taught me patience, attention to
+Services System.
+detail and problem solving techniques in
+handling system problems.
+Conducted Quality Assurance (QA) testing to
+identify issues and ensure smooth operation of the
+system.
+he importance of thorough testing and
+testing before deployment was understood
+by QA testing to prevent future problems.
+As I continued the testing process, my
+consistency, responsibility and efficiency in
+maintaining system quality increased.
+Continued QA testing and checked the system for
+additional improvements and possible errors.
+
+1.To enhance and improve mobile and web application systems.
+* 2.To develop dashboards and additional system features for ongoing projects.
+3.To contribute to the development of efficient digital platforms for organizational use.
+By making my mobile app better, I gained
+valuable experience in developing
+user-friendly systems and enhanced my
+development abilities.
+Enhanced the Wellness Mobile Application by
+improving its features and functionality.
+The dashboard development process was a
+wonderful way to enhance myself in both
+creative and technical aspects to make well
+organized and functional interfaces of the
+system.
+Started developing the TricabQR system and
+created its dashboard interface.
+The use of new features has given me an
+Continued developing the TricabQR system and understanding of the value of ongoing
+ladded additional features to improve its functionality,| development and testing in system
+development.
+During the process of working on another
+project, I gained further experience in
+system planning and gained an
+appreciation of the contribution of
+technology to the management of the
+environment and public service.
+Started a new project called MENRO (Municipal
+Environment and Natural Resources Office) - Solid
+\Waste Environmental Efficiency Platform.
+
+1.To continue developing and enhancing the MENRO system.
+2.To improve the user interface and functionality of the platform.
+3.To contribute to the development of an efficient environmental management system.
+Continued developing the MENRO (Municipal Continuing the development of the MENRO
+Environment and Natural Resources Office) - Solid Isystem improved my programming skills and
+aste Environmental Efficiency Platform. helped me understand the importance of
+lenvironmental management systems.
+Continued enhancing the MENRO system by Improving the system gave me an
+improving its features and overall performance. appreciation of system development and the
+need for ongoing improvements.
+Enhancing the Ul and functions allowed me
+Improved the MENRO system's user interface and s puild my creativity and problem solving
+added functional features. abilities and made the system more user
+riendly and efficient.
+hrough continuous improvements and
+Continued.e'nhan'cing the MENRO platform and esting, I gained a greater appreciation of
+ested additional improvements. attention to detail and was reminded of the
+value of providing system quality and
+reliability.
+N BN
+
+Creating a QA sheet and testing the system helped
+me improve my organizational and analytical skills in|
+identifying system issues and monitoring progress.
+Continuous QA testing taught me the importance of
+laccuracy, consistency, and thorough checking to
+lensure system reliability and performance.
+Presenting the system improved my
+communication and presentation skills while giving
+me confidence in explaining the project's features
+and purpose.
+IApplying suggestions and presenting the MENRO
+system helped me understand the value of
+feedback in improving systems and meeting user
+needs effectively.
+
+ol Continued enhancing the Tricab QR System by Enhancing the system helped me further develop
+wg improving its features and functionality. my technical and problem-solving skills in system
+: development.
+B Completed Quality Assurance (QA) testing and Conducting QA and preparing for the pll'esg'ncafion
+prepared the system for presentation. taught me the importance of system reliability,
+preparation, and attention to detail.
+E Preparing and testing the system before
+: Prepared the Tricab QR System for presentation to [presentation improved my confidence and showed
+he MFRTA and conducted final testing. me the value of thorough system checking.
+Presenting the system enhanced my
+Presented the Tricab QR System to the MFRTA. [communication and presentation skills while
+; helping me gain experience in explaining project
+i features and objectives.
+' : Creating the user manual and preparing the
+Created a user manual for the Tricab QR System system for turnover taught me the importance of
+and prepared the system for turnover. proper documentation and ensuring that users can
+easily understand and operate the system.
+Munolo Fortich, 8703 Bukidnon
+vonmf #
+
+tarted working on a new project called TaxMap and|[Working on a new project helped me gain additional
+began enhancing its features and functionality. experience in system development and understand
+he importance of improving existing systems.
+ontinued developing and enhancing the TaxMap
+Isystem.
+IContinuous enhancement improved my technical
+iskills and taught me the importance of consistency
+in completing development tasks.
+Enhancing the system helped me improve my
+problem-solving abilities and attention to detail in
+isoftware development.
+Improved the TaxMap system by adding and
+enhancing features for better functionality.
+ontinuous testing and development helped me
+realize the importance of maintaining system
+quality and ensuring that features work properly.
+Continued working on the TaxMap project and
+ested additional improvements.
+T N /1
+OJ'I: oordinator
+
+1.To complete all remaining OJT requirements and documentation.
+2.To organize and prepare work-related files for project turnover and completion.
+athered and completed the necessary ompleting the requirements and organizing my
+equirements for the OJT program and organized files taught me the importance of proper )
+iles on my computer. documentation, file management, and preparation
+ompleted the final day of the On-the-Job inishing my OJT allowed me to reflect on the
+raining program and finalized pending tasks. knowledge, skills, and experiences I gained
+hroughout the training. It helped me become more
+onfident, responsible, and prepared for future
+professional opportunities.

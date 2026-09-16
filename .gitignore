@@ -1,6 +1,4 @@
 __pycache__
-_*
-!_test_results
 !__init__.py
 .venv/
 models/

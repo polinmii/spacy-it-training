@@ -1,0 +1,454 @@
+Consulting with teammates regarding ideas on
+Vehicular Record Expiration Alert System.
+Assisted the team in determining potential
+features of the system.
+Examined the available vehicle records in Excel.
+Allowed us to know the way the office sets up
+their data.
+Noted the process of vehicle records monitoring
+and tracking by the staff.
+Demonstrated a necessity of a more effective
+monitoring system.
+Considered the idea of the system with the GSO
+staff.
+Their ideas contributed to the perfection of the
+system concept.
+Began to design the fundamental capabilities and
+functions of the system.
+Planning assisted in preparing the process of
+development.
+Observed the way updates on vehicle records are
+managed by the personnel.
+Assisted us in learning about the office process.
+Helps out with office work, when necessary.
+Aided in becoming responsible and flexible within
+a workplace.
+Shared ideas and progress with teammates.
+Collaboration made it easier to finalize ideas and
+solve issues.
+Consulting with teammates regarding ideas on
+Vehicular Record Expiration Alert System.
+Assisted the team in determining potential
+features of the system.
+
+Brainstormed with the team members on how to
+improve the system.
+It assisted us in coming up with more ideas.
+Scanned the office vehicle records in Excel.
+We learned the way their data is brought
+together.
+Developed the expiration alert pop-up.
+Automation has the potential to minimize manual
+checking.
+Worked with the system with sample expiration
+dates.
+Testing makes sure the system is working.
+Discussed the system with GSO personnel.
+We developed based on their feedback.
+Discussed progress of the system with
+teammates.
+Collaboration eased the task.
+monitored the tracking of records of vehicles by
+staff.
+It demonstrated the necessity of automation.
+Enhanced the system to minimize manual
+checking of the files.
+The system will facilitate their work.
+Tried to follow the instructions of the staff when
+they were given tasks to do.
+The instructions helped us to do things properly.
+Interacted and communicated with employees at
+work.
+The workplace is positive and welcoming.
+Assisted in the minor office work whenever
+needed.
+These assignments have taught me about
+workplace responsibility.
+
+Further improvement of the GSO system, turning
+it into a single-purpose application.
+Experienced the actual process of realizing an
+idea into a software product.
+Introduced new functional modules to manage
+vehicle tracking and record tracking.
+Improved system design and modular
+programming abilities.
+Used Ul enhancement to have a clean and more
+convenient interface.
+Knowledge How to design to enhance usability
+and user experience.
+Task and vehicle notifications that are integrated
+and automated.
+Further knowledge of event driven programming
+and responsiveness of a system.
+Verified the system using sample data to verify
+that updates and notifications are accurate.
+Offered practical checking of functionality and
+efficiency of the system.
+Received instructions regarding allocation of
+tasks, deliveries and collections on the call of
+coordinators.
+Used real-life experience of working with features
+of systems and responsiveness to the needs of
+users.
+Performed repeated debugging to get issues on
+the Ul and functionality resolved.
+Development enhancements in problem-solving
+ability and detailing.
+Renovated the database structure by adding new
+features and ease of operation.
+Acquired skills on database management and
+data integrity.
+Feedback gathered amongst staff using the
+I system in simulating.
+Assisted in the identification of usability problems
+and setting the priorities on further improvements.
+Developed a brief progress report in order to
+record tasks accomplished in the development.
+Acquired technical communication skills and
+monitored the project.
+
+Continued working on the system to complete the
+remaining parts.
+Learned how important teamwork and
+consistency are in finishing a project.
+Improved the Ul to make the system cleaner and
+easier to use.
+Realized that a simple and organized design
+helps users understand the system better.
+Fixed responsive issues so the system can adjust
+on different screen sizes.
+Gained knowledge on making systems more
+flexible and accessible.
+Corrected errors in reading data from Excel for
+more accurate results.
+Improved my skills in checking data accuracy and
+solving technical issues.
+Tested the system functions to make sure
+notifications and records work properly.
+Learned the value of testing to avoid errors during
+actual use.
+Fixed bugs and coding issues found during
+development.
+Enhanced my problem-solving skills and patience
+in debugging.
+Organized system modules and features for
+smoother performance.
+Understood that proper structure makes a system
+easier to maintain.
+Applied requested changes and improvements
+based on user needs.
+Realized that listening to users is important in
+developing useful systems.
+Assisted in paperwork tasks and preparation of
+office documents.
+Learned the importance of responsibility and
+accuracy in handling documents.
+Helped in printing booklets and other needed files
+in the office.
+Gained experience in office support tasks and
+managing printing work properly.
+Finalized unfinished parts and polished minor
+details of the project.
+Learned that small improvements can make a big
+difference in the final output.
+
+Continued developing the system and finishing
+the remaining parts
+Learned that system development takes time
+because every update needs to be tested
+carefully.
+Conducted testing whenever new features and
+functions were added to the system.
+Realized that continuous testing helps prevent
+errors and improves the system performance.
+Fixed system errors and coding problems found
+during testing.
+Improved my problem-solving skills and became
+more patient in debugging issues.
+Enhanced some system features and adjusted
+parts that needed improvements.
+Learned the importance of improving the system
+step by step to make it more reliable.
+Continued checking the system records and
+notifications to ensure they function properly.
+Understood that accuracy is important to avoid
+mistakes in the system.
+Worked on improving the layout and organization
+of the system interface.
+Realized that a clean and simple design makes
+the system easier to use.
+Assisted in preparing and organizing office
+documents and paperwork.
+Learned the value of responsibility and proper
+document handling in office work.
+Helped deliver and retrieve papers from other
+offices when needed.
+Developed communication and coordination skills
+while handling office tasks.
+Assisted in printing documents and other office
+files.
+Gained experience in managing office support
+tasks properly and efficiently.
+Continued balancing system development tasks
+together with office responsibilities.
+Learned how important time management and
+teamwork are in handling multiple tasks.
+Finalized unfinished parts and continued checking
+for improvements in the project.
+Realized that patience and consistency are
+important in completing a quality project.
+
+Continued working on the system and reached
+around 80% completion of the project.
+Understood the necessity of testing to prevent
+errors and for a smooth operation of the system.
+Regularly tested the system while adding and
+enhancing features.
+Learned to be more patient and problem-solving
+when debugging the system.
+Addressed some errors and issues identified
+during development.
+Understood that a simple and streamlined design
+reduces the complexity of the system.
+Continued improving the design and arrangement
+of the system interface.
+Learned to work in an office and to interact with
+various offices.
+Supported the delivery of papers and documents
+to the Budget Office, HR Office and other offices.
+Understood the need for proper handling and
+organization of documents in an office
+environment.
+Helped organize and prepare office documents
+and paperwork.
+Understood how to handle the printing jobs
+effectively and thoughtfully.
+Helped print documents and other office supplies
+as necessary.
+Improved my skills in using Excel for organizing
+data and information.
+Created and updated Excel files for office records
+and reports.
+Understood the importance of time management
+and responsibility in managing several tasks.
+Ongoing development of the balancing system,
+along with office work.
+Understood the importance of continuous
+improvement to make the system better and more
+reliable.
+
+Assisted in handling office papers and documents
+for different office transactions.
+Learned the importance of proper document
+handling and organization in office work.
+Continued encoding and updating vehicle data
+records using Excel.
+Improved my skills in data entry and using Excel
+for organizing records accurately.
+Troubleshot computers and resolved minor
+technical issues in the office.
+Learned how patience and problem-solving are
+important in fixing technical problems.
+Assisted in troubleshooting printers, reconnecting
+devices, and refilling printer ink.
+Understood the proper maintenance and handling
+of office equipment and printers.
+Continued improving and finalizing the system
+based on requested changes from the office.
+Learned that systems should continuously
+improve based on the needs and suggestions of
+users.
+Added new features and enhancements
+requested for the system.
+Understood the importance of adapting and
+developing features to make the system more
+effective and user-friendly.
+Performed multiple office and technical support
+tasks while continuing system development.
+Improved my time management, responsibility,
+and ability to handle several tasks at the same
+time.
+
+Performed a testing of the system with the users
+to assess the functionality and usability of the
+system.
+Learned the importance of user testing in
+identifying improvements and ensuring the system
+meets user needs.
+Culled input and recommendations from the users
+for further improvement of features and changes
+of system.
+Understood that user feedback is essential for
+improving the quality and effectiveness of the
+system.
+Continued developing and improving the system
+based on the requested revisions and updates.
+Improved my problem-solving and programming
+skills through continuous system enhancement.
+Helped with office paperwork and document
+related tasks.
+Learned the importance of responsibility and
+proper handling of office documents.
+Solved technical problems with computers,
+printers and other office equipment.
+Improved my technical skills and patience in
+resolving hardware and software problems.
+Assisted with arranging office furniture by
+decorating new chairs, tables and printers with
+stickers and labels.
+Understood the value of proper organization and
+inventory management in maintaining office
+equipment.
+Handled office and technical duties, and carried
+on with system development process.
+Improved my time management and adaptability
+in handling different responsibilities in the
+workplace.
+
+Continued developing and improving the system.
+Learned the importance of continuous
+improvement and testing during system
+development.
+Assisted in transporting and organizing bond
+papers from the warehouse.
+Understood the importance of proper handling
+and management of office supplies.
+Assisted employees with printing and
+photocopying documents.
+Improved my communication and service skills
+while assisting office personnel.
+Rotated tasks with Mj and Zyrel to support daily
+office operations.
+Learned the value of teamwork, cooperation, and
+adaptability in the workplace.
+Performed office errands and other assigned
+tasks.
+Developed responsibility and initiative in
+completing assigned duties.
+Assisted in troubleshooting computers and
+printers when needed.
+Enhanced my technical and problem-solving skills
+through hands-on experience.
+
+Made improvements to the system, resolved bugs
+and implemented desired features.
+Understood and learned how to make systems
+adapt as per feedback and needs.
+Assisted in printing records and office documents.
+Developed better office document handling
+abilities to ensure accurate and efficient handling.
+Assisted in labelling office equipment and
+furniture.
+Recognized the value of good office asset
+organization and office asset identification.
+Sent and received papers from various offices.
+Learned appropriate procedure for treating and
+routing official documents.
+Supported in the arrangement, organization and
+locating of office files.
+Learned to be more organized and attentive to
+detail in maintaining files.
+Carried out tasks and errands instructed by office
+staff members.
+Become more responsible, flexible and able to
+work in a team in their working environment.
+
+Arranged, sorted and stapled office paper as
+directed.
+Learned the importance of proper document
+organization and record management.
+Made and affixed stickers to units and equipment
+in various offices.
+Recognized the importance of good labeling and
+inventories.
+Final tested and validated the system prior to
+deployment.
+Understood the importance of comprehensive
+testing for reliability and functionality of the
+system.
+Showed the users the finished product and how it
+works.
+Developed communication/presentation abilities
+and skills through user demonstrations.
+Assisted in troubleshooting printer-related issues.
+Developed technical and problem solving skills in
+operating office equipment.
+Guided employees on how to set up and connect
+printers.
+Developed to effectively share technical
+knowledge/assist user.
+
+Created and attached name stickers for office
+folders and records.
+Learned the importance of proper labeling and
+organization of documents.
+Assisted in delivering documents and obtaining
+signatures from different offices.
+Understood the proper process of routing and
+handling official documents.
+Encoded reports and office records using Excel.
+Improved my accuracy and efficiency in data
+encoding and record management.
+Set up and configured a new printer for office use.
+Enhanced my technical skills in installing and
+configuring office equipment.
+Installed and deployed the final version of the
+system for the users.
+Learned the importance of proper system
+implementation and user readiness before
+deployment.
+Assisted in the initial planning and development of
+a new system project.
+Understood the value of project planning and time
+management when handling multiple tasks.
+Continued supporting daily office operations and
+assigned tasks.
+Developed greater responsibility, adaptability, and
+teamwork in a professional environment.
+
+Continued developing and testing the office Learned the importance of continuous
+system. improvement and system testing.
+Assisted in routing and processing office Understood the proper handling of official
+documents. documents and office procedures.
+Performed assigned office errands and support Developed responsibility, adaptability, and
+tasks. teamwork in the workplace.
+Organized and maintained office records and Improved my organizational skills and attention to
+files. detail.
+Assisted in troubleshooting printers and other
+office equipment.
+Enhanced my technical and problem-solving skills
+through hands-on experience.
+Assisted with printing and other administrative
+tasks.
+Learned the value of providing efficient support in
+daily office operations.
+
+Ongoing work on an inventory system to be used
+for office file management and access.
+Developed an understanding of the need to
+establish systems to enhance file organization
+and access in the office.
+Collaborated on the completion of the system,
+even though some technical challenges were
+faced during system development.
+Understood the challenges of system
+development and the need to adapt when
+resources are limited
+Completed stickers set-up and attached as
+required by the office.
+Understood the importance of good labelling and
+stock control.
+Carried and sent out documents to various offices
+such as the Mayor's Office, Accounting Office,
+Budget Office, and other offices
+Developed office skills and understanding of
+official documents.
+Helped arrange and file office documents and
+records.
+Developed better organisation and attention to
+detail in managing documents.
+Continued performing assigned office tasks and
+errands as needed.
+Became responsible, flexible and good team
+players in completing day to day office work.

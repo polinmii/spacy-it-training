@@ -1,0 +1,504 @@
+I spent my amount of time double checking the
+names on the spreadsheet and for instance, if |
+||| send out the wrong email address for a student
+|| wha have no parent's consent, they're are going
+ito, receive their pass even without the consent, so
+Idata needs to be solid from the beginni
+This way I was able to identify which emanls that
+bounced and which failed before the students
+|| | 'received their token in the mail.
+i also watched the automation script running so
+|| that]l vill see where I will need to be able to
+{ Immedlately address any litle errors so I can
+i prevenl holding up the whole process for
+else,
+1] kept tmck of the reasons for student scanning
+' failures or delays such as poor lighting or having a
+crack l'h their phone screens and sometimes it can
+I be hard lur the camera to capture a scan. Theres
+\scan are unknown students or invalid tokens.
+[ When numerous users hit "SyncTM simultaneously,
+I\ the systcm simply could not keep up with
+p Dcessmg each and every scan one at a time
+B and it was clear that sending each individual scan
+vmuld put a tremendaus load on both the server
+|| 'and the connection.
+I j ] changed the function to balch saving so rather
+i lh'a'rl sending each scan as an individual request
+I the! system saves all data to local storage and
+scnds at! once. Sending one large request for data
+I s much mare efficient than sending many small
+requests It also prevents the system from
+lrcczmg up when there are lots of requests
+'coming through at the same time.
+I added a feature that will shaw how many scans
+are \vallmg 10 upload, allowing the user to know
+\when they can mave to the next step of the
+process.
+I test sync now button that would only be enabled
+when there was new data available for syncing.
+Verified student Ils\\wnh parents' consent nd |
+tested GmauIApp scrlpt to ensure au 0 mafls \Mzre pmpe'rly r'ommatled [AAA
+'Atlempted m sym: theIr data all a
+Isystem, khesystem was unable to
+S "and thercfbrcf lagging a
+lupublic of Ihe Philippines
+Munolo led. 8703 Bukidnon
+Nm-' 'm.g/.mmu Vitag, Phuctae a Do
+Create a secondary back
+accidental dota loss. i;
+! AR
+1 created a copy the data to prevent when
+someone accidantally deletes a row in the sheet
+that has been shared with others.
+There were many students who had problems
+I because thelr QR code Is still yellow when they
+I already sent the consent, so while tracing back |
+|| discovered that certain emalls did not send a new
+|| QR code. I listed their name and send them a new
+JAALAAAAL | QR code.
+Fmalized the bah:h sync and implemnent | When the Intemet disconnects in the middle of
+| *' i | | I lactive internet connection before sitempting to
+| ; | \upload again automatically now the users can be
+Wanted to use the scanner t record dat.
+and transfer it to the web\ap \Ufiro:tunately. the
+scanner had been disabled by Google be aus
+had already reached its qunla'fnr hsni'g the
+! cameramtheweb}a I \'l i i i
+| I i | \ il
+! 'secme that the scanner will finish the action
+' tomatically reqardess of the Wi-Fi incident.
+It was a bit of reality check to see that the scanner
+I was, blocked when we needed it the most of the
+|| on the last day of the foundation day, I leamed
+
+I planned out the system requirements for the Lost
+'and Found Management System,
+To begin developing the system, I mapped out the
+features that would be needed like losing items,
+submitting found items, claiming items, and an
+admin dashboard to manage everything. Along
+with this mapping, I did some research of the
+general layout of the app and then I decided on
+the technology stack, React and TypeScript will
+be used for the frontend and using PostgreSQL as
+the underlying database and Tailwind CSS will be
+used for styling.
+I created both the front-end with Vite and React,
+and TypeScript, as well as the back-end using
+Express and TypeScript. I installed all of the
+required libraries, such as RTK Query for API
+state management, react-hook-form to manage
+forms flowbite-react for Ul components and reacttoastify for notifications. I configured Prisma and
+linked it to a PostgreSQL database running
+locally. The directory structure was set up in a
+clean format ready for development at the end of
+that day.
+1 built a model for each User, Lost Item, Found
+Item, ItemCategory, and Claim. I also added
+optional userld fields to most of the models, as
+this allows students without an account to submit
+an item report by using an anonymous login. |
+also tested the login and registration endpoints to
+ensure functionality.
+1 developed API routes for managing lost and I built the core API routes for managing lost items
+found items. and found items and I also configured a separate
+public for reporting found items in cases when a
+student reports a lost item but does not want to
+create an account/laq into the system to do so.
+I started building the front-end pages this includes
+the main navigation, the home page with the
+banner section, as well as the listing pages for lost
+and found items. Each listing page has cards that
+list the item name, description, date, location, and
+status badge. I also tested all pages for
+responsiveness on many different devices.
+Creating both Igst and the found item detail pages
+and a page for single lost items contains an image
+carousel to show description and a place for
+I created a project using Vite and Express. |
+added the base dependencies and added a
+connection to a local PostgreSQL database
+through Prisma, and initialized everything.
+I designed the database schema with Prisma
+(User, Lostitem, FoundIitem, Claim madels).
+1 created the responsive item cards displaying
+descriptions, dates, and status badges. -
+I created a claim submission form and single-item
+detail pages with its picture also added felds for
+
+Redesigned the admin dashboard with a live 1 rebuilt the dashboard layout so that the users vill
+activity feed, pending claims panel, stat cards with I have a more intuitive view of the system. |
+hover effects, and quick action buttens. implemented stat cards showing totals for lost,
+found, and claimed items with smoath hover
+animations. I added a live activity feed so that
+they can view the recent submissions and a
+pending claims panel so the admin can
+immediately see items needing attention. Quick
+action buttons were also added for the most
+common admin tasks to speed up daily workflows.
+1 updated the logic that determines the status of a
+claim to ensure it transitions correctly between
+pending, approved, and rejected phases. I also
+improved the search feature to more accurately
+return relevant matches when users describe
+items in natural language improving retrieval
+quality. Shmim
+I fixed an issue within the database where some
+lost & found images were not showing correctly on
+_an individual item detail page. The problem was
+~due to improperly constructed URLS for the stored
+-images. By fixing the path for images, they now
+show up correctly in each detail view.
+1 built the core API rautes for managing lost items
+I and found items and I also configured a separate
+public for reporting found items in cases when a
+-| student reports a lost item but does not want to
+- create an account/log into the system to do so.
+I'added a Reporter Name field to both the lost and
+-found item submission forms and the underlying
+"database tables. The Reporter Name field will
+- I allow user-to identify who submitted each report. |
+~_|-also addressed broken frontend form validation
+- |-compared to what the backend APl was expecting
+and made Ul improvements including better
+spacing, cleaner status badge and more
+consistent icon usage.
+I made some changes to the admin dashboard.
+|-The new metrics are the disposal rate, or
+"percentage of items disposed of, resolution rate
+for accounts with claims resolved against them,
+and a veekly statistics panel that shows how
+Improved the claim status Iogicrand the search -
+bar with logic to better match lost and found items.
+Fixed the image display issues on the -
+SingleFounditem and SingleLostitem detail
+pages. - =
+Allowed students to submit lost and found reports
+without requiring authentication. = S
+Added a reporter name field, fixed !ionrlerld;andr
+backend logic inconsistencies, and improved the
+overall Ul. s, e
+Updated the dashboard by adding dispasal rate,
+resolution rate, and weekly statistics panels.
+
+limproved the login page Ul to make it look more
+professional and user-friendly.
+I moved the email sending logic from the Lost
+Items management to the Found Items
+management side of the admin dashboard.
+I improved the dashboard pages Ul and worked
+on several fixes across multiple dashboard
+sections.
+I added a schoolEmail field to the Founditem
+model and updated the admin table to display it.
+After working on the backend for several weeks,
+shifting to frontend improvements felt
+refreshing. I noticed the login page felt outdated
+so I updated the layout and styling to better
+match the rest of the system.
+The original placement made no sense because
+email alerts are triggered when a found item is
+logged, not when a lost report is filed. So I move
+it to the correct module made the flow much
+more logical and easier to maintain.
+There were inconsistencies in the layout across
+the admin pages that were bothering me for a
+while. Fixing them one by one made the whole
+dashboard feel a lot more polished consistent.
+I realized that admins had no way to see the
+reporter's school email from the found items
+table. Adding this field made it much easier to
+contact reporters directly without having to dig
+through other records.
+I replaced all native date inputs across the
+application with a custom CustomDatePicker
+companent.
+limplemented the interactive campus heatmap
+with location autocomplete. Built a Leaflet-based
+map that visualizes item density across campus
+locations.
+I implemented the automated smart matching
+system and email notification pipeline. The
+system now automatically compares newly
+reported items against existing records and sends
+email alerts when a high-confidence match is
+found.
+The native browser date picker looks different on
+every browser and operating system, which was
+causing inconsistency in the Ul. Building a custom
+one gave us full cantrol over the appearance and
+it now looks the same everywhere.
+Getting the heatmap to render correctly with real
+data took some time. I had to aggregate item
+counts per location and map them to
+coordinates. Seeing the hotspots light up on the
+map for the first time was very satisfying and |
+think it will be really useful for the admin team.
+Wiring together the matching logic, the
+controller, and the email service required careful
+coordination. I fixed a bug where the
+SMTP_FROM_EMAIL was hardcoded instead of
+reading from the environment variable, which
+would have caused issues in production.
+
+I added a portal display on TV fealure for lost and
+found items and improved its visual deslgn i
+T,y reFLECTIONS:
+1 bullt a dedlcaled portal display page designed to
+'through recent lost and found items automatically.
+' I then Improved the layout with better typography,
+Iarger images, and polished slide transitions. It
+||| was exciting to see the system extended beyond
+|/ thie browser into a physical display that students
+111, I walking past can/benefit from.
+I added a header to the portal dlsplay with the ''l]| I added a Header bar to the portal display shawing
+current time, date, live wealher. and the school I cur'r'enl'ume, date, and live weather fetched from a
+i I weather AP, I also added the school loga to make
+il the'd:sp!fly look official and properly branded. At
+|| I first weather data was not loading consistently
+'duefto API response delays, but I added a loading
+. '[qll'back 50 the header always renders even when
+'weatherIdata s slow.
+I rede5Igned the QR code slide within the portal
+splay to look more professional with a clear calltolaction, better spacing, and branding elements. I
+alsa fixed a Iayoul bug where the portal header
+was overlapplng slide content on certain screen
+sizes, whlch 1 resolved by adjusting the top
+padding of the slide container to account for the
+fixed header height.
+In addition to the header 1 added inline date. time,
+and weather vidgets within certain portal shdes. |
+also made general impravements Includlng
+smoother slide transitions, better font sizing for
+readability at a distance, and improved spacing
+between content elements to make the display
+casier to read from across a room.
+1 built 3 Goagle Sheets logging integraton that
+automatically records new lost and found item
+submissions to a shared sheet for record- kccpmg
+The initial version had issues where certain fields
+were going to the wrong columns, which |
+debugged by logging the payload and comparing
+it against the column definitions. After several
+fixes the data was recording accurately.
+Timplemented an auto-fill feature that pre-fils
+related form fields based on the selected ttem
+category. reducing manual input.
+logo. i
+1 enhanced the portal QR code slide with a
+professmnal design and fixed the header cwerlap'
+issue. i il
+I added date, time, and weather to the partal
+display and improved the overall portal page.
+1 implemented a Google Sheats logger and fixed
+data display issues with how item data is mcordcd
+to the sheet.
+T added a custom category auto-fill feature with a
+new device category and lixed category display
+on item cards.
+
+Timplemented the Al Scan feature using Gemini
+2.0 and stabilized the Masterlist with Axios while
+I resolving port conflicts.
+This was one of the more complex features |
+worked on. I integrated Gemini 2.0 into the item
+scanning workflow so that the Al can analyze
+scanned item images and generate descriptions
+automatically. Getting Gemini 2.0 working
+required upgrading the API client and adjusting
+how prompts were structured. Resolving the port
+.conflicts on the development server was
+frustrating at first, but after changing the
+configuration the services ran cleanly side by side.
+_ | Tupgraded the Gemini model to Gemini 2.0,
+stabilized the Masterlist, and resolved a
+- | Founditems page crash.
+After the initial Al Scan integration, I found that
+some edge cases were still causing the
+[Founditems page to crash when the Masterlist
+Idata was unavailable. I traced the crash to an
+I unhandled promise rejection and added proper
+error handling and fallback states.
+"1 updated the scan button design and refreshed
+the dropdown design in the admin dashboard.
+I redesigned the scan button to be more visually
+prominent and easier to tap on mobile. I also
+|| updated the dropdown menus throughout the
+|| admin dashbaard to have a cleaner, more
+consistent style with better spacing and hover
+states. These changes were small individually but
+made the admin interface feel noticeably more
+olished overall. I
+1 updated the user cards an the admin users page
+and fixed a drapdown cut-off issue. |
+|1 redesigned the user cards an the admin users
+page ;ljo display more information at a glance,
+including the user role and account status. I also
+fixed a bug where dropdown menus on the users
+page were being clipped by the card overflow
+settings, which made some options inaccessible.
+After adjustingjthe overflow and z-index values
+the dropdowns displayed correctly.
+1 added an achievement showcase and rarity
+indicatars to the student achievement system,
+I built an achicvemnent showcase section on the
+student prafile where earned badges are
+displayed with their rarity tier indicated visually
+using color-caded labels. I categorized
+achievemnents into common, rare, epic, and
+legendary liers. Seeing the showcase come
+logether with proper rarity colors made the
+gamitication element of the system feel much
+mare engaging and rewarding for students.
+
+The analytics pages were loading noticeably
+I slowty because each chart and stat card was
+I making separate API calls that pulled overlapping
+I data.I'refactored the data fetching logic to use a
+unified claims dataset that is fetched once and
+shared across all the analytics components, which
+significantly reduced the number of redundant
+requests.
+"Even after unifying the frontend dataset, the
+adminStats endpoint itself was still running
+I expensive database aggregations on every
+request. I added an in-memory caching layer on
+the backend so that the aggregated stats are
+I computed once and cached for a short period,
+Iserving subsequent requests from memory
+instead of re-querying the database each time.
+Over the course of the project, several temporary
+migration scripts and diagnostic utilities had
+"accumulated in the codebase that were only
+needed during early development or debugging
+sessions. I went through and removed all of these
+safely, making sure none of them were still being
+referenced before deleting them
+I noticed that the icon buttons in the topbar were
+using inconsistent border-radius values, with
+some being raunded rectangles and others being
+circular. I standardized all of them to rounded-full
+for a more consistent and modern appearance. 1
+also updated the calendar icon color on the
+analytics page ta match the export button.
+There was ongaing confusion in the
+documentatan about the difference between the
+SmartMatch feature and the Al Recommender.
+since both involve: Al and matching but serve
+different purposes.
+I restored the browser DevTools detection feature
+that had been removed in a previous cleanup.
+since it provides a usetul deterrent against casual
+inspection of the system in standalone mode.
+However, I also added a check to disable the
+detection entirely when thes app 1s embedded
+within the SAS portal iframe, because the portal
+ACTIVITIES: | | | |||
+I optimized the analytics stats loading speed and
+unified the claims dataset across the admin'
+dashboard.
+I added in-memory caching to the adminStats AP|
+endpoint to improve performance.. i
+I removed temporary migration and diagnostics |
+scripts and cleaned up leftover development
+artifacts.
+I unified the topbar navigation buttons to use
+rounded-full styling and updated the calendar icon
+calor in analytics.
+I updated the README with the Smart Match
+versus Al Recommender distinction and updated
+the system architecture documentation.
+I restored DevTools detection but disabled it when
+the app is embedded in the SAS portal iframe.
+
+: : REFLECTIONS:
+1 aligned the TrackClaim layout and search bar - | I noticed that the TrackClaim and ItemStatus
+size to match the existing ItemStatus page design. I pages had inconsistent layouts and search bar
+- = = i == sizes, which made the two pages feel
+- - disconnected even though they served related
+- purposes. I updated the TrackClaim layout and
+e -reduced the search bar size so that both pages
+~ I looked visually consistent with each ather.
+I merged the TrackClaim and ltemStatus pages - | Instead of keeping two separate pages that users
+into a single unified Tracking Center and * I had to navigate between, I decided to merge
+enhanced its layout for a more professional _TrackClaim and itemStatus into a single unified
+appearance. T e "- | Tracking Center page. The merged page allows
+. _users to switch between tracking a claim and
+checking an item status using a toggle, which is a
+= - "much more intuitive experience.
+I refactored the mobile search bar-layout to "The accordion transition on mobile required mare
+achieve a perfectly smoath accordion transition.__ I wark than on desktop because the available width
+5 matthe - [-was much narrower and the elements were
+-|- stacking differently. After several iterations 1 was
+-satisfied with how the transition felt on a phone
+I enhanced the auto-sync feature to include: _| 'extended the Gaogle Sheets auto-sync feature
+Feedback records and update user names o I to also export Feedback submissions so that all
+" - I userfeedback is automatically logged to the
+-shared sheet without manual intervention. I also
+_| added logic to retroactively update the user's
+_name field on past records that were submitted
+: _anonymously before the name field was
+- = = I introduced. -
+Ifixed the indoor map ta retrieve all active'items - | I discovered that the indoar map was only fetching
+acrass all pages instead of only the first page of - |-the first page of active lost and found items from
+results. e e - Ithe API, which meant that items beyond the first
+: : 5 -|-Page were never appearing as map pins even if
+= ~ I they had valid location data.
+1 added lost and found type badges to the active | I added color-coded Last and Found badges to
+reports list in the indoor map room details panel.- I each item listed in the room details panel of the
+- - .indaer map. so that users can immediately tell at a
+= -| 'glance whether a reported item in that room is a
+lost report or a found report without having to read
+the full description. The badges matched the color
+scheme used elsewhere in the system, with red
+for lost items and green for found items, keeping
+the Ul consistent.
+Repubisc of the Pl ippmes
+Manolo Fortich. 703 Buindeon
+
+| R REFLECTIONS:
+1 styled the Al assist cards on mobile to have a I spent a good amount of time refining the layout
+horizontal flex row layout and fixed button sizing I of the Al assist cards on mobile viewports. The
+and spacing. 4 buttons inside the side-by-side cards were
+I i misaligned and taking up too much space, so |
+'| enforced a horizontal flex row layout and shrunk
+the action buttons to better fit smaller screens. |
+also removed the vertical gap between the
+descriptions and the buttons, which made the
+cards feel more compact and intentional. It took a
+Seet "few reverts and iterations before I was satisfied
+\ with how it looked across different screen sizes.
+1 completely removed the Al voice-report assistant. | After evaluating the voice-report assistant feature,
+feature and its endpoints from the frontend.. . * | I decided it was adding unnecessary complexity
+; el : and was not reliable enough to ship. I removed all
+related components, AP calls, and backend
+endpoints cleanly from the frontend codebase. It
+ywas important to do this removal carefully to avoid
+leaving dead imports or broken references, so |
+i traced every usage befare deleting.
+I fixed react-hook-form validation to trigger ; There was a usability issue where required field
+.immediately when student details are fetched or I errors were still showing on the form even after
+scanned. I student details had been auto-filled by scanning or
+} fetching. This was because react-haok-form was
+nat re-validating after the programmatic setValue
+calls. I fixed it by triggering validation explicitly
+after the data was populated, which cleared the
+field errors immediately and made the form feel
+I much more responsive.
+I added retry queuc and batch processing limproved the offline-first submission system by
+feedback for offline item submissions. adding a visible retry queue that shows users how
+i ! ; many pending submissions are queued and
+actively being retried. I also added batch
+processing feedback so users can see when a
+batch of offfine reports is being synced, rather
+than having the pracess happen silently in the
+I background. This made the oftline experience feel
+; much more transparent and trustworthy.
+Hixed student fetching to be more resilient and The student fetching logic was occasionally failing
+replaced the scanner store vath plain useState. silently when the network was slow or the
+response was maltormed. I impreved the error
+handling and added faliback behavior so the form
+degrades gracefully instead of breaking.
+I and dlsplsy bugs
+I email templates.

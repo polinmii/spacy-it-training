@@ -1,0 +1,782 @@
+Day 1 (Feb 24, 2026): Set up the
+development environment and contributed
+two core modules, Reservation and Request,
+to the capstone project. Also assisted the
+hardware team with some of their tasks
+during the day
+My first day was immediately productive as |
+was able to set up my development
+environment and contribute to important |
+modules of the system. Working closely with
+a teammate allowed us to complete tasks:
+efficiently, showing the value of collaboration..
+Assisting the hardware team also gave me a
+brief understanding of other operational tasks |
+in the office.
+This activity helped me focus on building |
+essential user-facing components of the
+system. Integrating these modules improved
+my understanding of how different parts of the
+system function together to create a complete
+and organized platform.
+The . meeting provided experience in
+gathering client requirements. It = also |
+strengthened my understanding of user roles
+and authentication.
+Day 2 (Feb 25, 2026): Continued developing
+core system features by integrating the
+Calendar card, the upcoming interment
+module, and the system logs module.
+Day 3 (Feb 25, 2026): Attended a meeting at
+MENRO to administer a system development
+survey. Developed admin user management,
+an inquiry system, and improved the sidebar
+with role-based access.
+Day 3 (Feb 26, 2026): Continued working on
+the system in the morning to maintain
+development progress. In the afternoon,
+assisted in preparations for the-class pinning
+ceremony.
+I was able to maintain steady progress on the
+system development during the morning.
+Helping with the pinning ceremony later in the
+day reminded me of the importance 'of'
+balancing technical work with supporting
+team and academic activities.
+L - 7 Ao ST 100 BT S % o ey i RS TV T 2 S vy Wl gyt
+
+Day 4 (March 2, 2026): Attended the LGU flag | The day provided valuable exposure to the local
+ceremony, worked on creating the initial user I government work environment, beginning with' |
+manual, conducted Quality Assurance tasks, I the flag ceremony. My tasks involved both
+participated in a planning meeting, and started I internal work, such as preparing the user manual
+developing the Software Requirements I and performing quality checks, and external
+Specification (SRS) for the MENRO system. client-related work like participating in a planning |
+meeting and drafting the MENRO system's SRS.
+This experience helped me understand different
+stages of the project lifecycle. i
+Entering the final Quality Assurance stage
+indicated that the system was approaching
+completion. Planning for the client presentation
+shifted the focus from development work to
+preparing for professional project delivery. The
+team break during the day also highlighted the
+importance of taking time to recharge and
+strengthen team relationships.
+Spending most of the day on Quality Assurance
+allowed me to carefully examine the system and
+identify areas that needed improvement. At the
+same time, sharing Ul design ideas for the
+MENRO project required switching between
+analytical testing and creative design thinking, |
+demonstrating the need to apply different skills
+across multiple tasks. :
+This day focused heavily on identifying and fixing :
+bugs within the system. Successfully resolving
+multiple errors strengthened my debugging andproblem-solving skills and reminded me that |
+building reliable software requires careful testing |
+and continuous improvement. :
+Day 5 (March 3, 2026): Continued the Quality
+Assurance phase of the system and assisted in
+planning the upcoming client presentation.
+Day 6 (March 4, 2026): Performed a full Quality
+Assurance cycle for the MFMP project and
+contributed ideas for the user interface design of
+the MENRO system.
+Day 7 (March 5, 2026): Conducted intensive bug
+testing and resolved several system errors during
+the Quality Assurance process.
+
+Day 8 (March 9, 2026): Continued Quality | The day involved handling multiple projects
+Assurance for the memorial park system, worked I simultaneously, which required effective . time
+on prototype designs for the MENRO' system, I management and coordination with the team. |
+began preparations for a new Internal Audit | One of the most significant milestones was the
+Services (IAS) development project, and I successful deployment of the system to a .gov.ph
+participated in the deployment of the existing I domain, marking its transition from development |
+system to a .gov.ph domain. into a live operational platform. This experience
+highlighted the importance of proper testing and |
+preparation before launching a system for public
+use. ;
+Day 9 (March 10, 2026): Participated in planning | Planning the IAS system required careful
+the new IAS QA system and discussed the I consideration of the technologies that would best |
+decision to use Laravel and React as the primary I support the project's goals. The decision to use
+technology stack for development Laravel with React demonstrated the importance
+of combining reliable backend frameworks with
+modern frontend technologies to create a system
+that is both functional and user-friendly. This
+discussion also improved my understanding of
+system architecture and technology selection.
+Being part of the meeting about the LGU's plan to
+bring services online provided insight into how
+technology can support large-scale public service
+initiatives. Starting the development of the IAS |
+system afterwards allowed me to apply madern
+React Ul components in a real project;:
+strengthening my practical development skilis 'gnd' g
+experience With contemporary tools. Ry
+Day 10 (March 11, 2026): Attended a meeting
+regarding the LGU's initiative to make services
+accessible online and started the initial
+development of the IAS system using React-based
+components.
+SEIRR TS BSENEpREE
+
+The shift to the LGU Online Services project
+highlighted the importance of adaptability.
+Utilizing the waterfall 'method for a 7-day
+deadline required immediate contribution; |
+focused on the "See More" card module and"
+database seeding. The commitment to daily
+overtime reflects our team's dedication to
+meeting both the project deadline and our OJT
+hour requirements.
+I focused on backend integrity by seeding admin |
+accounts and office information. The urgency of
+this project is fueled by external factors-rising oil
+prices-making this digital transformation a
+necessity for the citizens of Manolo Fortich. It's
+rewarding to see how our code solves real-world
+economic problems. :
+I balanced UI/UX work with complex backend
+integration. Spending 7 hours on the support
+ticket module was a highlight, as real:time:
+messaging is a critical feature for transparency. |
+between offices and clients. Seeing the QRIAS
+system near completion also provided a sense of
+accomplishment.
+A major milestone day. Beyond the rush of Ul
+upgrades and scraping data from the Citizen's
+Charter, we presented three distinct systems
+(MENRO-SWEEP, 1AS-QRIAS, and:Online Services):
+Receiving feedback fram office heads was a
+lesson in professional critique; it showed. that.
+development is an iterative process based on user |
+needs. :
+Day 11 (March 16): All the current and ongoing system
+development that we interns are doing is being paused
+because we are tasked to swiftly progress the LGU
+Online Services Software where it streamlines services
+in the web, this Online Service project is due 7 days
+and we strategized to do it in a waterfall method, |
+have contributed the offices see more card module
+and updated the databases seeder data from the LGU
+manolo fortich website also us interns will be doing
+overtimes everyday to accomplish the 486 hours OJT.
+Day 12 (March 17): I have contributed 2 seeders to the
+LGU MF online services project, the admin accounts
+and the office info seeder. Our team hastily doing the
+the project be cause the deadline would be on
+thursday the Online Services app will help the services
+of LGUMF because of the oil price increasing making
+people not go.
+Day 13 (March 18): I have contributed login and
+registration page styling in th OnlineServices project
+also I have enjoyed integrating support ticket modules
+into the online services project because it has a real
+time messaging from clients to offices, I have spent 7
+hours to integrate it. Also the QRIAS is almost done.
+Day 14 (March 19): We did a rush progress for Online
+Services for LGU Manolo Fortich and I have
+contributed some Ul uprades and also some Office
+Services Seeders that I have scraped from the LGU
+Manolo Fortich Municipal Citizen's Charter and inthe
+afternoon me and the team presented the
+MENRO-SWEEP system prototype, the completed
+1AS-QRIAS System, and our ongoing Online Services
+Project. For the three presented projects we the team
+received some comments and suggestion from the
+office to 'make changes especially for the Online
+Services Project.
+
+Day 15 (March 23) : I have finished creating and
+scraping office service data from LGU-MF Citizen's
+Charter Page and then feeding the public data to the Al
+for creating the municipal office service seeder.
+Scraping data took me half a day just to create a
+seeder for services. And in the afternoon I've hunt
+bugs and found plenty of it and then fixed it.
+Day 16 (March 24): Our team did a quick Quality
+Assurance throughout the day and found out that the
+Online Services System has only got few to fix and
+plenty of features and core functions to be added. One
+of our teammates suddenly did not notice that he
+committed and merged to our local development
+branch an old version of the Online Services System.
+The Merge conflict delayed our progress, Thankfully
+we all know how to use git version control and
+resolved the merge conflict in less than an hour.
+Day 17 (March 25): The day was great. I continued
+progressing for development of the Online Services
+System and thankfully the Online Services was pushed
+to production and now live with the .gov.ph domain
+but is not accessible to the public yet. In the timeframe
+of 9am - 2pm there was a sudden power outage and
+the work on the office was paused. The power outage
+caused us delays for the project and the office was so
+busy also. In the afternoon we continued and added a
+notification module and service classification
+component for the service.
+Day 18 (March 26)): In the morning, I did a Quality
+Assurance to the the Online Services System and I've
+found 4 bugs to fix and fixed it it was some modals
+that does not pop up and some dropdowns that does
+not work and also a responsiveness test to the LGU
+Online Services System. Our HTE head handed us a 4
+port GSM modem to test the SMS OTP madule of the
+online services system, I have bought a 1 simcard and
+then registered it and then plug it Into the port and
+was set up by irven.
+I utilized Al to streamline the tedious task of data
+scraping and seeder creation, which allowed me
+to spend the afternoon on crucial bug hunting. |
+This day emphasized the balance between
+efficient data management and the rigorous
+testing needed to ensure system stability.
+This day was a practical lesson in the importance
+of Git version control. Despite a teammate's
+accidental merge of an old version, our team's
+proficiency in resolving merge conflicts saved the
+day. It reinforced the idea that technical errors
+are manageable when the team communicates
+and knows their tools.
+A proud moment as the Online Services System
+went live on a .goV.ph domain. Dealing with a
+five-hour power outage taught me about the
+unpredictability of professional environments. We
+compensated for the delay by staying productive
+in the afternoon, adding notifications and service
+classification features.
+Transitioning from software to hardware, we
+tested .a 4-port GSM modem for SMS OTP
+integration. Performing QA and responsiveness-|
+tests alongside hardware setup gave me :a
+well-rounded perspective on how different layers | -
+of technology (SMS, Web, and Database) must'
+sync for a secure user experience. |
+
+My focus remained on data integrity through
+Quality Assurance. By identifying and fixing
+duplicate phone numbers via database
+constraints, I ensured that the Online Services
+System remains a reliable source of information.
+Participating in the dry run for the Binibining
+Manolo Fortich Pageant System was an excellent
+opportunity to see how our technical support
+facilitates major local cultural events.
+This was a challenging day that bridged the gap
+between development and production. |'
+implemented advanced logic for -transaction
+timeframe predictions crucial for government |
+transparency but the real lesson came in the
+afternoon. Debugging in a live production
+environment reminded me that local
+development setups can never fully replicate the
+complexities of a live server.
+Despite a half-day schedule, I prioritized the |-
+Super Admin dashboard. By adding statistics cards |
+for delayed and completed transactions, ||
+provided administrators with high-level visibility:
+Into system performance. These Ul -and cl tafixesj
+are essential for making the system'more than
+just a tool, but a source of actionable insights..
+
+Day 22 (April 6) : Throughout the day I did a Quality | I shifted my focus toward reporting and analytics.
+assurance on the Online Services system and | Building out the full statistics pages for bothcontributed some changes the full office admin Office Admins and Super Admins, including date
+stat?stics page and also the full superadmin system range filters, is a significant milestone. These |
+stanst!cs and gls. 2, .cete, renae fiter for Jreponr features empower the LGU to track their |
+analytics for the office and system statistics. e 3
+efficiency over time and generate the reports
+necessary for data-driven decision-making.
+This day showcased the unique environment of
+an LGU OJT. Attending the flag ceremony and the
+Charter Day celebration with national officials
+provided a sense of civic pride and context for.our |
+work. In the afternoon, the transition to hardware
+setup for the pageant system reinforced the
+importance of being a versatile IT intern-being |
+just as comfortable with cables and hardware asl
+am with code. ;
+We adopted a more structured approach to
+quality control today. By formalizing our bug and
+error hunting Into a dedicated QA log, we've
+created a more organized workflow for system
+improvements. Fixing these logged issues ensures
+that the Online Services System is not just
+functional, but refined and professional for the
+public.
+Day 23 (April 7): In the morning we attended the LGU
+flag hoisting activity and when the activity is done we
+go straight to the office and did the tasks in the online
+services system, I have downed 2 tasks in the morning
+and in 9 am we go out from the office and go to the
+gymnasium to attend the LGU Manolo Fortich
+charterday celebration together with Senator Bong Go.
+In the afternoon we interns are tasked to setup the
+hardware for the pageant system that will be used for
+Binibining Manolo Fortich.
+Day 24 (April 8): The team did a bug and error hunting
+on the Online Service System throughout the day and
+put the bugs and errors and system suggestions into
+the quality assurance logs and mark them as tasks to
+be done. I did fix some changes from the QA logs and
+did fix some bugs and did some improvements to the
+Online Services System
+
+Day 25 (April 13): Dedicating a full day to Quality
+Assuradce allowed me to transition from
+functional programming to polishing the "user
+experience. Revamping the dashboard roles to
+look premium, fixing the donut chart colors, and
+implementing smooth animations reminded-me: |
+that a system's feel is just as important as'its logic |
+for user adoption.
+This was a highly fulfilling day that bridged
+academia and professional service. Showcasing"
+our capstones to lower-year ICS students at the IT
+fest allowed us to act as mentors, while the
+three-hour handover presentation of the
+Feedback System to the IAS office proved our |
+software is ready for production. Tailoring the
+new semi-admin "Staff" role afterward kept the
+momentum going.
+Day 25 April 13 The gang did a full day Quality
+Assurance for the LGU Online Services that we build. |
+have found and downed many bugs and errors for the
+QA day. Mainly I did revamped the all role dashboard
+design and make it more premium and elegant for the
+user experience and also fixed some error in the
+Dashboard's donut chart I fixed the colors and also
+added some smooth animations for User experience.
+Day 26 April 14 : We NBSC interns attended the IT fest
+in the morning and presented and showcased our
+capstones to the lower vyear levels if the ICS
+department. In the afternoon we headed straight to
+the MIS office to do a presentation to the IAS office in
+LGU to present the finalized system ready for turnover
+for the Feedbacking system of LGU Manolo Fortich it
+lasted three hours of presenting and system demo
+after that we continued doing Quality assurance to the
+Online Services system. I did added a new role called
+Staff(it is a semi admin level role that will handle office
+transactions) and tailored the Staff role to adapt to the
+Online Services system.
+Day 27 April 15: We interns did a full QA throughout
+the day for the online services for LGU Manolo Fortich.
+I did improvements and updates for the new role staff
+for a semi admin level dashboard and access. And in
+the afternoon we interns did a QA and at 4pm we
+proceeded and went to school to claim our dean''s list
+certificates.
+Continuing the iterative development of the
+"Staff" role dashboard kept my frontend and
+access-control skills sharp. Ending the day by
+claiming our Dean's List certificates at school was
+a proud moment, proving that we can maintain
+academic excellence even while enduring
+demanding OJT workloads. ey
+The high-stakes presentation of our systems to
+the LGU management by the MIS office was.a .
+major milestone. Taking a step back while they
+presented, and then immediately absorbing their
+critical feedback and feature suggestions -in. the
+afternoon, reinforced how vital stakeholder"
+alignment is in the deployment pipeline.
+Day 28 April 16: We interns did a quick fast QA
+because in 10am the systems from Management
+Information Systems Office will be presented to the
+LGU and online services and feedback system is
+included. While the office members are presenting the
+systems we interns go for a break. In the afternoon we
+received some changes and feedbacks from the
+meeting and received some suggestions and things to
+be done.
+N(}i:'l'lll;'l(N BURIDNON STATE COLLEGE
+INSTETIFTE FOR COMPUTER STUDIES
+AIMENEZ o
+OROZCO, MIT
+
+Day 29 April 20: We interns did a full day Quality | Shifting focus toward security hardening
+Assurance and applied Security measurements to the I alongside standard QA is a crucial step for
+Online Services System. We also started the newly government software compliance. Kicking off the
+given system development for'the MFRTA system and new MFRTA system development with the team
+frls averyicasy syste forus'siinterns, felt seamless, proving that our collaborative
+workflow as a group of five interns has become
+highly efficient.
+Hitting the milestone of 1,000 commits on GitHub |-
+for the Online Services project is a testament to
+our team's massive grit and consistent
+collaboration. Juggling that alongside building an:
+elegant landing page for the TricabQR system
+using React Bits showed my growing comfort with |
+rapid Ul prototyping.
+Migrating the MENRO-Sweep repository took a
+solid four hours of careful version control
+management but ensured our team could start |
+fresh on a clean slate. Drawing inspiration from
+the game R.E.P.0. to model and integrate a 3D
+garbage truck landing page via Blender allowed
+me to blend creative 3D artistry with modern web
+development.
+Day 30 April 21 We interns did a QA to Online Services
+system and we just hit 1000 commits on the online
+services project on github. We worked on online
+services and tricabQR for the MFRTA at the same time.
+In the afternoon I did a rough styling with React Bits to
+the tricabQR system's landing page and made it
+elegant.
+Day 31 April 22 We interns just partially finished the
+MFRTA's TRICABQR system and did a QA to wrap things
+up, while my team did some QA to the tricabQR I did
+proceed with the MENRO-Sweep system project, |
+have copied the demo repository into the real
+repository so that the team can start fresh and fast, it
+took me 4 hours to migrate. And in the afternoon I did
+import a 3d garbage truck model into the MENRO
+sweep landing page to make it look premium. It was
+inspired from the friend slop game R.E.P.O.. I did
+explore 3d modeling with blender.
+Day 32 April 23: I did a full Ul and UX design to the
+MENRO Sweep project, mainly in refining the landing
+page making it look good in lightmode and dark mode
+also revamping the generic Al generated Ul design
+making the all roles dashboard unique and awesome.
+I took complete ownership of the UI/UX overhaul
+for the MENRO-Sweep project. Moving away from'
+generic, Al-generated design templates to create -
+an intentional, custom aesthetic for both light and |
+dark modes taught me the value of building
+unique, professional-grade user interfaces that :
+stand out.
+Si7efbc-now, 01,025 Commits
+4 days ago .
+Comprehensive
+Waste
+Management for
+Modern
+Municipalities
+L JIMENEZ
+Signature o er P
+0JT/Coordinator
+
+Small, steady contributions keep a large project
+moving forward. Spending the day tweaking the |
+user interface and successfully getting the Waste
+Analysis and Characterization Study (WACS) page |
+fully functional added another critical module to
+the MENRO-Sweep system.
+Expanding the MENRO-Sweep system by building
+out specific features for the Barangay-level role :
+deepened my understanding of multi-tiered user
+access. Ensuring the interface adapted smaothly
+to mobile screens is always a challenge but
+necessary for field-level government workers.
+I dedicated this day to rigorous mobile
+responsiveness testing and replacing generic
+layouts with a polished, unique Ul. Completing
+the barangay monitoring module and securing the
+loose ends of the code base ensured that the
+system feels cohesive, tight, and professional.
+Day 33 April 27: I did a bit of user interface styling to
+the MENRO sweep system and also i did contributed to
+WACS page and made it worked
+Day 34 April 28: I did added a functionality to the
+Barangay role to the MENRO sweep system also
+refining some of the user interface making it adaptable
+to the phone screen.
+Day 35 April 29 I have did a full quality assurance and
+tested all the pages compatibility to the phone screen
+view and made many changes and made the MENRO
+system more responsive and mainly mobile phone
+friendly. Also hunted down some few bugs and errors
+that makes the system loose. Also I have revamped the
+user interface making the generic Al generated user
+experience into a unique user experience making it
+professional. And lastly i have contributed the
+barangay monitoring module to the menro sweep
+system
+Day 36 April 30: In the morning all of the interns of the
+Ceremony, The speaker's speech were inspiring
+because all of the speakers comes from smallest to
+their current status in the present, we OJT students
+were lucky enough to have an OJT nowadays because
+people back then needs to struggle to find a job and it
+requires many aspects just to get a job if you don't
+have an experience. After the ceremony is done we
+MISO interns proceeded to the office and continued
+hunting for bugs and doing quality assurance to the
+MENRO SWEEP system. In the afternoon we did a full
+testing the MENRO system cause it is almost done and
+ready for presentation.
+Attending the OJT Ceremony in the morning |
+offered some valuable perspective; hearing how.|
+leaders rose from humble beginnings made me
+appreciate the rare and smooth hands-on |
+experience we are getting at the MISO. We_'
+carried that inspiration straight back to the office, |
+running full-system QA on MENRO-Sweep 'to
+prepare it for its final showcase. :
+"ABARQUEZ
+/'/'/;'S{udent Trainee
+
+Day 37 May 4: We did a full quality assurance for the
+MENRO sweep system we did testing and bug hunting
+Cause in the afternoon we are gonna be presenting the
+MENRO sweep, in the afternoon we did presented the
+MENRO sweep system to the MENRO office and
+received some many suggestions and some changes
+and a bit of revamps.
+Day 38 May 5: We did swiftly did the changes of the
+MENRO sweep in the system from our Quality
+Assurance logs and made the changes and revamps, in
+the afternoon the office celebrated because me ,
+jonard and sir JP did passed the CSE professional exam,
+also irven presented the QRIAS for the MIASSO office
+and did also received some many changes.
+Day 39 May 6: We did a full check and QA for the
+tricabQR system for LGU-MFRTA for an afternoon
+presentation, and also did a applied the changes for
+quality assurance in the MENRO sweep system. In the
+afternoon Jethro presented the tricabQR system to the
+MFRTA employees and most of them are satisfied with
+the outcome.
+Day 40 May 7: We intern presented the MENRO
+system continuation in the morning it lasted 2 hours
+and 30 mins and me and arjie received again some
+many changes and suggestions for the menro system
+we did the tasks of the changes in the afternoon and
+also we received a sidequest from the CADO office that
+gives us a task of a clerk which is scanning the pile of
+documents and making them into an excel file which i
+find it a task that test my patience.
+Day 41 May 8: Me and Arjie helped the CADO office to
+convert their physical datas to .xIsx file with 80%
+accuracy with Al and also continue refining the MENRO
+SWEEP system.
+The culmination of our hard work on the
+MENRO-Sweep system resulted in our afternoon
+presentation to the MENRO office. Receiving a
+long list of revision requests and structural
+feedback reminded me that real-world software
+must constantly adapt to the complex operational
+workflows of the departments using it.
+A fantastic day of personal and professional
+victories. Swiftly executing the requested
+revisions from our QA logs proved our efficiency,
+but the highlight was celebrating passing the Civil
+Service Exam (CSE) Professional level with Jonard
+and Sir JP. Witnessing Irven present the QRIAS
+system added to the office's collective wins.
+Preparing the TricabQR system for the
+LGU-MFRTA presentation required a thorough
+final check. Seeing lethro pitch the system to
+highly satisfied MFRTA employees in the
+afternoon-while the rest of us patched the
+remaining MENRO-Sweep
+requirements-validated the impact of our
+collective work.
+A grueling two-and-a-half-hour continuation
+presentation for the MENRO system brought in |-
+yet another round of adjustments. Transitioning
+in the afternoon to a tedious "sidequest" for the
+CADO office-manually scanning documents and
+data entry-was an exercise in patience, showing |
+that being an IT professional sometimes means
+doing basic foundational data work to help an
+office scale.
+Arjie and I worked smarter by leveraging Al to
+achieve 80% accuracy in converting CADO's |
+physical data piles into clean .xlsx spreadsheets,
+saving massive amounts of time. This allowed usto balance the tedious administrative task while '
+continuing to refine the core elements of the
+MENRO-Sweep system.
+
+Attending the Emotional Intelligence (EQ) activity |
+at school provided a timely framework for our
+internship. b :
+Splitting the day between morning QA for
+MENRO-Sweep and processing my university
+clearance in the afternoon marked the beginning
+of wrapping up both my academic semester and
+my intensive internship journey.
+Operating on a half-day schedule forced our team
+to be incredibly deliberate with- our time. We
+focused heavily on bug-squashing and fine-tuning
+our respective systems in the morning before |
+heading to school to ensure our graduation |
+requirements and clearances stayed on track.
+May 11 & 12 attended EI EQ activity at school
+Day 42 May 13: I did a quality assurance to the
+menrosweep system half of the day and in the
+afternoon I went to school to accomplish my school
+clearance for the 2nd semester.
+Day 43 May 14: We interns did a halfday duty cause
+the deadline of clearance is due and we need to move
+to clear our clearances. In the morning we all did a
+quality assurance finding and fixing bugs also improved
+some of the each of our assigned system's, and in the
+afternoon we headed to school to accomplish our
+school clearance.
+Day 44 May 15: I contributed some stylings to the
+Feedback system for MF LGU and also focused on the
+MENRO sweep system making all the pages of the
+system mobile phone friendly ensuring the
+Userinterface works on the phone.
+I divided my tasks between polishing the Ul styles
+of the LGU Feedback System and aggressivelv
+testing the mobile-friendliness of MENRO-Sweep.
+Ensuring that data-heavy government platforms
+render perfectly on commercial mobile screensis
+tough, but non-negotiable for public accessibility. -
+JIMENEZ Sty
+me of HTE Supervisor
+Signature oy r Prifited Na
+OJT Loordinator
+
+Day 45 May 18 | did continue doing quality assurance | Alongside my ongoing Quality Assurance work for
+the MENRO-Sweep system, our team welcomed a
+transferring IT student from USTP. Stepping up to
+mentor him and offering to help migrate his
+project from Python to Laravel was a great
+reflection of how much-confidence, architecture
+knowledge, and expertise we have gained
+throughout our own internship.
+Day 46 May 19
+I did a QA to the Menro system
+Day 47 May 20: Me and the team did a full QA to each
+of our systems and Google Gemini 3.5 has just release
+about 1:30 hours because of the model quota reached
+which is unfortunate. Also go to the menro office and
+asked about their billing process and they told us to go
+to the Treasurer's office to know about their process
+Day 48 May 21: I applied some logics to the billing
+the system is mobile friendly in all pages and
+responsive in all types of screen.
+Day 49 May 22: I did a QA again continuing the billing
+module that involves money throughout the day and in
+the afternoon when took a photo in turning over the
+Feedback system to MIAS office. Also i did swiftly
+finished the TricabQR user manual.
+sakayreg.manolofortich.gov.ph
+and the 3.1 ver is now gone and our model quota pool | 35 quickly drained our model quota pool, leaving
+swiftly drains because of the new update and in the me temporarily idle at the end of the day.
+afternoon I ended up finishing early and stayed idle for However, we maximized our productivity by
+module to the menro sweep system and also did help
+tricabQR system some quality assurance ensuring that
+I maintained a tight focus on system reliability by
+executing routine, deep-dive Quality Assurance
+logs on the MENRO ecosystem to ensure no new
+regressions or breaking changes had slipped into
+the codebase.
+This day brought a unique modern tech challenge;
+testing with the newly released Google Gemini
+physically visiting the MENRO and Treasurer's
+offices to map out their billing workflows for
+accurate backend logic.
+I translated the real-world financial processes
+gathered yesterday into hard code by
+implementing the complex billing module logic
+for MENRO-Sweep. Assisting with the mobile
+responsiveness of the TricabQR system afterward
+cross-trained my skills and ensured our entire
+suite of software is uniform and
+production-ready.
+Financial data requires absolute pr cision, so |
+dedicated the day to rigorous QA testing of the
+newly implemented billing module. The highlight
+of the week was documenting the formal
+turnover of the Feedback System to the MIAS
+office with a photo session, marking the
+the LGU.
+successful delivery of a production-ready asset to
+OROZCO, MIT
+
+Day 50 May 25: In the morning we are tasked to help | Stepping out of the office to assist with the GCash
+in the Gcash event in the municipal gymnasium I eyvent at the municipal gymnasium was a
+helping the digitally illiterate people assisting them on powerful reminder of why we build digital
+how to use the gcash app thorough. systems. Helping digitally illiterate community
+members navigate the application firsthand
+emphasized that user accessibility and patient
+onboarding are just as critical to technology
+adoption as the underlying code.
+Day 51 May 26: Me and Arjie did a QA demo testing | Arjie and I conducted deep integration testing on |
+to the MENRO system billing module ensuring that the I the MENRO billing module to prepare it for the
+system is working and wait for the next system upcoming department review. In the afternoon,
+meeting for menro, and in the afternoon we did arush I our focus abruptly shifted to an intensive,
+Ul for Bayad manolo fortich system cause we have fast-paced Ul design sprint for the "Bayad Manolo
+been set a deadline to finish it in a day cause our head | Fortich" system. Crafting a clean interface within
+will propose it to the landbank office. a single day for a high-profile proposal to
+Landbank challenged our ability to deliver
+presentation-ready designs under tight |
+constraints.
+Following the initial push, I dedicated the day to
+styling enhancements and layout improvements
+for the Bayad Manolo Fortich system. This refined
+the user journey, ensuring the platform looked .
+highly secure, professional, and corporate enough
+to build confidence during banking-level
+stakeholder presentations. :
+Teamed up with Arjie again to conduct exhaustive
+Quality Assurance on the-MENRO system's billing -
+module sales ledger. Because financial tracking
+and revenue auditing require zero margin for
+error, systematic edge-case testing was necessary |
+to guarantee data accuracy before = full |
+deployment.
+Day 52 May 28: I did styling and improvements to the
+Bayad Manolo Fortich system.
+Day 53 May 29: I did a quality assurance to the Menro
+system throughout the day, testing the billing module
+mainly in sales ledger, again with Arjie.
+upervisor
+
+Day 54 June 1 Did a bug hunt and a QA to the menro | I kicked off our final week by focusing on deep
+system and also Updated the latest service seeder of bug hunting and Quality Assurance across the.
+the MCR & MAO office. MENRO system to catch any lingering issues.
+Additionally, I maintained our commitment to
+accurate data handling by updating the latest |
+service seeders for the Municipal Civil Registrar
+(MCR) and Municipal Agriculture Office (MAO).
+This day was an excellent exercise in testing |
+mobile field operations under realistic conditions.
+Using ngrok to expose our local server into a
+secured domain allowed me to thoroughly test
+real-time GPS geojson tagging; I used this data to
+optimize the map rendering engine: so the user
+interface remains fluid and responsive even when
+handling heavy tracking datasets.
+My final day as an IT intern at the LGU Manolo
+Fortich MIS Office. I pushed my last commits topolish the MENRO ecosystem and updated the |
+core service seeders for the LGU Online Services :
+Feedback System, ensuring everything was left in
+a clean, production-ready state. Celebrating with
+the team in the afternoon was a proud moment,
+marking the culmination of 486 hours of -hard
+work, collaborative system deployment, and
+immense professional growth. :
+Day 55 June 2 I did a full QA to the Menro
+System field operator role and found many bugs
+especially in the mobile version, also did test in
+the secured domain using ngrok to test the gps
+geojson tagging and also did optimize the map if it
+has too many data.
+Day 56 June 3 It was the last day of our On-the-lob
+training inn LGU Manolo Fortich - Management
+Information Systems Office and I have did my lasts
+commits and tasks that polishes the MENRO system
+also did updated the Online Services services seeders
+for the Feedback system of LGU Manolo Fortich and
+lastly in the afternoon we chilled a bit and celebrated
+our finished internship training together with the
+office employees.
+RLPUBLIC OF 'LHI PHILIPPINES -
+MUNICIPAL!TY OF MANOLO FORTICH
+Email Address: lgumanolofortlch@yahoo com
+award this
+ot 5.
+IVAN L. ABARQUEZ
+TRAINING from FEBRUARY 23, 2026 - JUNE 3, 2026, assigned at the
+MANAGEMENT INFORMATION SYSTEMS OFFICE, Local
+Government Unit of Manolo Fortich.
+Given this 3TM day of June 2026 at the New Government *
+CATHERINE C. GATCHALIAN
+MGDH-I (HRMO)
+Republic of: mc Plnhppmes

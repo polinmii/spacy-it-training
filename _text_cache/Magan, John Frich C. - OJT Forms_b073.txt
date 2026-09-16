@@ -1,0 +1,299 @@
+Orientation and Pc Troubleshooting I learned the basic steps of troubleshooting and
+how they help identify and solve problems more
+effectively. By following these steps, I can
+systematically check possible causes and find the
+correct solution.
+Processes Police Clearance I understood the procedures involved in
+processing a police clearance. This includes
+verifying requirements, following the proper steps,
+and ensuring that all necessary information is
+correctly recorded during the process.
+Fixing Pnp Zelo App I learned the basic steps involved in
+troubleshooting applications. This helps me
+identify common issues and apply appropriate
+solutions to ensure the app runs properly.
+Pc Troubleshooting I practiced diagnosing computer problems by
+identifying possible causes and checking different
+parts of the system. This helped improve my
+ability to analyze issues and find appropriate
+solutions.
+
+Processes Police Clearance I learned the steps involved in processing a police
+clearance, from submitting the necessary
+requirements to receiving the official document.
+This experience helped me understand the
+importance of accuracy and following proper
+procedures in administrative tasks.
+Planning System for Pnp Operation Office
+I learned how to plan a system's structure and
+design its features to meet user needs effectively.
+This helped me understand how organizing
+components and functionalities properly can
+improve efficiency and usability.
+Day 1 - Ui/Ux Designing for Pnp Operation Office
+I learned how to plan and design an interface
+layout that is both user-friendly and visually
+organized. This experience helped me understand
+the importance of clear design in improving
+usability and overall user experience.
+Day 2 - Ui/Ux Designing for Pnp Operation Office
+I learned how to improve both the design and
+usability of a system to make it more intuitive and
+efficient for users. This taught me the importance
+of balancing aesthetics with functionality to
+enhance the overall user experience.
+
+Pc Assembling
+I learned the process of PC assembling and how
+each hardware component works together to build
+a functional computer system. Through this
+activity, I improved my understanding of installing
+parts properly and ensuring that the system runs
+efficiently.
+Developing System for Admin
+I learned about developing a system for the
+administrators of the Philippine National Police to
+help manage and organize important records and
+processes. Through this task, I improved my skills
+in system development, database management,
+and creating tools that support administrative work
+more efficiently.
+Developing System
+I I learned about developing a system for the
+Philippine National Police (PNP) and how
+technology can help improve the efficiency of their
+processes. Through this experience, I gained a
+better understanding of system design,
+organization of data, and the importance of
+creating reliable and secure systems for public
+service.
+Troubleshooting Laptop and Pc Assembling
+I learned the process of troubleshooting laptops
+and assembling PCs, which helped me
+understand the different hardware components
+and how they work together. Through this
+experience, I improved my skills in identifying
+hardware issues and properly assembling
+computer parts to ensure the system functions
+correctly.
+
+Developing the System I developed the system by implementing its core
+features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Developing the System I developed the system by implementing its core
+features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Developing the System & Assembling PC I learned how to assemble a computer properly
+while developing the system's main features. |
+also tested and improved both the hardware and
+system to ensure they work efficiently.
+Troubleshooting PC & Developing the System I troubleshooted computer issues to ensure
+smooth system operation. I also continued
+developing the system by improving features and
+fixing errors.
+
+Developing the System I developed the system by implementing its core
+features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Designing the System / Processing Police I developed the system by implementing its core
+Clearance features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Developing the System I learned how to make the system mote userfriendly and make the design more better. I also
+fix the system errors.
+Developing the System I fix the system error and debug. I also make the
+better design of the system.
+
+Fixing Bugs and Errors of the System
+I fix the bugs and errors in the admin site of the
+system. I redesign the dashboard of the system
+Designing the System / Processing Police
+Clearance
+I developed the system by implementing its core
+features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Developing the System
+I learned how to make the system more userfriendly and make the design more better. I also
+redesign the dashboard of the user site.
+
+Designing the System / Processing Police I developed the system by implementing its core
+Clearance features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Fixing Bugs and Errors of the System I fix the bugs and errors in the admin site of the
+system. I redesign the dashboard of the system
+Developing the System I learned how to make the system more userfriendly and make the design more better. I also
+redesign the dashboard of the user site.
+
+Designing the System / Processing Police I developed the system by implementing its core
+Clearance features and functionality. I also tested and
+improved the system to ensure it works properly
+and efficiently.
+Day 1 of IT FEST I enjoy enjoyed the first day because we shared
+our capstone papers with our juniors, and it was a
+great experience to share our knowledge and
+ideas with them.
+Day 2 of IT FEST I enjoyed the second day because I received my
+final Dean's Lister award as a 4th year BSIT
+student, and it made me feel proud of all my hard
+work and achievements.
+Processing Police Clearance I help my fellow interns students to process police
+clearance.
+
+1. Independently handle basic troubleshooting of computers and peripherals.
+Processing Police Clearance
+Helping to process police clearance taught me the
+importance of accuracy, confidentiality and
+patience when handling people's personal
+information.
+Fixing bugs and errors the File and Storage
+System
+Fixing bugs and errors of the file and storage
+system strengthened my problem solving skills
+and attention to detail. It also taught me how to
+systematically debug issues and improve the
+systems performance and reliability.
+Additional features of the File and Storage
+Systems
+Analyzing the additional features of the system
+helped me understand how each function
+enhances user experience and overall efficiency.
+It also improved my ability to evaluate which
+features are necessary scalable and aligned with
+the systems goal.
+Designing of the Police Charts
+I help to design police charts to present data in a
+clear, organized and visually understandable way
+for better decisions making. It also improve my
+skills in data visualization and choosing the right
+charts type to effectively communicate
+information.
+Designing the Ui of the File and Storage System
+I changed the systems colors into a three color
+palette to improve its visual consistency and made
+the interface more appealing and professional. It
+also helped me understand the importance of
+color harmony in enhancing user experience and
+brand identity.
+
+1. Improve skills in encoding and organizing data using Microsoft Excel.
+Transferring weapons data from physical This activity taught me the importance of
+documents to Excel. accuracy, organization, and responsibility when
+handling sensitive weapons data.
+Transferring incident report data from physical Transferring incident report data from physical
+documents to Excel. Day 1 documents to Excel taught me the importance of
+patience and accuracy in encoding information
+Transferring incident report data from physical On the second day, I became more familiar with
+documents to Excel. Day 2 organizing incident report data efficiently using
+Excel
+Transferring incident report data from physical During the third day, I gained confidence and
+documents to Excel. Day 3 improved my speed in transferring incident report
+records into digital format. This experience
+enhanced my computer skills and showed me the
+value of maintaining accurate and systematic
+documentation
+
+1. To gain more experience in data management.
+Transferring 2026 incident reports data from
+physical documents to Excel. Day 1
+Transferring 2026 incident report data from
+physical documents to Excel taught me to be
+careful and organized in encoding information. It
+also helped me improve my basic computer skills
+and attention to detail.
+Transferring 2026 incident reports data from
+physical documents to Excel. Day 2
+On the second day, I became faster and more
+familiar with transferring incident report data into
+Excel. I learned the importance of patience and
+checking the information carefully.
+Transferring 2026 incident reports data from
+physical documents to Excel. Day 3
+During the third day, I became more confident in
+encoding data into Excel. This activity helped me
+improve my skills in organizing and managing
+records properly.
+Day1 of Emotional Intelligence (El)
+On the first day of Emotional Intelligence, |
+learned the importance of understanding and
+controlling my emotions. It also taught me how
+emotions can affect my actions and relationships
+with other people
+Day 2 of Emotional Intelligence (El)
+On the second day, I learned how to communicate
+and respond to others with patience and
+understanding. This activity helped me realize the
+value of empathy and positive thinking in
+everyday life
+
+1. To apply creativity and attention to detail in every design task.
+Processing Police Clearance
+I learned the basic process of handling police
+clearances. I became more familiar with the steps
+and requirements needed for the applicants.
+Redesigning the Tarpaulin Design in Desk Office
+Day 1
+On the second day, I became faster and more
+familiar with transferring incident report data into
+Excel. I learned the importance of patience and
+checking the information carefully.
+Redesigning the Tarpaulin Design in Desk Office
+Day 2
+I helped redesign the tarpaulin design in the desk
+office. I learned how to arrange the layout and
+improve the design to make it more presentable
+and attractive.
+Processing Police Clearance
+I continued improving the tarpaulin design. |
+learned the importance of creativity, proper
+spacing, and choosing the right design elements
+to create a better output.
+Processing Police Clearance
+I gained more experience in processing police
+clearances. This helped me become more
+responsible, patient, and confident while doing my
+tasks.
+
+1. To apply creativity and attention to detail in every design task.
+Processing Police Clearance I learned how police clearance is processed. |
+watched how the staff help people and organize
+papers. I also helped checking documents and
+arranging files. This experience helped me
+understand office work better.
+Processing Police Clearance I continued helping in processing police
+clearance. I learned how to assist people politely
+and guide them during the process. This day
+helped me improve my communication and
+patience.
+Processing Police Clearance I became more used to my tasks. I helped
+organize documents and check records. I learned
+that being careful is important to avoid mistakes.
+This experience helped me become more
+responsible.
+Processing Police Clearance I continued helping with police clearance
+processing. I saw how teamwork is important in
+the office because everyone helps each other
+finish the work faster. This day taught me the
+value of cooperation and discipline.
+Processing Police Clearance I reflected on what I learned during the week.
+Processing police clearance helped me improve
+my patience, communication, and responsibility. |
+also learned how important it is to help people
+properly and finish tasks carefully.
+
+Processing Police Clearance
+I learned how police clearance is processed. |
+watched how the staff help people and organize
+papers. I also helped checking documents and
+arranging files. This experience helped me
+understand office work better.
+Processing Police Clearance
+Same as day 1, I continued helping in processing
+police clearance. I learned how to assist people
+politely and guide them during the process. This
+day helped me improve my communication and
+patience.

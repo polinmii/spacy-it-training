@@ -1,0 +1,278 @@
+Started Internship Became familiar with the workplace environment
+and assigned tasks.
+Initial Start of the System Learned the basic functions and setup of the
+system.
+Delivery of Documents Understood the importance of completing and
+submitting requirements properly.
+Added Document Masterlist to the System Learned how documents are organized and
+monitored within the system.
+Orientation Gained knowledge about workplace rules,
+procedures, and expectations.
+Added Procedure Masterlist to the System
+procedures and records management.
+Added Requirement Tracking to the System
+and requirements efficiently.
+Started Internship Became familiar with the workplace environment
+and assigned tasks.
+system.
+submitting requirements properly.
+
+Added Office-Based Content and Improved Ul Learned that a well-organized and user-friendly
+interface helps users navigate the system more
+efficiently and improves overall usability.
+Realized the importance of removing
+unnecessary features to make the system
+simpler, cleaner, and more focused on essential
+functions.
+Gathered Data and Continued Data Encoding Improved my attention to detail and accuracy in
+handling and organizing important information
+within the system.
+Refined Requirement Tracking and Added Understood how tracking, approvals, comments,
+Approval with Feedback Features and feedback contribute to a more organized and
+transparent workflow process.
+Added New URL and Email Notification Features | Learned how system accessibility and automated
+notifications improve communication and keep
+users updated on important actions.
+Added Sub-Categorizing and Fixed System Bugs Developed problem-solving and analytical skills
+by identifying issues and improving the
+organization of system data.
+Removed Complaint and CSS Management
+Features
+Encoded Accreditation Procedures and Reached Realized the importance of consistency, patience,
+30% System Completion and continuous improvement in achieving system
+development goals.
+
+Added Requirement Content, Inquiry Messenger, | Learned how additional system features improve
+and Beta Batch Upload Features communication, document tracking, and
+efficiency in handling multiple files and
+requirements.
+Rewrote AACUP Program Data and Continued Improved my understanding of organizing
+Data Encoding accreditation-related data and the importance of
+maintaining accurate and consistent records.
+Improved the System Ul Realized that enhancing the interface helps
+create a smoother and more accessible user
+experience for system users.
+Learned the value of patience, accuracy, and
+consistency in completing major system
+requirements and documentation tasks.
+Worked on Document Bridging Understood the importance of properly
+connecting and organizing related documents for
+easier tracking and retrieval.
+Gained deeper knowledge in system
+development and realized the advantages of
+using more flexible and scalable technologies.
+Learned the importance of adapting the system
+according to updated accreditation standards and
+requirements.
+Compieted Encoding of Accreditation Procedures
+Reworked the System from Google Apps Script
+(GAS) to PHP with AJAX
+Studied the New AACUP Accreditation
+Instrument
+
+Learned the importance of rebuilding systems
+properly when needed and gained experience in
+deploying applications to cloud platforms for
+accessibility and stability.
+Understood how database migration improves
+data structure, efficiency, and long-term
+scalability while also improving system
+automation and reporting.
+AME formula integration for findings and results | Developed a deeper understanding of how
+backend logic and formulas directly affect system
+accuracy and decision-making outputs.
+Holiday and had a break to the work streak Realized the importance of balancing work and
+personal life, as continuous development work
+can be mentally draining without proper rest and
+recove
+Ground-up system redevelopment, old system
+migration, and deployment to Render
+AME result integration, archiving, and solution
+automation; started migration from Google
+Sheets to MySQL; AME form generation
+
+Learned how structured form and analysis
+generation improves system output accuracy and
+supports better evaluation of accreditation data.
+Gained insight into how Al can be used to
+interpret feedback more efficiently, improving
+responsiveness and decision-making support in
+the system.
+CSS Hardcopy Encoding Improved attention to detail and accuracy in
+encoding physical documents into digital form,
+reinforcing data consistancy.
+AME Basic Functions Improvement and System Ul | Realized that continuous refinement of core
+Enhancement functions and interface design greatly improves
+usability and system performance.
+Hardware Tasks (Preventive Maintenance Service | Developed practical troubleshooting skills and
+and WiFi Troubleshooting) learned the importance of maintaining hardware
+stability to support system operations.
+AME Form Generation, Initial Analysis
+Generation, and system improvement (AME
+Module ~70%)
+Al Integration for Complaint and Suggestion
+Interpretation
+
+Printer troubleshooting and driver installation Gained practical experience in diagnosing and
+resolving hardware issues, and learned the
+importance of proper driver configuration for
+smooth system operations.
+Developed broader awareness of different
+technologies and realized the importance of
+choosing the right tools based on system
+requirements and scalability.
+Created Laravel version and evaluated alternative | Learned how different frameworks like Laravel
+implementations can improve structure and development speed,
+while also understanding when to switch or
+revert based on project needs.
+Migrated activity monitoring from the second Improved understanding of system migration and
+prototype and revisited Google Apps Script (GAS) I continuity, especially in handling legacy and
+prototype systems while maintaining
+functionality.
+Gained exposure to the IT community, learned
+new ideas and trends, and had a refreshing
+experience that helped improve motivation and
+perspective.
+Studied other programming languages suitable
+for system development
+Attended IT Fest
+
+Improved system Ul and ensured Document Learned that making the system more userTracker usability friendly significantly improves accessibility and
+reduces user confusion when navigating features.
+Gained consistency in system development and
+realized the importance of persistence in pushing
+a partially completed system toward completion.
+Understood that supporting office operations
+also contributes to a better working environment
+and team productivity.
+System checking and general clerical work Developed attention to detail and learned the
+importance of regularly reviewing system
+functionality to avoid unnoticed issues.
+Preparation for ISO auditing and assistance Gained awareness of compliance standards and
+during Stage 1 I1SO Audit learned how structured documentation and
+system readiness are crucial for successful audits.
+Continued development of GAS system (70%)
+Assisted in office rearrangement and decoration
+
+Gained awareness of ongoing research directions
+and understood how system development aligns
+with academic and organizational goals.
+Realized the limitations of the existing system
+built on Google Apps Script and Google Sheets,
+especially in terms of scalability and long-term
+maintenance.
+Learned that transitioning to a more robust
+backend architecture improves flexibility,
+performance, and future expandability of the
+Attended department meeting about research
+System rework (multiple iterations)
+Began rebuilding system using PHP with AJAX
+system.
+Identified issues with GAS and Google Sheets as a | Understood the risks of relying on limited tools
+database for complex systems, especially regarding
+performance, structure, and scalability
+constraints.
+
+Added functions for Accreditation Tracking Learned how expanding system functions
+improves tracking accuracy and makes
+monitoring accreditation progress more efficient.
+Implemented Batch Upload for Accreditation Gained understanding of how batch processing
+Tracking speeds up data handling and reduces repetitive
+manual encoding work.
+Attended Emotional Intelligence Seminar Learned the value of emotional intelligence in the
+workplace, especially in managing stress,
+communication, and professional relationships.
+
+Reinforced consistency in development and
+learned the importance of maintaining a stable
+structure while continuously refining existing
+system features.
+Improved organizational skills and understood
+how proper filing systems contribute to faster
+retrieval and better document management.
+Gained deeper awareness of audit requirements
+and realized the importance of preparedness and
+accurate documentation in compliance
+processes.
+Continued system development (same concepts
+and improvements)
+Sorted CSS hardcopies by month (clerical task)
+Participated in Stage 2 Mock Audit
+
+Continued system development and refinement | Ongoing improvements helped enhance system
+activities. functionality and user experience. The activity
+emphasized the importance of continuous
+development in producing a reliable system.
+Testing and refinement allowed issues to be
+identified and addressed early. This contributed
+to improving the overall quality of the system.
+Performed additional system development and These activities supported the stability and
+Conducted further system enhancement and
+testing activities.
+optimization tasks. efficiency of the system. They also strengthened
+my understanding of system improvement
+processes.
+Initiated document mapping and presented the Document mapping improved the organization of
+current version of the system. system-related records, while the presentation
+provided valuable feedback for further
+enhancements. This activity improved both
+technical and communication skills.
+
+This activity improved the efficiency of collecting
+and processing evaluation data. It demonstrated
+how automation can reduce manual work and
+support a smoother workflow.
+Developing sample data enabled continuous
+testing despite the lack of actual datasets. It
+helped verify system functions and identify areas
+for improvement.
+These enhancements improved system usability
+and accessibility for users. The activity
+emphasized the importance of organized
+information management and collaboration
+features.
+This activity improved the efficiency of collecting
+and processing evaluation data. It demonstrated
+how automation can reduce manual work and
+support a smoother workflow.
+Enhanced the AME system by transferring
+evaluation processes to Google Forms and
+implementing automated response handling.
+Created and tested sample datasets to support
+system development and functionality validation.
+Improved multi-user functionality and developed
+a document linkage page for centralized
+document access.
+Enhanced the AME system by transferring
+evaluation processes to Google Forms and
+implementing automated response handling.
+
+Refined the AME system by adding activity These improvements enhanced system
+archival, implementing a service worker for PWA I organization, accessibility, and overall
+development, and improving the Ul/UX and performance. The activity reinforced the
+database structure. importance of continuous refinement in creating
+a more efficient and user-friendly system.
+Working on new features and Al training
+expanded the system's capabilities while
+improving the user experience. It also provided
+valuable insights into integrating intelligent
+functionalities within the platform.
+Supporting hardware maintenance ensured
+uninterrupted office operations. This activity
+highlighted the importance of basic
+troubleshooting skills in maintaining productivity.
+Finalized the AME system for presentation to the | Preparing the system for presentation required
+focal person. careful review and validation of features. It
+emphasized the importance of delivering a
+polished and functional product to stakeholders.
+System testing helped identify issues that could
+affect functionality and user experience. This
+activity strengthened the reliability and readiness
+of the system for demonstration.
+Developed the Evaluation Monitoring module,
+improved the interface, and conducted Al
+training activities.
+Assisted in resolving printer issues and refilling
+ink cartridges.
+Conducted bug identification and testing in
+preparation for the final demonstration.

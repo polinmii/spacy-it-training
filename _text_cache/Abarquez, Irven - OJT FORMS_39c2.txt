@@ -1,0 +1,162 @@
+Day 1 (Feb 23, 2026): Set up the development environment, installed Laravel dependencies, and configured credentials. Introduced myself to the MISO team and started migrating the system into Laravel. Reviewed the codebase and made initial commits.
+Day 2 (Feb 24, 2026): Implemented Livewire CRUD for customer and deceased records and integrated role-based permissions using Spatie. Worked on the interactive map by seeding grave data from GeoJSON files. Day 3 (Feb 25, 2026): Attended a meeting at MENRO to administer a system development survey. Developed admin user management, an inquiry system, and improved the sidebar with role-based access.
+Day 4 (Feb 26, 2026): Finalized system features including reservation and exhumation request workflows, dashboard statistics, API routes, and improvements to grave management.
+The setup helped me understand the system structure and tools used by the team. It also helped me adjust to the working environment.
+This improved my skills in Laravel development and database seeding. It also helped me understand how spatial data can be integrated into a system.
+The meeting provided experience in gathering client requirements. It also strengthened my understanding of user roles and authentication.
+This helped me understand how different features work together in a complete system and improved my experience in building integrated functionalities.
+
+Day 5 (Mar 2, 2026): Conducted QA testing for the system and attended a client meeting with MENRO. Implemented an activity logging system, admin user management with role assignment, and features for users to manage grave reservations and ownership details. Day 6 (Mar 3, 2026): Created wireframe designs and a System Development Specification for MENRO. Added a sidebar layout, landing page navbar, database seeder, and an admin system logs page with filters. Worked on the SRS and Figma prototype.
+Day 7 (Mar 4, 2026): Developed a Figma prototype and created the initial repository for the menro- sweep project. Added foundational components and placeholder routes for waste management modules. Updated features in the memorial park system.
+Day 8 (Mar 5, 2026): Implemented the application sidebar layout and welcome page for the menro- sweep project. Added placeholder elements for future modules and refined the Figma prototype for presentation.
+QA testing helped identify improvements for system reliability. The client meeting provided insight into real client workflows and system requirements.
+Designing the wireframe and SRS improved my understanding system planning and documentation. It also showed the importance of clear design before development.
+Creating the prototype and repository helped establish the foundation for a new project. It also improved my skills in planning system architecture.
+This task helped me focus on building the system's interface structure. It also emphasized the importance of aligning design with client expectations
+
+Day 9 (Mar 9, 2026): Submitted the Manolo Fortich Memorial Park system for production deployment (memorial.manolofortich.gov.ph). Updated GeoJSON file paths and finalized configurations. Expanded the menro-sweep project with placeholder views for modules such as waste diversion, weighbridge operations, barangay monitoring, billing, collection maps, garbage schedules, and waste disposal.
+ay 10 (Mar 10, 2026): Improved documentation and README for the Memorial Park project. Implemented role-based access using Spatie Laravel Permission in the menro-sweep project. Started the QRIAS feedback system with a Figma prototype and demo repository.
+Day 11 (Mar 11, 2026): Worked on the QRIAS feedback system by creating UI prototypes in Figma, preparing project documentation, and designing the Entity Relationship Diagram (ERD).
+Deploying the system gave me experience in preparing applications for production. Expanding the module structure helped establish the foundation for future system development.
+Documentation improved the clarity and maintainability of the system. Implementing role permissions strengthened my understanding of access control in Laravel.
+Prototyping and designing the ERD helped clarify the system structure and data relationships before development. It also improved my skills in system planning and documentation.
+
+and
+Developed comprehensive office feedback management systems for QRIAS project
+Enhanced QRIAS with
+with comprehensive dashboards, QR code management, and refined feedback system
+Built a complete office management system with user associations and admin tools. Also enhanced the feedback system with QR code management, control numbers, and role-based access. Created dynamic dashboards with analytics, trends, and office-specific views for service transactions. Added full QR code management with generation, download, and sharing features while refining the feedback form with new options and performance fixes.
+Advanced QRIAS with reporting, rate limiting, Developed an admin reports page with Cochran and UI enhancements
+Refined QRIAS feedback system, enhanced reporting, and presented to office head
+formula integration and enhanced dashboard filters. Added security with rate limiting and device cooldown, plus UI upgrades like a responsive welcome page with particle effects.
+Refined the feedback form with CSM introduction, Data Privacy Notice, and bilingual labels. Enhanced reporting with filtering and CSV export, then presented the system to the office head for approval.
+
+Transaction Fixes & Code Quality
+For the Sweep project, made progress on printing invoices, adding truck owner functionality, and preliminary map-related features in preparation for an upcoming demo. For Online Services, implemented SMS texting support for transaction nudges and dynamic SMS verification readiness checks, while resolving verify-OTP redirect loops and merge conflicts in the authentication flow.
+QA Testing & Binibining Manolo Fortich Completed quality assurance for Online Pageantry System Setup
+Online Services QA & QRIAS Refinements
+Services and set up LAN connections for judges' laptops to enable pageantry system tabulation for Binibining Manolo Fortich. Performed QA and fixes for Online Services, including restoring client OP printing with dynamic office signatory, adding rate limiting to support ticket chat, and fixing document view links to prevent auto-download. For QRIAS, aligned the EmojiRating component's default neutral state with internal form data and made minor formatting adjustments.
+
+Developed comprehensive office and feedback management systems for QRIAS project
+Enhanced QRIAS with comprehensive dashboards, QR code management, and refined feedback system
+Built a complete office management system with user associations and admin tools. Also enhanced the feedback system with QR code management, control numbers, and role-based access. Created dynamic dashboards with analytics, trends, and office-specific views for service transactions. Added full QR code management with generation, download, and sharing features while refining the feedback form with new options and performance fixes.
+Advanced QRIAS with reporting, rate limiting, Developed an admin reports page with Cochran and Ul enhancements
+Refined QRIAS feedback system, enhanced reporting, and presented to office head
+formula integration and enhanced dashboard filters. Added security with rate limiting and device cooldown, plus UI upgrades like a responsive welcome page with particle effects.
+Refined the feedback form with CSM introduction, Data Privacy Notice, and bilingual labels. Enhanced reporting with filtering and CSV export, then presented the system to the office head for approval
+
+QRIAS Reporting Enhancements & Menro- For QRIAS, updated Response Rate formula, Sweep Landing Page
+Menro-Sweep Geo-Spatial Tracking
+standardized terminology across reports, enhanced barangay reports with intelligent filtering, and added a centralized CSV download utility. For Menro-Sweep, upgraded the landing page with premium decorative design sections.
+Implemented geo-spatial clustering and live GPS tracking for field logger, with date/month/year filtering for points. Added Manolo Fortich GeoJSON file and functionality to read latitude/longitude when adding records.
+Menro-Sweep Database Normalization & Completed Monitoring Enhancements
+OJT Recognition & Quality Assurance
+3NF normalization across modules, added randomized seeder for household collection records with collection point seeders, and enhanced barangay monitoring logs with pagination and granular date filters. Also removed map color on zoom for cleaner visualization.
+Attended the OJT recognition programme in the morning. In the afternoon, performed quality assurance testing for both QRIAS and Menro-Sweep systems. Balancing celebration with responsibility highlighted how far I've come in my internship, ending the day by ensuring both systems are production-ready.
+
+Cleaned up my files and polished the sytems The Internal Audit Services offices asked for the last time.
+for a revision on the system regarding the bulk data entry module, this was quite exhausting that there was miscommunication on our last meeting because the results did not met her expectations on the results.
+Settled up my requirements for my OJT The days were fast and my OJT journey
+course.
+came to an end. This was a great experience, working in an actual IT field. This built and honed me to become better in my field as well as in myself. I have realized that working in the field was hard and not easy, 40 hours per week was a great experience yet a challenging one, for this gave me a culture shock. Experience is what I got when I didn't get what I wanted.
+
+Bayad Manolo Fortich Initiation & Menro- Initiated a new project "Bayad Manolo Sweep Client Presentation
+QRIAS barangay module presentation
+Fortich" with initial commit and Spatie
+permission package setup. Conducted a half- day client presentation of Menro-Sweep to Menro stakeholders. Launching a payment- related system while simultaneously presenting another project demonstrates the increasing responsibility and trust in handling multiple client-facing initiatives.
+Presented the key functions for the barangay module that was added in the QRIAS feedbacking system and was evaluated by the stakeholders that the system was good but needs refinements on report formats and accuracy. Learned that centralization of data is simple but quite challenging especially when the clients urgently needs an immediate update for the development.
+QRIAS Unified Reports & Dashboard Removed 2FA, fixed user profiles, and Refinements
+Emotional Intelligence
+implemented comprehensive unified reports for barangay and office levels including Service Quality Dimensions (SQD) 0-8 ratings, Citizen's Charter results, demographic data, and response rate summaries. Building granular reporting metrics taught me that data visualization is only as valuable as its accuracy-every percentage and rating must trace back to clean, validated source data to maintain client trust.
+Attended the Emotion Intelligence for ICS 4th year student. In these sessions I learned new perspective about life and emotion, to never judge and it is okay to not be okay. These El sessions change a part of me.
+
+Day 1 (Feb 23, 2026): Set up the development The setup helped me understand the system environment, installed Laravel dependencies, structure and tools used by the team. It also and configured credentials. Introduced myself helped me adjust to the working environment. to the MISO team and started migrating the system into Laravel. Reviewed the codebase and made initial commits.
+Day 2 (Feb 24, 2026): Implemented Livewire CRUD for customer and deceased records and integrated role-based permissions using Spatie. Worked on the interactive map by seeding grave data from GeoJSON files. Day 3 (Feb 25, 2026): Attended a meeting at MENRO to administer a system development survey. Developed admin user management, an inquiry system, and improved the sidebar with role-based access.
+Day 4 (Feb 26, 2026): Finalized system features including reservation and exhumation request workflows, dashboard statistics, API routes, and improvements to grave management.
+This improved my my skills in Laravel development and database seeding. It also helped me understand how spatial data can be integrated into a system.
+The meeting provided experience in gathering client requirements. It also strengthened my understanding of user roles and authentication.
+This helped me understand how different features work together in a complete system and improved my experience in building integrated functionalities.
+
+Prepared Sweep demo and enhanced Online For the Sweep project, made progress on Services with SMS notifications
+Integrated QRIAS feedback surveys into Online Services transaction workflows
+Continued and refractored the codebase for online services for production.
+printing invoices, adding truck owner functionality, and preliminary map-related features in preparation for an upcoming demo. For Online Services, implemented SMS texting support for transaction nudges and dynamic SMS verification readiness checks, while resolving verify-OTP redirect loops and merge conflicts in the authentication flow.
+Successfully bridged both systems for real- time feedback collection, improving user engagement through SMS notifications and enhancing admin data consistency with service code implementation. Learned the difference between it works on my end vs it does not work on the production. But still, continued on fixing the errors.
+
+Real-Time Dashboard & Online Services QA
+Fixed
+downloadable form errors and enhanced feedback CTA visibility in client transaction section for Online Services. Added 5-second JavaScript polling for real-time data processing on QRIAS dashboard. Performed quality assurance testing on Online Services. Practices such as rate limiting provides better system security.
+QRIAS Client Presentation & Reporting Presented the QRIAS system to IAS Upgrade
+department clients, redesigned the welcome page color palette, and upgraded unified export to multi-sheet Excel. Added an image carousel view and made minor text corrections (ARTA capitalization, citizens spelling). Client presentation was a bit nervous at first but later got used to it.
+QRIAS Client Request Fixes & Paper Form Redesigned welcome page with municipality Data Entry
+Joint System Presentation & Evaluation
+branding and logo, added admin paper form data entry page with searchable office dropdown, auto-generated control numbers, and paper submission support. Fixed client- requested changes including required fields for client type and sex, margin adjustments, and removed border radius from image carousel.
+Both Online Services and QRIAS was presented to the administration and evaluated on the revision list for both systems.
+
+QRIAS Transaction Backlogging & Unified Implemented transaction backlogging with Barangay
+Reports management tooltips, created unified
+barangay reports compiling all data into a single CSV file, and added search functionality for logging transactions. Resolved type mismatches in the Barangay reporting suite. I rushed this project because it needed to be done by the week, teaching that while speed is important, maintaining code quality and proper testing should never be sacrificed for deadlines.
+QRIAS Report Standardization & Complaint Standardized feedback reports, unified Analytics
+office/barangay reports, and added complaint analysis with CSV export and badge clearing.Consistent data presentation across user roles proved essential for maintaining stakeholder trust in shared metrics.
+User Assignment Constraints & Report Implemented user RBAC on barangay and Download Optimization
+Office Personnel Accounts & Clearance
+office designations. Spent the day on school clearance, reinforcing that balancing academic obligations with project deadlines requires disciplined time management. Applied hotfix for office view database referencing and updated user seeders to create accounts for office personnel. In the afternoon, completed school clearance requirements. Wrapping up Wrapping up academic obligations while maintaining system stability for end-users marked a productive transition toward project completion.
+Audit Logs, SQD Refinements, & Barangay Implemented comprehensive system activity
+Dashboard Enhancements
+logging with advanced filtering and premium Ul, and refined SQD. Fine-tuning small but impactful details-like local language adjustments and N/A handling-proved that user-centered design thrives on listening to end-user feedback and adapting quickly.
+
+Day 9 (Mar 9, 2026): Submitted the Manolo Fortich Memorial Park system for production deployment (memorial.manolofortich.gov.ph). Updated GeoJSON file paths and finalized configurations. Expanded the menro-sweep project with placeholder views for modules such as waste diversion, weighbridge operations, barangay monitoring, billing, collection maps, garbage schedules, and waste disposal.
+ay 10 (Mar 10, 2026): Improved documentation and README for the Memorial Park project. Implemented role-based access using Spatie Laravel Permission in the menro-sweep project. Started the QRIAS feedback system with a Figma prototype and demo repository.
+Day 11 (Mar 11, 2026) Worked on the QRIAS feedback system by creating Ul prototypes in designing the Entity Relationship Diagram (ERD) Figma, preparing project documentation, and
+Deploying the system gave me experience in preparing applications for production. Expanding the module structure helped establish the foundation for future system development.
+Documentation improved the clarity and maintainability of the system. Implementing role permissions strengthened my understanding of access control in Laravel.
+Prototyping and designing the ERD helped clarify the system structure and data relationships before development. It also improved my skills in system planning and documentation.
+
+New TricabQR Project & Cross-System Initiated TricabQR project for LGU Manolo Feedback Handshake
+with QR generator, vehicle lookup, operator pages, and registration hub. Implemented automated feedback-to-completion callback loop across Online Services and QRIAS for seamless transaction integration.
+TricabQR Role-Based Access & Scanner Added comprehensive RBAC system with Implementation
+QRIAS Barangay Module Expansion
+role-based sidebar visibility, QR code seeder, scanner functionality, and scan logs capturing browser/device details. Finalized status-driven permit lifecycle with automated 1-month QR sticker duration and updated system branding with official LGU seal.
+Added barangay-level feedback data entry, dashboards with real-time polling, and interactive sorting for municipal/barangay reports. Implemented barangay seeders, migration files, and enhanced backend analytics while optimizing controller performance and satisfaction rate calculations.
+QRIAS Barangay Refinements & TricabQR For QRIAS, added office filtering in reports,
+Bulk Printing
+service type for barangay services, removed operators tab, and updated dummy seeders, sidebar layout, and logo redirection. For TricabQR, fixed bulk print functionality.
+
+Assisted in the event of G-Cash
+Fixed 403 Errors Across TricabQR & QRIAS
+Spent half the morning at the gymnasium assisting with the GCash event. Event support taught me that real-world IT work often means wearing multiple hats in a single day, from coding fixes to on-site technical assistance.
+Bayad Manolo Fortich Security & QRIAS Added rate limiters for vulnerable Management Features
+endpoints in Bayad Manolo Fortich. For QRIAS, implemented force edit and delete capabilities for feedback entries and added pagination for barangay and office-related lists. Adding force edit/delete and rate limiting showed me that administrative systems need both power tools for moderation and protective guardrails to prevent abuse.
+QRIAS Bulk Permissions & Stakeholder Added bulk permissions feature and fixed System Modification Request
+server permission errors using method spoofing for bulk entry limits (v1.2.8). The IAS LGU stakeholder requested system modifications, and I assisted them in identifying requirements and next steps. System modifications require careful scoping, helping stakeholders articulate what they need versus what they want ensures development stays focused and delivers real value without endless feature creep.
+QRIAS Submission Trends & Online Services In Online Services, created and updated
+Citizens Charter
+the Citizens Charter with the recently revised version. Small Ul refinements like renaming features for clarity and keeping legal documents current make systems feel professional and trustworthy to end users.
+
+Day 5 (Mar 2, 2026): Conducted QA testing for the system and attended a client meeting with MENRO. Implemented an activity logging system, admin user management with role assignment, and features for users to manage grave reservations and ownership details.
+Day 6 (Mar 3, 2026): Created wireframe designs and a System Development Specification for MENRO. Added a sidebar layout, landing page navbar, database seeder, and an admin system logs page with filters. Worked on the SRS and Figma prototype.
+Day 7 (Mar 4, 2026): Developed a Figma prototype and created the initial repository for the menro- sweep project. Added foundational UI components and placeholder routes for waste management modules. Updated features in the memorial park system.
+Day 8 (Mar 5, 2026): Implemented the application sidebar layout and welcome page for the menro- sweep project. Added placeholder elements for future modules and refined the Figma prototype for presentation.
+QA testing helped identify improvements for system reliability. The client meeting provided insight into real client workflows and system requirements.
+Designing the wireframe and SRS improved my understanding of system planning and documentation. It also showed the importance of clear design before development.
+Creating the prototype and repository helped establish the foundation for a new project. It also improved my skills in planning system architecture.
+This task helped me focus on building the system's interface structure. It also emphasized the importance of aligning design with client expectations
+
+Fixed 403 Errors Across TricabQR & QRIAS
+QRIAS Role-Based Sidebar Controls
+QRIAS Barangay Deployment Day 1
+QRIAS Barangay Deployment Day 2
+ORIAS Post-Deployment Bug Fixes & QA
+Resolved Ubuntu server 403 resistance for PUT, PATCH, and DELETE methods in TricabQR, and fixed 403 edit issues and system configuration errors in QRIAS live server.Server environment quirks like 403 errors taught me that local development and production behavior can differ drastically. Granular access control taught me that security and user experience must work hand in hand-giving users only what they need keeps interfaces clean and data protected.
+Presented QRIAS to all 22 barangays of Manolo Fortich together with the Internal Audit Services, training them to use the system for efficient ARTA compliance reporting. Presenting directly to 22 barangay representatives showed that user adoption hinges on clear training and responsive iteration, and listening to end-user feedback immediately shaped better updates that afternoon.
+Continued the barangay training event with no system issues reported. Then concluded the day with revisions and concerns regarding the system. For two days I felt pressured and relieved as well.
+Fixed multiple barangay concerns including inability to edit Citizens Charter in forms, inability to view/edit service monthly logs, and incomplete complaint report generation. Performed quality assurance on additional system features. Post-deployment support revealed that real-world usage always uncovers edge cases no amount of testing can predict. Being responsive to user- reported issues within 48 hours built trust and ensured smoother adoption across all 22 barangays.
+
+Refactored database integration between QRIAS Refactored QRIAS to eliminate redundancy by and Online Services
+Stabilized cross-database integration between QRIAS and Online Services
+Enhanced QRIAS with auto-logout, trend visualization, and assisted Online Services QA
+Preparing and configuring the wavecom GSM modem as a sms sender for our Online Services Web App
+directly hooking offices and services tables from the Online Services app. Advanced Online Services with QR selection integration for feedback surveys and auto-archiving for completed transactions.
+Resolved cross-database validation errors to successfully join both applications' databases for seamless feedback submission and reporting. Streamlined office management by removing redundant functions and improved dashboard responsiveness with optimized forms and mobile enhancements.
+Implemented a 6-hour auto-logout feature and added Liquid Marble trend visualizations to enhance security and data presentation. Assisted in Online Services quality assurance testing despite a 5-hour power outage.
+I have learned the basic functionalities and commands for a GSM modem. Configured it until it sends a message.

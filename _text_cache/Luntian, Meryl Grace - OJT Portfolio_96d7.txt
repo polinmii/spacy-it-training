@@ -1,0 +1,292 @@
+1 built he login screen so employers can enler the
+Croaled the Employer Login page. system. I made sure the design is clean and sasy
+for them to use.
+1 crated a form fof new employats (o ragiater their
+Duvaloped ihe Employer Sign-up form. nceounts. I focused on making the registration
+o D ponaible.
+Iworked on the main page that employors soo aftor
+Designed the Employer Dashboard layout. they log In. I loarned how to organize different
+tho ay that makes sense.
+I added the specific form used by PEEO for listing
+I used "?'hnlulrbul:'frd in our u:::v: project to
+maks user's life easier, I re that giving
+Applied Capsione design principles. users clear options helps them finish their tasks
+I pushed my moming and alemoon wotk to the
+Managed code varaioning with Git it syatem al the sama Uma. I learned that I need to
+sirva aind push my coda mare often to keep a good
+record.
+S Ja}omom us different taske so we could
+Attended task alignment with Sir Jerome. finioh the project faster. I learned that dividing the
+kha ps the whole team stay productive.
+M DITS
+Prosonted landing page decigne to Ma'am modhnwln.:::em .:'n::' e'":;
+~. parts from sach of
+ourdesigns (o combing. This taught me how to take
+Merged design alements based on feedback, the best ideas from differant people to make ane
+gronl reaull.
+o disc e new features that Ma'am
+Lorraine wants (o add (o the portal, This heipad me
+see the biggar pleture of how the whola syslem will
+Even though we are nol all prasant o do the
+bralnstorming how to marge averything, I kept
+Conlinued Job Seeker portal development. working on the job sesker xection. I learnad 1o bo
+Roviewed the updalad aystem requiroments.,
+
+Digitalized raw survey data via Google Forms.
+Updated system branding and portal title.
+Adjusted the background image for Mobile View.
+Fixed the CSS
+Visual polish: shadows and thickness.
+Refined element sizing for uniformity.
+Prepared code for repository merging.
+m Luntian, Meryl Grace B.
+PESO Manolo Fortich
+We encoded paper survey results gathered by the
+BA interns regarding the market crisis into a digital
+format. I learned that accurate data entry is
+essential for providing correct information, which
+helps the office make informed decisions and plan
+future actions effectively.
+I changed the name of the project to "Link Job
+Resource Portal' in the title and header. This
+taught me that keeping the project name consistent
+is important for a professional look.
+I fixed the top and bottom sections of the mobile
+version so they don't block the background. I am
+learning how to balance design and visibility on
+small screens.
+One of my teammates said thal because of the
+CSS his code is not working so he tried to change
+it but then it looks broken so in my branch I fixed
+the attached CSS to the main landing so it will not
+cause future problems.
+I adjusted the small details like shadows and
+border thickness to make everything look uniform.
+I realized that a design looks much better when all
+the elements match perfectly.
+I fixed the sizes of different buttons and boxes so
+the landing page looks organized. I learned that
+staying consistent with sizes makes the website
+easier to read.
+We learned that in order to merge the full code is
+we need to pull request first and not just do the git
+merge in the terminal as it causes problems
+because the old code is the one it merges to your
+branch so after doing the pull request and
+approving it in github we merge it to our branch
+from there.
+
+Developed mobile-responsive CSS for portal
+features.
+Optimized mobile background and tabulation
+layout.
+Performed CSS cleanup and removed redundant
+code.
+Added the system Favicon and fixed background
+scaling.
+Encoded the Week 2 market crisis survey data.
+Synced all Ul and mobile updates to GitHub.
+I updated the CSS to make sure the portal features
+adapt to smaller screens. I learned that designing
+for mobile requires extra care to make sure
+elements don't overlap or look messy.
+I fixed the background scaling and the navigation
+tabs specifically for phone users. This taught me
+how to keep the website looking professional and
+easy to click on a touchscreen.
+I went through my files to remove "broken" or
+unused code that was no longer needed. This was
+a good lesson in keeping the project files clean so
+they are easier to manage later.
+I added the small logo to the browser tab and made
+sure the main background stays in place when the
+window changes. I realized that these small details
+make the whole project feel more complete.
+I spent time encoding paper survey results into the
+Google forms for the office records. I learned that
+being patient and accurate with data entry is just as
+important as writing code.
+I pushed all my final design fixes to our shared
+folder so my teammates could see the changes.
+This taught me how to properly save and share my
+gress using version control.
+
+1. Start developing the Admin module and Job Seeker Portal.
+2. Attend the Charter Day opening program.
+3. Provide technical support during Job Start Employers' forum.
+4. Facilitate SPES examination.
+I set up the "web routes" so the buttons lead to the
+correct pages like adminlogin and jobseeker
+dashboard. I learned that routing is the backbone
+that connects the whole system together.
+I added the dashboard files and ensured the layout
+was functional. I realized that keeping the code
+organized in separate PHP files makes it much
+easier to manage and update later.
+I modified the home page to display job listings and
+fixed the icons to ensure they show up correctly. |
+learned that visual icons help users understand
+features without having to read a lot of text.
+I adjusted the CSS to center the apply buttons and
+modify header sizes. I leamed that even small
+alignment fixes make a big difference in how
+professional the website looks to a user.
+As an LGU intern, I participated in the official
+opening event. I learned about the importance of
+civic participation and how different government
+offices coordinate for large community
+celebrations.
+Ate Razell and I helped install a printer at the ABC
+Hall for the employers' forum. I learned that laptops
+need specific drivers and must share the same
+network as the printer to function, and I also
+learned that other printer brands are complicated.
+I created the dedicated login page for the
+administrator side of the system. This taught me
+how to separate user roles so that different types
+of users have their own secure entrance.
+I assisted in managing and supervising the exam
+for student applicants. This experience taught me
+how to handle administrative tasks and provide
+clear instructions to a larg
+Configured system routing for Admin and Job
+Seekers.
+Integrated the Job Seeker dashboard PHP
+components.
+Updated Home Page Ul with job listings and
+icons.
+Refined Ul alignment and "Apply" button
+centering.
+Attended the LGU Charter Day opening
+ceremony.
+Provided technical support at the Job Start
+Employers' Forum.
+Developed the Admin Login module.
+Facilitated the SPES examination for student
+applicants.
+Repnblic of the Philppines
+Mattolo Forrich, 4703 Bukidnon
+Documantation:
+P . . -~
+A A -Ahc bAoA A
+Noted by:
+- FAISAH S _BAS MMM . LORRAI
+
+Created the partial layout for the OFW dashboard.
+Encoded applicant profiles into the official PESO
+system, the PEIS.
+Continued typing data into the PESO employment
+records.
+Checked the digital profiles encoded from the
+paper forms.
+Switched to encoding PES\O\ profiles using my
+mobile phone instead of my laptop.
+I started coding the look of the OFW dashboard
+based from my practice OFW dashboard in my
+individual project. I leamed that integrating what |
+practiced to the team's system is not that easy
+since the layout and design in my project is not the
+same as the team's.
+I typed physical paper forms into the office's main
+computer system. I learned that handling real
+public records requires a lot of focus so I don't
+make typing errors especially that I am dealing with
+different people's penmanship.
+I spent the day encoding more applicant's
+information into the database. This taught me how
+a real govemment system organizes large
+amounts of information and it left me wondering
+what database are they using to store all these data
+and how they secure It.
+Before encoding the information from the PESO
+profiing forms, I first checked whether the
+applicant's information already existed in the
+system so that I could update it if necessary.
+Through this task, I leamed the importance of
+double-checking records to avoid creating
+duplicate applicant profiles, especially those from
+previous years that were already stored in the
+system. E
+I moved my data entry work from my laptop to my
+phone because it was much easier to use. |
+realized that using the phone helped me work in a
+better posture, which stopped the upper back
+aches I was getting from sitting in front of the laptop
+all day.
+
+I spent the day typing data from paper forms in
+PEIS. I leamed how to work faster while still
+keeping the information accurate and I was able to
+adjust with the different penmanship of people and
+was able to read them clearly.
+I handled additional profiling documents to assist in
+reducing the office backlog. Through this
+experience, I learned that maintaining a consistent
+pace helps me remain attentive and productive
+during lengthy encoding tasks.
+I went through the trainees' modules, checked their
+answers and added up their total scores. I leamed
+that I need to be very careful when totaling the
+scores so that every trainee gets the correct total
+score.
+I completed the rest of the assigned paper forms
+since ma'am Lai said that the target applicants for
+this month have been reached. From this
+experience, I realized the importance of
+maintaining updated applicant records to support
+the smooth flow of office operations and ensure
+accurate national reporting.
+I showed the progre$s of the OFW portal to Ma'am
+Jalou who is in charze of the OFW program for her
+to review. I leamed that asking feedback from the
+person in charge is important so we know what
+changes are needed and can improve the project
+correctly.
+
+1. Update backend logic and fix routes for the OFW user accounts.
+2. Build and add a downloadable PDF form for the DMW (Department of Migrant Workers) module.
+3. Finish checking the remaining Job Start modules and record all the trainees' scores.
+I wrote the code to fetch user details and show
+Added backend logic for OFW dashboard stats and I correct statistics on the OFW dashboard. I leamed
+how backend logic connects database info directly
+to what the user sees.
+I corrected the code for logging out safely and
+updated the OFW usemame labels. I realized that
+Fixed the system logout routes and user labels. making = u & basio') s like the Logout button
+] added new portal feature in the landing page
+Added OFW assistance options and fixed the Data I which is for OFWs and fixed how the data privacy
+Privacy pop-up. consent box appears. This taught me how to make
+I went through the rest of the remaining modules
+from last week. I leamed that finishing a big pile of
+Checked the remaining Job Start trainee modules. I paperwork requires good time management and
+the work is faster when you're not working on it
+alone.
+Nani and I worked together to type all the
+calculated scores into the Excel sheet. I noticed
+m and compiled the final scores of the Job | 421 the work became fasterwhen I read the scores
+Ioas. aloud and Nani typed them. Even this simple
+teamwork helped us finish the task more
+I added a function that lets users see and download
+ml - a downloadable PDF form for the DMW | 4.0 omicial PDF form for migrant workers. I leamed
+3 how to handle PDF files inside the web builder.
+I fixed some display bugs and worked on getling
+the correct location coordinates for the module.
+F"ef'e:s'" ys"se:'"d map coordinates. in the DMW I e taucht me that working with map coordinates
+peavt G takes extra testing to get things exactly right and it
+was pretty stressful.
+
+I greeted clients who needed a PESO clearance
+Assisted office clients with the PESO clearance I and helped them sign the official office logbook. |
+logbook. learned how to welcome the clients politely and
+keep the front desk orderly.
+I explained the forms to the clients and showed
+Guided clients in filling out the PESO profiling I them how to fill out their details correctly. I realized
+forms. that giving clear instructions helps citizens finish
+their paperwork much faster.
+I asked the clearance clients to answer the office
+Distributed and collected client satisfaction I survey after processing their papers. This taught
+surveys. me that listening to public feedback is important for
+improving government services.
+I spent time encoding the PESO profiling forms into
+Fncoded paper PESO profiing forms into the I o official PEIS. This taught me how to handle
+. important client's data accurately and efficiently.

@@ -1,0 +1,537 @@
+I focused on setting up the complete development
+environment needed for our system project based on
+the tools and resources provided by the MISO office.
+B DAY 1 February 24, 2026 I installed and configured the necessary software
+such as Laravel, Livewire, XAMPP, Node.js, and
+Installed development tools. PHP to ensure that the development process would
+Verified system compatibility. run smoothly. After the setup, I checked if all the
+Prepared development environment. tools were functioning properly and prepared the
+environment for future system implementation while
+waiting for further instructions from the Head of
+MISO.
+I continued fixing the system setup because I was
+still encountering several errors in the development
+environment. I experienced issues with XAMPP,
+especially when running Apache and MySQL, and |
+= DAY-2Eebruary 25; 2026 also encountered errors in Visual Studio Code when
+X trying to use the php artisan serve command. To
+f TIOURISSHOLXAMPP arfors. solve these problems, I installed and configured
+Configured Composer. c L )
+> Installed Laravel 12. omposer properly, then proceeded with installing
+Laravel 12. Most of the day was spent
+troubleshooting and resolving compatibility issues to
+ensure that all development tools were working
+correctly together.
+m DAY 3 February 26, 2026 I tested the login page and its connection to the
+database to check if the Laravel system was
+Tested login page. functioning properly. I needed to confirm
+Debugged database and authentication. I whether user roles such as staff and admin,
+Assisted in pinning ceremony. along with their emails and passwords, were
+being recognized by the system.
+
+YV VY
+DAY 4 March 2, 2026
+Coded dashboards.
+Designed front-end layout.
+Worked on profile and mapping
+features.
+I continued working on the system development,
+focusing mainly on coding the Admin Dashboard
+and Staff Dashboard. I also worked on the Local
+Profile Form and the mapping feature for both
+admin and staff sides. Most of the work was
+dedicated to frontend design and layout to make
+the interface organized, user-friendly, and
+visually clear.
+DAY 5 March 3, 2026
+Improved mapping feature.
+Gathered barangay information.
+Organized Local Profile Form.
+I focused on improving the mapping feature of
+the system to make it more accurate and
+reliable. I fixed several parts of the mapping
+functionality to ensure locations display correctly
+and work properly when searching. I also
+gathered information about the 22 barangays to
+make the search feature more organized and
+precise.
+DAY 6 March 4, 2026
+Connected Local Profile Form to
+database.
+Linked mapping feature to database.
+Tested data storage and tracking.
+I worked on integrating the database with the
+Local Profile Form, allowing the information
+entered to be properly stored. I also connected
+the mapping feature to the database, enabling
+the system to display and track the number of
+people registered in each barangay.
+DAY 7 March 5, 2026
+Adjusted form layout.
+Improved export-to-PDF feature.
+Refined element alignment and
+spacing.
+I focused on fixing the layout of the Local Profile
+Form, especially the export-to-PDF feature. |
+adjusted the alignment, spacing, and structure
+of the elements to make the generated PDF
+resemble the original form wused in
+documentation. Although the layout is not yet
+fully identical, this task helped me better
+understand formatting and styling when
+converting web forms into PDF format.
+
+DAY 8 March 9, 2026
+Searched for updated logo.
+Edited and improved logo quality.
+Refined Local Profile Form layout.
+I searched for the updated logo of the province
+to replace the outdated one in the system. After
+finding a clear copy on the PDAO Bukidnon
+Facebook page, I edited and enhanced its
+quality to make it suitable for the system and
+generated forms. I also continued improving the
+layout of the Local Profile Form, adjusting
+elements to make it more organized,
+professional, and closer to the official format
+used by the office.
+Y Vv
+DAY 9 March 10, 2026
+Participated in field activity.
+Assisted in prosthetic assessment.
+Observed prosthetic donation
+process.
+I participated in a field activity organized by our
+head, where an organization was donating
+prosthetic legs to persons with disabilities. The
+activity involved assessing individuals who could
+benefit from receiving a prosthetic leg and
+providing assistance to those who qualified.
+vV Vv
+DAY 10 March 11, 2026
+Adjusted PDF layout.
+Automated digital elements.
+Tested PDF generation.
+I continued improving the layout of the Local
+Profile Form when exported to PDF. After
+adjustments and testing, the PDF layout was
+almost perfectly aligned with the original form. |
+also enhanced the system to make the form
+more digital and automated, allowing elements
+like the 1x1 1D photo, signature, and thumbmark
+to be inserted directly into the PDF.
+DAY 11 March 12, 2026
+Reviewed PDF layout.
+Adjusted design and alignment.
+Improved readability.
+I continued finalizing the PDF of the Local
+Profile Form, carefully reviewing the layout,
+alignment, and content to ensure all sections
+matched the required format. I made additional
+adjustments to improve the overall design and
+readability. Although it is not yet 100% perfect,
+the PDF is now much closer to the desired
+output and more presentable for use.
+
+DAY 12 March 16, 2026
+Finalized digital signature and
+thumbmark.
+Checked placement and alignment.
+Tested PDF display.
+I finalized the digital signature and thumbmark
+integrated into the Local Profile Form. I ensured
+that both elements were properly placed, clear,
+and aligned with the required format. I also
+tested their appearance in the PDF to confirm
+they displayed correctly and maintained good
+quality. These improvements made the form
+more complete and fully digital.
+DAY 13 March 17, 2026
+Added polygons and boundaries.
+Included all 22 barangays.
+Improved map visualization.
+YV VY
+I added polygons and boundaries to the
+mapping system to improve its visual
+appearance and functionality. I included all 22
+barangays, making the map more organized and
+easier to understand. These enhancements help
+users clearly identify each barangay and provide
+a more detailed and interactive mapping
+experience.
+DAY 14 March 18, 2026 I conducted testing on different functions of the
+system. During this process, I encountered
+Tested system functions. multiple errors that required debugging. |
+Debugged encountered errors. continued testing other parts of the system to
+Compiled list of issues. identify additional issues, which allowed me to
+compile a comprehensive list of problems.
+B DAY 15 March 19, 2026 I continued identifying and analyzing remaining
+errors in the system. I focused on thoroughly
+> Tested system functionalities. testing different functionalities to ensure all
+> ldentified remaining errors. existing issues were properly detected. This
+> Analyzed areas needing process helped me understand which parts of
+improvement.
+the system still require debugging and
+improvement, aiming to make the system more
+stable, efficient, and error-free.
+
+DAY 16 March 23, 2026
+Attended pictorial.
+Resumed system tasks.
+Fixed system errors.
+We had our pictorial, which started at around
+9:00 AM. I asked for permission earlier that day
+since the pictorial was required. After it ended at
+around 1:00 PM, I resumed my duties and
+continued working on fixing some system errors.
+Although not all issues were resolved, I made
+progress in addressing several problems and
+continued improving the system..
+Y V VY
+DAY 17 March 24, 2026
+Presented system features.
+Attended review meeting.
+Received feedback and suggestions.
+I presented my system to our head and
+discussed its current features and functionality.
+We held a meeting to review the system and
+identify areas that still need improvement or
+additional features. During the discussion, |
+received feedback and suggestions, which will
+guide the next steps in further developing and
+refining the system.
+DAY 18 March 25, 2026
+Discussed project features.
+Gathered guidance from head.
+Planned system improvements.
+I temporarily paused my own tasks to focus on
+Kuya Anton's project. We held a discussion to
+clarify ~ which features, functions, and
+improvements should be implemented in his
+system. Our head was present during the
+meeting, which provided guidance, allowed us to
+share ideas, and helped us better understand
+the direction the system should take before
+continuing development.
+Y V VY
+DAY 19 March 26, 2026
+Improved Ul design.
+Enhanced system functionality.
+Assisted in overall output refinement.
+I assisted Kuya in improving the overall output of
+his system to make it more visually appealing
+and user-friendly. I helped enhance the user
+interface (Ul) design to make it cleaner, more
+organized, and professional.
+
+3 We added animations to Kuya's system to make
+I it smoother and more interactive for users. The
+W DAY20March 30. 2026 animations improved the overall user experience
+by making transitions, movements, and interface
+elements appear more polished and visually
+appealing. This enhancement made the system
+more engaging, modern, and easier to use while
+giving it a professional look and feel.
+I temporarily assisted my coworkers in creating
+identification cards for Persons with Disabilities
+Added animations.
+Improved user experience.
+Enhanced system interactivity.
+m DAY 21 March 31, 2026 (PWDs). I helped throughout the process by
+providing support in preparing the necessary
+> Assisted in ID creation. details and ensuring that the IDs were made
+> Prepared necessary details. properly and accurately. This task allowed me to
+| Supported team process. support the team in completing an important
+responsibility while improving my skills in
+administrative and office-related work.
+I assisted at the PDAO office by helping
+Persons with Disabilities (PWDs) applying for
+their identification cards. I guided them through
+B DAY 22 April 1, 2026 the process, assisted with the required
+> Assisted PWDs. information, and ensur_ed their concerns were
+> Guided application process. properly addressed. This experience allowed me
+> Completed half-day tasks. to improve my communication and customer
+service skills while contributing to the office's
+daily operations. Since it was a half-day duty,
+we were able to complete our tasks within a
+shorter working period.
+
+I worked on the form by adding some missing
+B DAY 23 April 6, 2026 parts in the code to make it function properly. |
+made small adjustments and helped fix a few
+Updated form code. issues. I also assisted in making identification
+> Fixed minor issues. cards when needed. This experience helped me
+Assisted in ID making. practice my coding skills and support the office's
+tasks.
+I continued working on the form by fixing the
+B DAY 24 April 7, 2026 layout, especially the margins and spacing in
+different parts of the design. I made simple
+> Adjusted margins and spacing. adjustments to improve its appearance and
+> Improved form layout. make it more organized. This task helped me
+Fixed design issues. pay attention to details and improve the overall
+design.
+I m DAY 25 April 8, 2026 1 worked on choosing the colors for the form and
+I logo to make the design look better. I tried
+| Color testing. different color combinations to see what fits
+| Logo colors. best. I found it a bit challenging since I am not a
+| Design improvement. designer, but it helped me understand basic
+I design choices.
+
+B DAY 26 April 13, 2026
+Design testing.
+Team discussion.
+> Layout improvement.
+I asked for help from Kuya Parane in deciding
+what design would look best for the system. We
+tested several design ideas and combinations to
+improve the overall appearance. This activity
+helped me learn more about design decisions
+and teamwork in developing a better output.
+B DAY 27 April 14, 2026
+| IT Fest attendance.
+Capstone presentation.
+Project observation.
+I attended the IT Fest at our school. It was the
+first day of the event where we presented our
+capstone projects together with all 4th year
+students. This experience allowed me to
+observe different system presentations and gain
+ideas for future improvements.
+B DAY 28 April 15, 2026
+> |IT Fest Day 2.
+Game competitions.
+IT contests.
+I attended the second day of the IT Fest. The
+program included different activities and games
+such as Mobile Legends (ML), Call of Duty
+Mobile (CODM), and |T-related competitions like
+networking and web design. This experience
+was enjoyable and also helped me observe
+different skills in both gaming and IT fields.
+DAY 29 April 16, 2026
+Office assistance (field work)
+ID processing and creation.
+Customer service and assistance.
+Y Vv
+I was assigned to help as a field employee in the
+office. I was not able to work on the system that
+day because there were not enough staff
+available, so I assisted instead in making IDs
+and accommodating customers. This experience
+allowed me to support the office operations and
+improve my communication and customer
+service skills while handling real clients and their
+I concerns.
+
+I focused again on the system design since
+) most of the functions were already completed,
+W DAY.30April 20, 2076 and only minimal features were left to finish. |
+> System UI/UX design improvement. yvorked on improving the overall layout and user
+Minor function adjustments. :r:zrfaiese'rofr:'gr?s; the'l'f?iiswg]aymo\:\?asorgi:al?:lg
+F Firalpeieting of syston imsdtec. dedicated to refining the design and preparing
+the system for final adjustments.
+DAY 31 April 21, 2026 I continued improving the system design and
+layout. I focused on fixing small Ul issues and
+Improved Ul layout. making the interface more organized and user-
+> Fixed minor design issues. friendly. I also reviewed some parts of the
+> Reviewed system interface. system to ensure consistency in design.
+B DAY 32 April 22, 2026 I worked on testing different parts of the system
+to check for errors. I identified some minor
+> Tested system functions. issues and started fixing them to improve
+lIdentified errors. system performance and stability.
+_Fixed minor bugs.
+m DAY 33 April 23, 2026 I continued debugging the system and improving
+I its functionality. I focused on making sure that
+| Debugged system. features were working properly and smoothly.
+| Improved functionality.
+Tested features.
+
+B DAY 34 April 27, 2026 I continued working on system improvements by
+reviewing existing features and making small
+> Reviewed system features. adjustments to enhance performance and
+Improved performance. usability.
+_Made minor adjustments.
+m DAY 35 April 28, 2026 I focused on testing the system again to ensure
+stability. I checked different functions and fixed
+> Tested system stability. any remaining issues found during testing.
+| Fixed remaining issues.
+| Checked functionalities.
+I m DAY 36 April 29, 2026 I worked on polishing the system interface and
+ensuring that all elements were consistent and
+Polished Ul design. visually appealing.
+Ensured consistency.
+_Improved layout.
+m DAY 37 April 30, 2026 I finalized the system improvements by
+reviewing all components and preparing the
+Final system review. system for completion. I ensured that most
+Checked overall functionality. features were working properly and the system
+Prepared system for completion. was ready for use.
+
+I m DAY 38 May 4, 2026
+| 12:00 PM).
+' Participated in meeting (5:00 PM - 6:00
+PM).
+Attended school reporting (8:00 AM -
+I attended a school event where we had a reporting
+scheduled from 8:00 AM to 12:00 PM at the national
+level. In the evening, I also attended a meeting from
+5:00 PM to 6:00 PM.
+I m DAY 39 May 5, 2026
+I received 10 kilograms of rice distributed by the
+I g . . . PDAQO as support for Persons with Disabilities
+| > Rec?'yed nce assistance (10 kIs). (PWDs). This activity was part of the assistance
+; Participated in PDAO support program. program provided by the office
+B DAY 40 May 6, 2026
+S Assistad diiaris I assisted in office tasks and helped process PWD
+: HZT;I)ZS pfofgss'le identification cards. I also accommodated clients and
+Assisted in office tasks. supported daily office operations.
+DAY 41 May 7, 2026
+I helped organize documents and assisted with
+< gbs.e{"zd fi' e worklow: customer concems related to PWD services while
+< SSISIECCUSIOMErs: observing office transactions.
+Organized documents.
+B DAY 42 May 8, 2026
+Completed assigned duties. I reviewed minor system issues and continued
+Assisted in office tasks. assisting with office responsibilities when needed.
+Reviewed system issues.
+
+B DAY 43 May 11,2026 I continued assisting in office operations and helped
+. ! accommodate clients who visited the office for PWD-
+\): ise'::(ee% ';fyfistcee:\hz:: ;ions related concerns. I also checked some system
+- . / ' functions and ensured that files were properly
+Organized important files. organized.
+m DAY 44 May 12, 2026
+I focused on monitoring office transactions and
+Monitored office transactions assisting in the preparation of documents needed for
+Prepared office documents. daily operations. I also reviewed system updates and
+Reviewed system updates. ensured that all records were properly arranged.
+B DAY 45 May 13, 2026
+I assisted in processing documents and continued
+Processed documents. helping clients with their concerns. I also performed
+Assisted clients. minor adjustments to improve system usability and
+> Improved system usability. checked for possible issues.
+m DAY 46 May 14, 2026
+< . I helped organize office records and supported staff
+: g;%:':rz;g g;gg ;T:;rds' with assigned tasks. I also tested several system
+> Tested system features. features to ensure proper functionality and stability.
+m DAY 47 May 15, 2026
+% -1 finalized remaining office tasks and reviewed
+; g:\r: gfizdcgfifieizkz;:fivmes completed activities. I also ensured that the system
+> Prepared reports and check d system was functioning properly and prepared reports
+functionality related to my assigned work.
+
+DAY 48 May 18, 2026
+I continued assisting in office operations and helped
+accommodate clients with their concerns regarding
+office services. I also reviewed system performance
+and ensured that documents were properly filed and
+organized.
+> Assisted office clients.
+Reviewed system performance.
+Organized and filed documents.
+B DAY 49 May 19, 2026
+I monitored daily office activities and assisted in
+Monitored office activities. preparing documents needed for transactions and
+Prepared office documents. office processes. I also checked system updates and
+Checked system updates and records. verified records for accuracy.
+B DAY 50 May 20, 2026
+I assisted in processing office documents and
+Processed office documents. continued providing support to clients. I also tested
+Assisted clients. system functions and made minor adjustments to
+Tested and improved system functions. improve efficiency and usability.
+DAY 51 May 21, 2026
+I helped organize office records and supported staff
+members with assigned tasks. I also checked the
+stability of the system and ensured that all files were
+properly managed.
+Organized office records.
+Supported office staff.
+Checked system stability and file
+management.
+B DAY 52 May 22, 2026
+I completed assigned office responsibilities and
+reviewed ongoing tasks to ensure accuracy and
+efficiency. I also prepared reports and monitored
+system functionality for daily operations.
+Completed assigned office tasks.
+Reviewed ongoing activities.
+Prepared reports and monitored system
+functionality.
+
+DAY 53 May 25, 2026
+Assisted office clients
+Reviewed and updated office records.
+Organized and arranged documents.
+I continued assisting in office operations and
+accommodated clients with their concerns regarding
+office services and transactions. I also reviewed
+office records and ensured that documents were
+properly arranged and updated.
+DAY 54 May 26, 2026
+Enhanced and updated the office
+system.
+Added new system features and
+functions.
+Tested system improvements and
+usability.
+I focused on enhancing and improving the office
+system by adding new features and making
+adjustments based on office needs. I also tested the
+added functions to ensure proper performance and
+usability.
+DAY 55 May 28, 2026
+Presented the developed system.
+Applied requested revisions and
+additional features.
+Fixed and improved system functions
+and performance.
+DAY 56 May 29, 2026
+Organized office files.
+Supported office staff.
+Monitored system stability and file
+management.
+At 2:00 PM, we presented our developed system for
+evaluation and demonstration. During the
+presentation, additional features, revisions, and fixes
+were suggested, so I worked on improving and
+correcting the system to meet the required
+adjustments and enhance overall performance.
+I helped organize important office files and supported
+staff members with assigned office responsibilities. |
+also monitored system stability and ensured proper
+file management for daily operations.
+
+B DAY 57 June 1, 2026
+Presented the developed system for
+We presented our developed system again for further
+evaluation and review. During the presentation,
+several minor improvements and corrections were
+evaluation. : A : s
+> Identified and reviewed necessary identified. Afier thg presentation, .l worked on fixing
+revisions. the remaining issues and ;nplementmg the
+> Fixed minor system issues and ge;:te;sr:iry e;fl;z';nceen; d ;Sn c%:)rrtw ae"; Ao e
+improvements. y g yB DAY 58 June 2, 2026
+> Fixed reported system issues.
+Added necessary features and
+improvements.
+Enhanced system usability and
+functionality.
+I continued working on the system by fixing reported
+issues and making additional improvements. I also
+added necessary features and adjustments based on
+office requirements to ensure better usability and
+system performance.
+B DAY 59 June 3, 2026
+Continued fixing and finalizing the
+system.
+Verified system functionality and
+performance.
+Completed internship exit clearance
+requirements.
+I continued finalizing and fixing the remaining system
+concerns to ensure that all functions were operating
+properly. After completing the necessary revisions,
+the system was successfully finalized and considered
+ready for use. In the afternoon, I also completed my
+exit clearance requirements as part of the conclusion
+of my internship.

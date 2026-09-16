@@ -1,0 +1,410 @@
+On the first day, we focused on
+understanding the clinic's cumrent
+workflow to determine what kind of
+system would best support he'
+operations.
+Day1(Mamh 19, 2026) : Conducted a
+quuck orientation an planning session
+]to identify the specific system
+requirements of the clinic.
+[& CamScanner
+e probitie of e Phibippines
+Wil Farvich. %708 Habdaon
+Dacumentation:
+? ~J
+T. LABINISIA KARL CLYDE STEPHEN C. ACOSTA , RN
+oJTC ator
+[& CamScanner
+
+1 Day1(March 23, 2026) : Served as the It was a bit nerve-wracking being the one
+technical assistant during the OSH "behind the scenes" for the seminar since it
+Seminar at NBSC Library, managing the was my first time. But it felt good to know the |
+presentation materials, multimedia for event ran smoothly and also I leamed a lot of |
+prayers, and other audio-visual things In the seminar. 1
+irements. |
+Day2(March 24, 2026) : Continued coding Spending my moming continuing our coding |
+the Profiling & Inventory System with a and in the afternoon we help to assist set up |
+focus on Ul development.And in the the tables and chairs the is used for
+aftenoon,We assisted in the physical tomorrow's program. {
+setup and preparation of the venue for the !
+Bloodletting Program. i
+Day3(March 25, 2026): Participated in Seeing so many people come together to |
+and provided support for the School donate blood was actually pretty inspiring. It
+Bloodletting Program. made me realize how much coordination it
+takes to run a big event-from the |
+registration to the actual medical part-and |
+was happy to play a small part in making it
+happen.
+Day4(March 26, 2026); Resumed the After being busy with events for a few days,
+development and coding phase of the it was nice to finally get back into the "zone"
+Profiling & Inventory System to Integrate I with my code. I focused on the Ul again,
+new features trying to make sure the system actually looks
+clean and is easy for people to use.
+[& CamScanner
+
+| Dayi(March 30, 2026) : Absent, I feel sick at this time, I have a sore Ihmd, (
+I excused/credited hours with supporting fever, and painful swallowing.
+I medical documentation. ;
+| Day2(March 31, 2026) : Focused on I focused on the real-time updates for the I i
+! backend integration and database consultaton modals-basically making |
+. schema refinement. Specifically worked sure that when a doctor types something |
+on linking the consultation modals to the i, it syncs instantly without any lag. It took |
+I database for reak-ime updates. a few tries to get the logic right, but seeing
+i it finally work smoothly was a great morale
+I booster for a rough day." 4
+I'namm 1, 2026) : Focused on input Today I moved away from the database |
+I validation and smoothing out the user structure and spent the time just 'breaking' f
+features. Basically spent the day 'stress- the forms. I was mostly trying to find ail the |
+bmng' the logic to make sure the systam ways a user might accidentally crash the |
+I doesn't crash when users enter data." system-Ilike typing the wrong m or |
+} leaving boxes empty-and writing the code |
+[& CamScanner
+Republic of e Philippies
+Munods Festigh, 8701 Pgkdaon
+[& CamScanner
+
+| Day1(April 6, 2026) : Spent the day diving
+back into the code, slowly building out the
+features we planned.
+I'm starting to get into a better rhythm with
+the development. It's satisfying to see the |
+system come to life after spending so mudt
+time on the initial setup
+Day'Z(ApnI 7, 2026) :Kept the momentum
+5 going with development, focusing on
+I cleaning up the design to make it easier
+' for the clinic staff to navigate.
+Thinking about how the staff will M !
+use this. I want to make sure the layout !
+isn't just "functional but genuinely easy ',
+and helpful for them in their busy ;
+environment.
+DaY&(Apnl 8, 2026) : Updated the weekly
+! log and assisted staff with
+g orgaruzmg enroliment forms.
+Day3(April 10, 2026) : Provided hands-on
+! assistance during the enroliment process,
+helping students and staff with their
+requirements.
+b s e
+Working on administrative tasks duqsndt
+my development work gave me a better |
+appreciation for the teamwork required to |
+keep the office running. Contributing to N
+team's immediate needs, like i
+enroliment forms, helped me feel more |
+eonnoctodtothopoophlund.ugnng;
+this system for,
+Engaging directly with the enroliment |
+process today was a great experience.
+felt good to step away from my
+and be active in the office.
+students and supporting the
+such a busy time made me
+Iimpartant teamwork and clear
+communication are in a fast-paced
+environment.
+[& CamScanner
+Bepubin al e Phibippaes
+SORTHERS BEKIDSNOS ST cannr ol
+osmobe bawih S0 bk ahbn
+Do wsieniation
+o ma
+KARL CLYDE $TEPHEN C. ACOSTA RN
+Ilonnun over Printed } N-m- of HTE Supervisor
+oJTC tor
+[& CamScanner
+SOMTHERS BEKIDSOSSTATE COLLEGE
+Glemd: gl 6700 thal o
+ONTHIE 0N TRAINING 1LOG BHEET
+WELKLY PROGAESS REPORT
+Torm Bocond Semestar AY 2026-2026
+ook
+Oljective(s) for the week:
+1 Yo sccurstely document dally health service transactions and consultations, actively
+paricipste In college-wide T events to present capstone research, and provide
+administrative .uppon duflng student enrollment operations,
+REFLECTIONS: '
+oing small fasks around the office can feel a -
+it repetitive. Even though some of these
+hores are not directly related to IT work, I still |
+ink It's a good experience. It helps me leam
+ow a real workplace operates and teaches me
+tobe helpful In any situation.
+' was pretly nervous aboul presenting our
+pstone, but I felt happy in the end. I nnlad
+at our project might have given some good |
+deas to our juniors. i
+"I Pariicipated In different games and It was a 1
+ally nice break from all the stress in life.
+" DmyV(Aprll 13, 2026) : Roeordod "dally
+cheweal transactions into the officlal Health
+Services Office logbook.
+" Duy2(April 14, 2026). Participated In the
+Department IT Fest,
+who consuled with Dr. Vel fo the clinic stafl, especially to Ma'am
+!'o-mm 17, 2026) . Provided was tiring to guide sludents all day, but I fe
+I mssistance during the second day of 10 help make things move a bit faster
+student enroliment ul the institution :
+[& CamScanner
+Repubiic of the Plhippines
+Matiols Fertich, $70 1 Dakdion
+CATH T LABINISIA KARL CLYDE STE
+ralnee Slgnature over Printed of NTE Supervisor
+[& CamScanner
+Reputiee of twe Palijgiees
+NORTHERN RUKIDNON STATE COLLEGE
+Mumeke Favpch %700 Pk dson
+Foim 9
+
+" Day(April 20, 2026) : Added the updated
+recommandation to include a medical
+certificate form in the clinic system.
+Adding the medical certificate form was a
+good task. It feels nice to know that this
+feature will make things much faster for the
+clinic staff,
+Today was just a regular day of typing data |
+Into the logbook. It is simple work, but it keeps
+the clinic records organized.
+" Day2(April 21, 2026) : Encoded the dally
+transactions into the clinic logbook
+Assisting Dr. Zeus was a really fun
+experience. It was nice to step away the
+computer for a bit and help out with a lve
+schaool event.
+"Day3(April 22, 2026) : Helped and
+_ assisted Dr. Zeus during his Oral Health
+Lecture avent.
+" Dayd(April 23, 2026) : Worked on fixing
+o WRBREIREPI
+I spent the day fixing bugs in our system. It |
+can be annoying when the
+I bugs and updaling the clinic system. code has erors, |
+i but it feels really satisfying once everything |
+i works perfectly, !
+DayS{Apri 24, 2026) 7 Provided | Since It waa aready the thid day of |
+I assistance during the Third day of student enroliment, wo knew exactly what to do. it was |
+I enoliment at the A still tiring because of the big crowd. but we '
+[& CamScanner
+Reputdc of the Philippines
+Maniodo Fortich, %708 Bukdaon
+[& CamScanner
+Hopadin of e Philippmnes
+Sapolo et b %0 Pk b
+
+Day1(April 27, 2026) : Scanned and
+named the students' medical
+certificates for digital filing.
+Scanning and naming files took a lot of fim,
+but it was satisfying to see everything fl
+organized.
+"Day2(April 28, 2026) : Focused on the
+system by making updates and adding
+employee personal info.
+Day3(April 29, 2026) : Continued working
+on the system and putting in employee
+I focused entirely on coding today.
+Spent another day working on the code. Ris a |
+bit tiring, but I just want to make sure there are |
+no errors. i
+The feature is working smoothly and the
+Information is complate. !
+TR DUV SRR SN N SRS S USSRV NEEO TP |
+[& CamScanner
+Popidenr & N Dhdvssmgs
+[& CamScanner
+
+Dayi(May 4, 2026) : Worked on the My co-intem and I were really busy coding
+inventory and employee profiling systems today. It was fun sharing ideas with my fellow |
+by adding new features. developer on what features we should add. |
+' Day2(May 5, 2026) : Continued updating We spent another busy day brainstorming and ;
+and coding features for both systems. writing code together. Working as a team !
+! makes it much easier to solve system |
+problems. i
+7Da)@(May 6, 2026) : Finalized and tested We finished coding the new features and '
+' the new updates on the inventory and tested them out today. It felt great to see our |
+I profiling systems. shared ideas actually working in the system.
+p.______________________;._________._.-____,
+, Day4(May 7, 2026) : Participated In the Today was very emotional because we shared
+| | Emotional nldngonco workshop personal stories and cried together. It was |
+hard, but It really brought everyone closer.
+WERELDN: AT AR
+;l'bo'ys(iuiy'"u",' 2026) : Continued in the 'thT- 'workshop really pushed me out of my |
+| Emotional Intelligence workshop comfort zone. It was a great experience that
+I helped me understand myself and others
+better,
+[& CamScanner
+Boped s o we Mhdgewes
+Showde T v b Y ol e
+[PURHUTSPEI-. s
+Slgnature over Namae of HTE Supervisor 3
+[& CamScanner
+Reprbiog of te Phrlippines
+Wamote Ferrigh UN Bl abon
+
+"Dayi(May 11, 2026) : Worked on
+updating our system code while helping
+out with small tasks around the clinic.
+Today was all about multitasking between
+coding and helping the staff. It was a bit busy. |
+" Day2(May 12, 2026) : Assisted the busy
+. clinic staff by measuring the height and
+- weight of students.
+I stepped away from the computer to help |
+measure students because the staff was super |
+busy. It was a simple task, but it felt good to |
+help lessen their workload. !
+"Day3(May 13, 2026) ; Managed student
+I aftendance for clearance purposes during
+: Dr. Val Acosta's consultation hours.
+It was hectic managing the student crowd for i
+Dr. Val's consultations today. It taught me how |
+to stay organized and patient when "lg
+with a lot of students.
+| Day4(May 14, 2026) : Assisted Dr. Val
+| Acosta by ensuring all students answered
+' the dlinic's survey form after thelr
+I consultation
+I had to make sure every y student completed
+their survey after seeing the doctor, It was |
+tiring to remind everyone, but it is important hr
+the clinic's records.
+SUSESRI IR R
+[& CamScanner
+T ---
+Rogndin, of me Moglipy et
+SORTHERN BUKIDNONSTATE COLLEGE
+Yool f @k LW ok W
+MMM
+Slgnature over Name of NTE Supervisor
+[& CamScanner
+Repnlin of e Philippines
+Manoks Fasth 2701 Bk lion
+ON:THE~JOB TRAINING LOG SHEET
+Newe Catherene T. Labinisla
+i Company Health Services Office
+! Week 10 i b
+1. To mulitask by helping clinic staff organize paperwork, and participate in the 3-day Gabfest
+Festival to showcase our capstone paper and system
+Dayi(May 18, 2026) : Multitasked by Today was all about sorting paperwork into |
+helping the clinic staff sort and arrange
+papers into different levels and
+envelopes.
+envelopes to help the staff.
+" Day2(May 19, 2026) : Continued assisting
+the clinic staff with organizing files and
+. handiing daily office tasks.
+Dlys(way 20, 2026) : Prepared our
+materials for the upcoming
+cmhmpruenta
+| Day4(May 21, 2026) : Participated In the
+! Intemational Gabfest Festival conference
+' to showcase our capstone paper and
+I system
+I spent another day multitasking and helping ;
+out around the office. It takes patience, but I'm |
+glad I can make the staffs workload a ittle
+lighter.
+We spent the day getting our capstone paper |
+and system completely ready for the big event. |
+I felt a bit nervous but excited.
+It was a proud moment
+presentingou"
+capstone at the International Gabfest Festival |
+today. It felt really rewarding to finally show off
+all our hard work to the different schools and
+places,
+[& CamScanner
+R T -
+Bepubin of the Phatippives
+Nomode btk 701 Rpkuleon
+KARL CLY! PHEN C. ACOSTA, RN
+[& CamScanner
+Beqatine ol i Philiggmas
+Shomde ik %08 b s
+Form
+
+Dayi(May 25, 2026) : Sorted old student | Today was really firing because of the huge |
+profiles into active or graduated folders. pile of folders we had to go through,
+Dtfl(lhy 26, 2026) Cut out Spending the day cutting out labels was a bit |
+"Confidential and different signages to be tedious, but it made the filing system look
+used for organizing the clinic files. much more professional and organized.
+Working from home was a nice break.| just got | .
+to encode all the medicine and also make tima |
+with my family.
+" Day3(May 27, 2026) : Worked from home
+to start encoding all dispensed medicine
+' logs from January to May into our system.
+Helped manage and assisting Dr. Val's event.
+I actually learned a lot about health and
+diseases.
+Day4(May 28, 2026) : Helped and
+I assisted during Dr. Val's health
+I awareness event about different diseases
+Staring at the screen and typing lines of logs |
+all day can get a bit draining. I had to take
+quick breaks to keep my eyesight fresh.
+o-yw.y 29, 2026) ; Continued the work
+I from-home setup, encoding the clinic's
+v dispensed medicine data,
+spent most of my Saturday keying in data
+from my room, It took a lot of patience to get
+through It, but I managed to finish a huge
+chunk of the records today.
+D-yo(my Aay 30 ,2026) : Continued the work
+from-home selup, encoding the clinic's
+dispensed medicine data
+{'m sa reileved we finally finished encoding all
+five months of data over the weekend. It was a
+lot of data entry, but it feels great to be
+completely done with it.
+Day7(May 31, 2026) | Finl
+remaining work-from-iwmo oncodlng
+tasks for the medicine records.
+CamScanner
+Popubiv of B Pibippines
+Wopede bamrek 5000 (0 aben
+Do umeniation
+HEN C. ACOSTA , RN
+[& CamScanner
+Repubiag of the Phthippines
+Monckt Forch 8701 Bakanon
+
+. Day1(June 1, 2026) : Encoded the
+remaining dispensed medicine logs for
+June.
+Back to data entry to start the week. It was a |
+lot of typing, but I wanted to get all the current |
+logs up to date.
+| Day2(June 2, 2026) : Inventoried the
+I clinic's medicine supply ,consumable
+I supply and equipment and separated all
+the expired ones
+Counting supplies and checking expiration '
+dates was tedious, but it had to be done to |
+keep the stocks safe. i
+Day3(June 3, 2026) : Started entering the
+sorted medicine,consumable and
+equipment and inventory data into the
+I system.
+I all the inventory records into the system.
+| Day4(June 4, 2026) : Finished encoding
+Transferring our handwritten notes into the
+database required a lot of focus so we didn't
+mix up the numbers.
+It took another full day of typing, but it felt E
+great to see the digital inventory completely |
+organized and accurate. {
+completed systems to everyone on our
+last day,
+[ Day5({June 5, 2026) : Presented our two
+"| Presenting our work today was pretty nervewracking but amazing. It's sad to leave, but
+I'm proud of what we built.
+[& CamScanner
+NORTHERN BERN
+Choaed
+INSTATECOLLEGE
+@ik YUY el e
+KARL CLYDE IECJCOSTA.RN
+[& CamScanner

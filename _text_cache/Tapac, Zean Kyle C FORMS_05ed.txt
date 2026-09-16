@@ -1,0 +1,523 @@
+On my first day, we discussed the features and
+flow of the system that we're going to build. Since
+1 don't have experience with the Laravel
+framework, I started to watch some tutorials and
+read some documentation to set up the Laravel
+environment. I realized that we need to adapt to
+every technology that has been used in industry.
+On the second day, we began working on the
+landing page of the job portal system. I started
+designing the basic layout, including the header,
+navigation menu, and introductory section for the
+website. I also organize the structure of the page
+using HTML, CSS, and Laravel Blade templates. |
+realized that a simple Ul matters, and a good
+color theme combination makes it more userfriendly.
+On the third day, I continued improving the
+landing page by adding more sections such as
+About Us, Mission, Vision, and Objectives. |
+worked on arranging the content and ensuring
+that the design is visually organized and userfriendly. Minor adjustments were also made to
+improve the layout and alignment of elements.
+Orientation and discussion of system flow
+Designing the landing page of the job portal
+system
+Landing Page Content Development
+( Scanned with OKEN Scanner
+
+On the fourth day, I focused on refining the
+landing page design and checking if the sections
+were working properly. I reviewed the
+responsiveness of the page and made
+adjustments to the styling to ensure it looks clean
+and professional. I also tested the navigation links
+and page structure. I realized that simplicity of Ul
+is @ must for responsiveness in different sizes of
+gadgets. This experience helped me become
+more familiar with the development environment
+and prepared me for more complex tasks in the
+following weeks.
+Refining the landing page design and
+responsiveness
+On the sixth day, I improved the design of the
+employer dashboard and worked on making it
+responsive for different screen sizes. I adjusted
+the layout, spacing, and styling to ensure that the
+dashboard looks clean and organized on various
+devices. After improving the design, I tested the
+dashboard features and navigation to ensure they
+function properly. This activity helped me develop
+better skills in Ul design and responsiveness.
+Improving the employer dashboard design
+On the seventh day, I continued working on the
+PESO admin dashboard and its features for
+managing the job portal system. During this day,
+we also consulted Ma'am Lorraine to review and
+finalize the design and features of the landing
+page to ensure that it meets the required layout
+and content. After the consultation, I created the
+initial layout and sections of the admin dashboard
+that will allow the administrator to monitor job
+postings, manage users, and oversee system
+activities. This task helped me understand the
+importance of an admin panel and how feedback
+from supervisors helps improve the overall design
+and functionality of the system.
+Developing the PESO admin dashboard and
+consulting with Ma'am Lorraine
+On the eighth day, I started developing the
+jobseeker dashboard and its basic features for the
+job portal system. I worked on designing the
+layout and making some parts of the dashboard
+responsive to ensure it works well on different
+screen sizes. I also began connecting the
+Jobseeker dashboard with the admin and
+Developing the jobseeker dashboard
+( Scanned with OKEN Scanner
+
+Group meeting and task delegation
+Polishing jobseeker dashboard functions
+On the ninth day, I polished the functions in the
+jobseeker dashboard to ensure that all features
+were working properly. I reviewed existing
+functionalities and made improvements to
+enhance usability and responsiveness across
+different devices. I also checked the connections
+with the admin and employer dashboards to
+ensure smooth data flow. This task helped me
+understand the importance of refining system
+features for better performance and user
+experience.
+On the tenth day, we had a group meeting to
+discuss and assign tasks based on the approved
+design of the job portal system. Each member
+was given specific responsibilities to ensure an
+organized development process. We clarified our
+roles and timelines to avoid confusion and
+overlapping tasks. This activity helped me
+understand the importance of teamwork, planning,
+and proper task delegation in system
+development
+Improving employer dashboard
+Improving admin dashboard
+On the eleventh day, I focused on polishing my
+previous work on the employer dashboard, |
+reviewed the features I had developed and
+improved the design, functionality, and
+responsiveness. I also tested the dashboard to
+ensure that all elements were working correctly
+and efficiently. This task helped me improve my
+attention to detail and reinforced the importance of
+refining outputs.
+On the twetfth day, I polished my previous work
+on the admin dashboard to improve its overall
+functionality and design. I checked the layout,
+navigation, and features to ensure they are userfriendly and responsive across different devices. |
+also made necessary adjustments based on
+earlier feedback to enhance system performance.
+This experience helped me understand the
+importance of continuous improvement in
+developing a reliable and efficient system
+( Scanned with OKEN Scanner
+
+On the thirteenth day, I created the login and
+registration pages for the job portal system. |
+designed the layout and structure to make it
+simple and user-friendly for new users and
+retumning users. I also started setting up the basic
+functionality for user authentication. This task
+helped me understand the importance of secure
+and accessible login systems in web applications.
+On the fourteenth day, I polished the design of the
+registration page and improved its functions and
+routes. I ensured that the input fields, validation,
+and user interface were properly working and
+easy to understand. I also reviewed the routing to
+make sure users are directed correctly after
+registration. This activity helped me improve my
+skills in handling form validation and routing in the
+system.
+On the fifteenth day, I polished the design of the
+login page and improved its functions and routes.
+I checked the authentication process to ensure
+that users can log in smoothly and securely. I also
+tested the error handling and responsiveness of
+the page on different devices. This task helped
+me understand the importance of a reliable login
+system for user access and security.
+On the sixteenth day, I polished my first individual
+task by focusing on the jobseeker dashboard. |
+reviewed and improved its design, features, and
+responsiveness to ensure a better user
+experience. I also made sure that its connections
+with other parts of the system were functioning
+properly. This experience helped me gain
+confidence in handling individual tasks and
+improving my work independently.
+Login and Registration Page Development
+Registration Page Enhancement and Routing
+Login Page Enhancement and Routing
+Jobseeker Dashboard Final Improvement
+( Scanned with OKEN Scanner
+
+On the seventeenth day, I entered and organized
+the survey results using Google Forms for data
+collection and documentation. I reviewed the
+responses to ensure that the submitted
+Survey Results Encoding in Google Forms information was complete and properly recorded. |
+also arranged the results for easier access and
+future reference. This task helped me understand
+the importance of accurate data gathering and
+organization in project development.
+On the eighteenth day, I polished the design of
+the admin dashboard and improved its functions
+as part of my individual task. I reviewed the
+layout, navigation, and features to ensure that
+they were user-friendly and responsive. I alsa
+Admin Dashboard Design and Function made necessary adjustments to improve the
+Improvement overall performance of the dashboard. This
+activity helped me enhance my skills in dashboard
+development and system management.
+On the nineteenth day, I polished the design of
+the jobseeker dashboard and improved its
+functions as part of my individual task. I checked
+the responsiveness, layout, and usability to
+Jobseeker Dashboard Design and Function ensure a better experience for users. I also tested
+Improvement its features to make sure they were functioning
+properly. This task helped me understand the
+importance of creating a user-friendly interface for
+jobseekers.
+On the twentieth day, I polished my first individual
+task by focusing on the employer dashboard. |
+improved the design, reviewed the features, and
+ensured thal the dashboard was responsive on
+Employer Dashboard Final Enhancement different devices. I also tested the functions to
+confirm that employers can use the system
+efficiently. This experience helped me improve my
+confidence in handling dashboard development
+independently. _
+( Scanned with OKEN Scanner
+
+On the twenty-first day, I fixed some errors in the
+employer dashboard, particularly in the job
+management section. I reviewed the existing
+functions, identified issues, and applied the
+necessary corrections to ensure smooth
+performance. I also tested the updated features to
+confirm that job postings can be managed
+properly. This task helped me improve my
+debugging and problem-solving skills in system
+development.
+On the twenty-second day, we attended the
+opening program of the Banog Banog Festival at
+the Manolo Fortich Gymnasium. We observed the
+event aclivities and parlicipaled as part of the
+organization's support team. This experience
+allowed me to wilness how community events are
+organized and celebrated. It also helped me
+appreciate teamwork and participation in local
+government activities.
+On the twenty-third day, I volunteered as one of
+the SPES examination proctors. I assisted in
+monitoring the examinees, maintaining order in
+the room, and ensuring that the examination
+process was conducted properly. I also helped in
+distnbuting and collecting examination materials.
+This task helped me develop responsibility,
+patience, and confidence in handling officlal
+aclivities.
+Employer Dashboard Error Fixing and Testing
+Attend at Banog Banog Festival Opening Program
+SPES Examination Proctoring Assistance
+( Scanned with OKEN Scanner
+
+On the twenty-fourth day, we checked the !
+examination papers for the SPES examination.
+SPES Examination Paper Checking This task helped me realize the importance of
+being careful, accurate in handling examination
+records.
+On the twenty-fifth day, I attended the IT Fest at
+NBSC to showcase our Capstone study to the
+first-year up to third-year IT students. We
+presented the features, purpose, and
+development process of our project to inspire and
+IT Fest Capstone Project Presentation at NBSC I share knowledge with other students. I also
+answered questions regarding our study and
+system. This experience helped me improve my
+communication skills and confidence.
+On the twenty-sixth day, I started working on the
+employer dashboard as part of the collaborative
+task. I added the Post New Job page and
+developed its functions to allow employers to
+Employer Dashboard Development - Post New I create and submit job postings. I also checked the
+Job Feature layout and responsiveness of the page to ensure
+usability. This task helped me improve my skills in
+feature development and teamwork.
+On the twenty-seventh day, I continued working
+on the employer dashboard as part of the
+collaborative task. I added the Manage Job page,
+Employer Dashboard Development - Manage Job I functions to improve employer account
+and Company Profile Features management I also reviewed the interface to
+make sure it was organized and user-friendly.
+This task helped me understand the importance of
+building complete and functional dashboard
+features.
+( Scanned with OKEN Scanner
+Vagpditie 4 s #
+GEIW SIS SA U P ATS GV L ARABLA
+A wrdr, Vipe - 7 dy A
+. mu/'m'm-m nm%/tyf wu
+rnu Biggristurn troes Priotad Paons o HIE Bugr finint
+| Jiednst oy
+ITnER . pemeppinit 0L TR
+mlent matnt | J Murinyst
+( Scanned with OKEN Scanner
+
+On the twenty-eighth day, I changed the routing of
+the job post section and updated the header of the
+Manage Jobs page to improve navigation and
+Job Post Routing and Company Profile Download I organization. I also added the download function
+Function for the company profile to allow employers to
+download their information easily. This task
+helped me improve my understanding of routing
+and file handling functions in the system.
+On the twenty-ninth day, I added the Privacy
+Policy and Terms of Service pages to the login
+and registration sections of the Job Portal System.
+Privacy Policy and Terms of Service Integration | I ensured that users can access these pages
+properly before creating or logging into their
+accounts. This task helped me understand the
+importance of legal policies and user agreements
+in web applications.
+On the thirtieth day, I enhanced the user interface
+of the Request LRA/SRA and Submit Documents
+sections to improve usability and responsiveness.
+Request LRA/SRA Ul Enhancement and I also added the View Applicants function and
+Applicant View Function improved its design for better organization and
+user experience. This task helped me improve my
+skills in Ul enhancement and feature integration.
+( Scanned with OKEN Scanner
+
+Registration Fix and Jobseeker Dashboard
+Feature Development
+On the thirty-first day, I fixed the issue where
+users get stuck during the registration process. |
+also added Save Jobs, Skill Gap, and PESO
+Clearance functions in the jobseeker dashboard to
+improve user accessibility and functionality. This
+task helped me improve my debugging and
+feature development skills
+Browse Jobs and Applied Jobs Function Update
+On the thirty-second day, I updated the Browse
+Jobs function and added the Applied Jobs
+function in the jobseeker dashboard. I ensured
+that users can easily browse available jobs and
+monitor the jobs they applied for within the
+system. This task helped me understand the
+importance of organizing job application features
+for better user experience.
+Approved Job List and PESO Clearance Request
+Update
+Job List and PESO Clearance Feature
+Enhancement
+On the thirty-third day, I updated the job list
+displayed on the landing page to show only
+approved job posts. I also improved the Request
+PESO Clearance feature in the jobseeker
+dashboard to ensure smoother processing and
+navigation. This task helped me improve my skills
+in filtering data and enhancing user dashboard
+functions.
+On the thirty-fourth day, I continued updating the
+landing page job list for approved job posts and
+enhanced the Request PESO Clearance feature
+in the jobseeker dashboard. I reviewed the
+functionality and responsiveness of the pages to
+ensure proper performance. This task helped me
+understand the importance of continuous system
+testing and improvement.
+( Scanned with OKEN Scanner
+Pepublic of the Philippines
+
+Applicant View and Resume PDF Enhancement
+File Merge Conflict Fixing and PESO Clearance
+Request Update
+Approved Job List and PESO Clearance Request
+Enhancement
+On the thirty-fifth day, I updated and fixed the
+View Applicants and Show Applicants functions in
+the employer dashboard. I also improved the
+alignment and spacing of the downloaded resume
+PDF to ensure a cleaner and more professional
+format. This task helped me enhance my skills in
+debugging and document formatting.
+On the thirty-sixth day, I fixed conflicts caused by
+merging files from Meryl's branch, particularly in
+the footer and News & Updates sections. I also
+updated the PESO Clearance Request feature
+and added the View PESO Clearance Request
+function for better monitoring and management.
+This task helped me improve my collaboration and
+conflict resolution skills in system development.
+On the thirty-seventh day, I updated the job list on
+the landing page to display approved job posts
+properly. I also continued improving the Request
+PESO Clearance feature in the jobseeker
+dashboard to enhance usability and performance.
+This task helped me strengthen my skills in
+feature enhancement and system maintenance.
+Recommended Job Navigation Emor Fixing
+On the thirty-eighth day, I fixed the error
+encountered when navigating the Recommended
+Job section of the system. I reviewed the routing
+and functionality to ensure that users can access
+recommended jobs smoothly without issues. This
+task helped me improve my troubleshooting and
+navigation debugging skills.
+( Scanned with OKEN Scanner
+
+On the thirty-ninth day, I attended the Emotional
+Intelligence Seminar at NBSC. The seminar
+focused on developing self-awareness, emotional
+Emotional Intelligence Seminar Participation control, and effective communication skills in both
+personal and professional settings. This activity
+helped me understand the importance of
+emotional intelligence in building positive
+workplace relationships.
+On the fortieth day, I continued attending the
+Emotional Intelligence Seminar at NBSC. The
+Emotional Intelligence Seminar Participation discussions and activities emphasized teamwork,
+empathy, and handling workplace challenges
+effectively. This experience helped me improve
+my interpersonal and professional skills.
+On the forty-first day, I assisted during the
+JobStart Program activity held at the ABC Hall, |
+helped in facilitating participants, organizing
+materials, and supporting the program's activities.
+JobStart Program Assistance This experience allowed me to observe how
+employment programs are conducted and how
+they benefit the job seekers.
+On the forty-second day, I started assisting in
+encoding profiling information into the PEIS
+PEIS Profiling Data Entry System. I carefully entered and verified data to
+ensure accuracy and completeness of records.
+This task helped me understand the importance of
+I proper data management and record keeping.
+On the forty-fifth day, I continued updating and
+encoding profiling records in the PEIS System. |
+PEIS Profiling Data Entry Continuation carefully checked the information before
+submission to avoid errors and inconsistencies.
+This experience enhanced my attention to detail
+_J_and accuracy.
+( Scanned with OKEN Scanner
+
+On the forty-fourth day, I continued assisting in
+encading profiling information into the PEIS
+System, I reviewad and entered records vhile
+PEIS Profiling Data Entry Continuation ensuring that the information was accurate and
+complets. This task helped me improve my data
+| 0ty Bd Organizational skills. |
+On the forty-fifth day, I continued updating and
+encoding profiling records in the PEIS System, |
+PEIS Profiling Data Entry Continuation carefully checked the information before
+submission to avoid errors and inconsistencies,
+This experience enhanced my attention to detail
+and accuracy.
+On the forty-sixth day, I continued assisting with
+the profiling data entry process in the PEIS
+System. I organized and encoded records while
+PEIS Profiling Data Entry Continuation maintaining data accuracy and consistency. This
+task helped me understand the value of proper
+information management in government services.
+On the forty-seventh day, I continued and
+completed assigned profiling data entry tasks in
+the PEIS System. I reviewed the records to
+ensure that all encoded information was properly
+saved and organized. This activity strengthened
+my data management and verification skills.
+On the forty-eighth day, we presented our Job
+Portal System for evaluation and checking. We
+received feedback and suggestions regarding
+additional features, improvements, and possible
+missing functions that could enhance the system.
+This experience helped me understand the
+importance of system evaluation, user feedback,
+and continuous improvement in software
+development.
+PEIS Profiling Data Entry Continuation
+System Evaluation and Feedback Session
+( Scanned with OKEN Scanner
+Fepublic of the Viilippines
+Fanolo Forich, %708 Bukidnon
+( Scanned with OKEN Scanner
+
+On the forty-ninth day, 1 added additional functions for
+the LRA/SRA requirements section of the Job Portal
+System. Limproved the process of managing and
+ubmitted requirements to ensure smoother
+transactions tor users. This task helped me improve my
+skills in feature enhancement aud system functionality.
+LRA'SRA Regquest User Interface Enhancement
+On the fiftieth day, I updated the user interface of
+the LRAVSRA request section to make it more
+organized, user-friendly, and responsive. |
+reviewed the layout and adjusted design elements
+to improve the overall user experience. This
+activity helped me strengthen my skills in Ul
+design and usability improvement.
+Auto-Generated LRA/SRA Certificate
+Development
+LRASRA Certficate Structure Update and Fixes
+On the fifty-first day, I developed the autogeneration feature for LRA/SRA certificates. This
+function automatically generates certificates
+based on the submitted information of users,
+reducing manual processing time. This task
+helped me understand the importance of
+automation in improving system efficiency and
+On the fifty-second day, I updated and fixed the
+structure of the generated LRA/SRA certificates. |
+improved the formatting, alignment, and overall
+layout to ensure that the certificates appear
+professional and properly organized. This task
+helped me enhance my attention to detail and
+document generation skills.
+( Scanned with OKEN Scanner
+
+On the fifty-third day, I added the View function for
+LRA/SRA certificates to allow users and
+administrators to view generated certificates
+LRA/SRA Certificate View Function Development I directly within the system. I ensured that the
+feature displays certificate information properly
+and is easy to access. This task helped me
+improve my skills in feature development and
+I system usability enhancement.
+On the fifty-fourth day, I added the History
+function for LRA/SRA certificates. This
+feature allows users to view previously
+generated certificates and maintain a record
+of their requests. This task helped me
+understand the importance of record
+management and data tracking within a
+system.
+On the fifty-fifth day, I updated and improved the
+Post New Job feature in the employer dashboard.
+I reviewed the existing functionality, improved the
+Post New Job Feature Enhancement user interface, and ensured that job posting
+processes work correctly and efficiently. This
+activity helped me strengthen my skills in feature
+enhancement and user experience improvement.
+On the fifty-sixth day, I assisted in encoding -i
+profiling information into the PEIS System. |
+carefully entered and reviewed records to ensure
+PEIS Profiling Data Entry that the data was accurate and complete. This
+task helped me improve my attention to detail and
+data management skills.
+On the fifty-seventh day, I continued assisting in
+the encoding of profiling information into the PEIS
+System. I verified the submitted information and
+PEIS Profiling Data Entry Continuation organized records for proper documentation. This
+activity helped me understand the importance of
+accuracy and consistency when handling data.
+LRA/SRA Certificate History Function
+Development
+( Scanned with OKEN Scanner

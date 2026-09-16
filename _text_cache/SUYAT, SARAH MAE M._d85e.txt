@@ -1,0 +1,600 @@
+The orientation helped me understand the rules,
+policies, and expectations during our internship. It
+also gave me an overview of the working
+environment and the responsibilities that we need
+to follow as interns.
+During this meeting, the head of the office
+explained our roles and the tasks that we need to
+accomplish. This helped me understand what is
+expected from us during the internship.
+Through this discussion, I leamed about the
+system that we need to develop for the office. It
+helped me understand the purpose of the system
+and how it can help in monitoring and managing
+scholars and trainee information.
+During this activity, we discussed and planned the
+possible features and outputs of the system. This
+helped us understand what the system should
+accomplish and what it should
+provide. It also helped us organize our ideas on
+how the system will function and how it can assist
+the office in monitoring trainee records.
+information
+: Regubie af the Piaizpiocs
+!"-'I"'I_Ffli'.'i.fll-l'lrl-lfi--
+
+I was assigned to create the dashboard for the
+monitoring system.
+Designed the database for the monitoring system.
+Started creating the training page of the system
+which was connected to the dashboard.
+Created the trainee profiling form.
+Fixed bugs and errors found in the system.
+Fixed the first deployment issue of the system.
+This activity helped me understand how to
+organize and present important information in the
+system. While working on the dashboard, |
+learned how to arrange different components so
+that the users can easily view the data.
+Designing the database helped me understand
+how the data of trainees will be stored and
+managed in the system. It also allowed me to plan
+the structure of the tables and fields needed for
+the project.
+While working on the fraining page, I learned how
+to build different sections of the system interface.
+This activity helped me improve my skils in
+developing the system and organizing its features.
+Developing the trainee profiling form helped me
+understand how to collect and manage important
+information of trainees. It also allowed me to
+practice designing forms that are easy for users to
+fill out.
+While developing the system, some errors
+occurred that needed to be fixed. Solving these
+issues helped me improve my problem-solving
+skills and understand the system better.
+While deploying the system, we encountered
+some issues that prevented it from running
+properly. Through troubleshooting and checking
+the configuration, I was able to identify and fix the
+problem. This experience helped me improve my
+problem-solving skills and gave me = better
+understanding of how system deployment works.
+Repubiie ol B Pl gy
+NORTHERN BUKIDNOMN "
+
+Presented the progress of the system to the T During this activity, we presented the current
+personnel for checking. progress of the system to the IT personnel. This
+helped us receive feedback and suggestions on
+how we can further improve the system.
+Added new features based on the suggestions of | After the system checking, the IT personnel
+the IT personnel. suggested several features to improve the system.
+Implementing these suggestions helped enhance
+the functionality and usefulness of the monitoring
+system.
+Changed the system color based on the LGU
+color palette and fonts suggested. Updating the system's fonts and color to match
+the LGU color palette helped improve the visual
+design of the system and made it more
+appropriate for the office.
+Fixed the scholarship page for printing and While working on the scholarship page, I adjusted
+downloading. the layout so that the information can be properly
+printed and downloaded. This helped improve the
+usability of the system for documentation
+purposes.
+Fixed the student list layout to properly arrange Improving the layout of the student list helped
+the information. organize the displayed data and made the system
+easier for users to navigate and understand.
+Fixed bugs observed in the system during the
+review. Resolving the bugs helped ensure that all system
+features worked correctly and improved reliability.
+Ropubdic Hfifm
+'I-'I.i-llflnl-n-!fl_lf'-"fl'l e
+
+I leamed to be proactive in maintaining the system
+by regularly checking and ensuring that everything
+stays active and working properly. I also made
+sure that the project remains accessible and that
+the dashboard continues to function well for users.
+This experience helped me become more
+responsible and careful in handling technical tasks
+and maintaining system stability.
+This task taught me to be very careful and
+accurate when handling important paperwork. |
+realized that paying attention to small details is
+necessary to keep all applicant records correct.
+I learned how crucial it is to keep data organized
+and secure. By properly recording the reference
+numbers and making copies, I helped ensure that
+important information is easily tracked and will not
+get lost.
+This improved my planning and
+organizational skills. Creating 3 clear and
+well-structured program fliow is essential fo guide
+the speskers and make the orentstion run
+smoothly.
+Ripeatidic of B Puilizpany
+NORTHERN BUKIDSON STATE COLLEGE
+Pelamiky Fartich, K700 Dol b
+
+Photocopied the documents of applicants who will
+undergo an assessment.
+Stamped the documents of TSDC applicants who
+will undergo assessment. The stamps contained
+the names of the head and the registrar, making it
+easier and faster for them to sign the documents.
+Layout a backdrop for Local Internship Program
+(LIP) orientation.
+Troubleshooted the system unit and figured out
+that the graphic graphics card is defective.
+I learned to be more careful and responsible when
+handling important papers. I make sure that it is
+complete and every copy is clear to avoid
+problems during the assessment process.
+Through this, my attention to detail and knowledge
+of office tasks has improved.
+While stamping the applicant's document, |
+learned how important it is to be attentive on
+organizing papers. I also understand that every
+detail of the document is crucial to avoid errors
+and smoothly run the process of signing the
+documents that was sent to the head and
+registrar. This helps me to grow and be
+responsible for my work.
+Creating a layout for the LIP backdrop was 3 great
+opportunity for me to enhance my creativity and
+design skills. I learned how to create a clean,
+organized, and appropriate theme for the
+program. This helps me to improve especially on
+making presentable designs.
+By troubleshooting the system unit, I learned how
+to identify and investigate possible causes of
+computer problems. By carefully checking the
+components, we discovered that the graphics card
+was defective. This experience increased my
+knowledge of computer hardware and improved
+my problem-solving skills and technical abilities.
+Slamade et adh, =T Dl scm
+
+The system we are working on has been checked
+by the IT staff and registrar and many suggestions
+have been received.
+List down all labels that need to be added in the
+system form as suggested by the IT staff and
+Registrar and check the system if where should
+be inserted.
+Photocopied the documents of the applicants who
+will undergo assessment.
+During my OJT, I learned the importance of
+reviewing and checking the system with the IT
+staff and Registrar. Their suggestions helped me
+to improve and streamline the system. Through
+this, I leamed to accept and apply other people's
+advice. This experience has improved my
+knowledge, patience, and the importance of
+teamwork at work.
+I learned how to view and list the labels that need
+to be added fo the system based on the
+suggestions of the IT in-charge and Registrar. |
+also leamed how to check where each label
+should be placed on the system form to make it
+easier and clearer fo use. This task helped
+improve my knowledge of the system,
+attentiveness, and analysis of detais. I leamed
+that it is important to properly organize the system
+to make work more efficient.
+I learned how to photocopy documents for
+applicants who are going through an assessment.
+I learned that I need to be careful and responsible
+in handling papers so that the copies are
+error-free and complete. This task has improved
+my knowledge, patience, and attentiveness in
+office work.
+Bopsbdec o it Py
+Sawecdo i orh 581 [k adwon
+
+I leamed how to arrange the scholarship page and
+add the necessary details to the form such as
+suffixes. I also leared how to input information for
+applicants undergoing assessment info the
+TESDA system. Through this, I have improved my
+care in encoding and organizing data. I learned
+that it is important to ensure that the information
+entered into the system is correct and complete to
+avoid errors.
+By fixing the download button and filtering by year,
+I leamned how to find and fix minimal bugs in the
+system. This helps me to enhance my technical
+skills and to understand how the features of the
+system should work. Through this, I've learmed
+that it is important to be more careful with the
+details to ensure smoothness and accuracy with
+regards to the work of the system.
+When arranging the update and delete buttons on
+the student list page, I leamed that good
+organization of things within the system is
+important to make it easier to use. This helped me
+develop my knowledge of editing and improving
+the layout of the system.Through this, I learned
+that good arrangement of buttons helps to make
+the system more efficient and easier to use for
+users.
+MORTHERY BLU Hl[l"h'!}'fl S'Tlu.fl.'. COLLEGE
+Samoka Irich, F50L [k
+egred .
+T --- of HTE Supsreisos
+
+1. To design clear office layouts (tarpaulins, certificates, and signages) and improve the system
+by fixing bugs and adding update/delete features on the trainee pages.
+Made the tarpaulin layout to be placed outside the
+TSDC office. It contains information about the
+assessment and fees that was approved by
+TESDA.
+Updated the tarpaulin layout for the TSDC office
+assessment and fee information.
+Finalized and prepared the tarpaulin design for
+printing and display outside the TSDC office.
+Created the layout and design of the certficate.
+Fixes the bugs on frainee page and traineelist
+page. Added a3 delete and update button to the
+traineelist page. Added page for updating trainee
+information.
+Layout an Entrance and Exit for office signage.
+I've learmed how to create a layout that is creative
+and easy to read in public. It is very important that
+the information was as accurate as what the
+TSDC provided to avoid confusion, especially that
+it is about the assessment fees they offer.
+It is important to review and update the
+information of the layout and always ask if the
+information imputed was comect. I realised that to
+always check the details o ensure accuracy on
+what people see.
+I learmned how important it is to double-check the
+final detsils of a design before printing to
+guarantee high-quality results and avoid mistakes.
+Additionally, designing the certificate allowed me
+to practice creating clean and formal layouts that
+properly honor the achievements of the trainees.
+I've gained valuable experience on improving the
+system by fidng bugs and for adding a useful
+feature specially the update and delete button and
+to always listen for the suggestions. With regards
+to the Enfrance and Exit layout, I leamed the
+importance of creating simple but highly visible
+signage for an office setting to guide people
+correctly and keep the flow of visitors moving
+smoothly inside the building.
+Republ i o Paluppenecy
+! NORTHERN BUKIDNDN STATE O
+
+Move the tables into another location. Set up the
+PC and check if the PC is working.
+Continued the progress of the system during April
+16. Deleted a3 column on traineelist page which is
+the date added of trainee.
+Wrote the reference number to the form of
+applicants who will undergo assessment.
+Made photocopies of the documents submitted by
+applicants for assessment.
+By moving tables and setting up PCs, I realized
+how important it is to organize the workspace and
+ensure that the computer is properly set up and
+working before use. I found that simple equipment
+checks can help prevent problems at work and
+maintain smooth office operations.
+As the system continues to progress, I have
+learned how to update and improve the system
+based on needs. Editing the trainee list page.
+such as deleting unnecessary columns, has
+helped to make the data cleaner and easier fo
+understand. I have learmed that it is important to
+be careful when managing information to avoid
+confusion and errors in the system.
+I leamed how to put reference numbers on the
+forms of applicants who are going through
+assessment I found it very important to be careful
+and correct in writing to avoid errors in records.
+Through this work, I developed my knowledge of
+organizing papers and paying attention to detail. |
+learned that even small things like reference
+numbers can play a big role in the smooth running
+of the office.
+I learned that I need to be careful and responsible
+when handling documents fo ensure that the
+copies are clear and complete. Through this work,
+I have developed my attention to detail, patience,
+and knowledge of office work. I have seen the
+importance of properly organizing documents to
+make office processes run more smoothly.
+Mgl sz of B Flidlpraray,
+NORTHERN RUKIDNON STATE COLLEGE
+blamoke
+
+Inputting the names of applicants who will
+undergo assessment into excel.
+Stamping the name of the head and registrar on
+the assessment form so they can easily sign it.
+Working on systems. Fix the bugs on batchlist
+page as all of the list in that batch will appear even
+Replacing a new PC set of Ma'am Leonesa and
+her printer.
+I learned how to input and organize the names of
+applicants who will be taking assessments using
+Excel. I found that it is very important to encode
+data correctly, cleanly, and neatly because it will
+be the basis for other office processes. I leamed
+that even simple data entry still requires focus and
+patience to avoid mistakes.
+I helped stamp the head and registrar's names on
+assessment forms so they could sign them more
+quickly. I leamed that small tasks can go a long
+way in speeding up the office workflow. I saw the
+importance of organizing documents and working
+together to get the job done faster.
+I worked on the system and fixed bugs on the
+batchlist page. I saw that data needed fo be
+filtered properly so that the lists weren't confusing
+and only the right information was displayed.
+Through this, I leamed how important it is to look
+at the details and test the system fo make sure it's
+working properly.
+I helped replace and setup Ma'am Leonesa's new
+PC and printer. During this assignment, I learned
+how to install and check if the computer and
+printer were working properly. This helped me
+develop my technical skills and understanding of
+basic troubleshooting and equipment setup.
+Bmncke. ok, 570 Hal i
+Brpebles 6 5 Phil prssi
+AORTHERN BUKINSON STATE COLLEGE
+
+Fixes the bugs on the Batchlist page. If you open
+a batch in that year, all of the trainees will appear
+despite the differences of batch number.
+Created the layout and design for the backdrop to
+be used during the contract signing for senior high
+school and college students.
+Prepared photocopies of the documents required
+for applicants undergoing assessment.
+Recorded the reference numbers on the forms of
+applicants scheduled for assessment.
+While fixing the bugs on the Batchlist page, |
+learned the importance of checking and reviewing
+data carefully to ensure that the comect
+information is displayed in the system. The issue
+caused all trainees to appear even if they
+belonged to different batch numbers. Through this
+task, I gained a better understanding of how
+system functions affect the accuracy of records.
+Creating the layout and design for the backdrop
+used during the contract signing of senior high
+school and college students allowed me to
+enhance my creativity and design skills. I learmed
+how to arrange elements properly and create 3
+design that is clear, atiractive, and suitable for a
+formal event. This task also taught me the value of
+planning and making revisions to achieve a better
+output.
+Preparing photocopies of the documents required
+for applicants undergoing assessment taught me
+the importance of handling documents carefully
+and responsibly. I learned that every document
+must be complete and clear to avoid delays in the
+assessment process. This activity helped me
+improve my organizational skills and develop
+greater patience when performing repetitive office
+tasks.
+Recording the reference numbers on the forms of
+applicants scheduled for assessment helpad me
+understand the importance of accuracy in
+documentation. I leamed that even small details,
+such as reference numbers, play a significant role
+in keeping records organized and easy to track.
+This task improved my concentration,
+responsibility, and ability to work carefully when
+handling important information.
+Ropubis: ol S Hflm
+Mlmche Forigh =700 Hul wbaoe
+
+Entered the names of applicants who will undergo
+assessment into excel for their attendance.
+Sorted the papers, alphabetically arranged the
+applicants for their assessment schedule.
+Photocopied the documents of those undergoing
+assessment
+Arranged the papers, placing the documents
+where they should belong.
+Entering the names of applicants into Excel for
+attendance has helped me improve my data entry
+skills. Through this, I have better understood the
+importance of accurately recording information to
+avoid errors in attendance records.
+By sorting the documents and arranging them in
+alphabetical order, I have come fo understand the
+importance of an organized filing system. This
+process has helped to make finding documents
+easier and the assessment schedule for
+applicants smoother. Through this task, I have
+enhanced my ability to organize and manage
+multiple documents.
+Photocopying documents for applicants
+undergoing assessment has given me additional
+experience in handling important paperwork. This
+task requires an eye for detail to ensure that each
+copy is clear and complete. I understand that
+working carefully can help avoid problems and
+delays in the assessment process.
+By arranging documents and placing them in the
+right file or place, I became more aware of the
+importance of good record management in an
+office. Proper filing of papers helps to make them
+easy to find when needed and prevents the loss of
+important records. This assignment has
+developed my organizational skills and given me 3
+greater understanding of the importance of
+maintaining neatness and organization of
+documents.
+Repastlis of e Phalipgeras
+by I or1aghi BTN Tl wdrua
+[ = =1 e
+Crennd futiesa, Tanh
+o et diovsd
+
+1. To improve and maintain the system by organizing forms, fixing errors, updating pages, adding
+new features, and enhancing scholarship and trainee records
+Organized the frainee update form in the system
+to make it cleaner and easier to use.
+Updated the UpdateTrainee page because some
+information, such as educational attainment, type
+of disability, and employment status, was not
+being fetched correctly due to mismatched values
+between the traineelist page and the updateTraine
+page.
+Added categories to the scholarship such as new,
+old, and additional to identify whether a student is
+a new scholar, existing scholar, or additional
+scholar.
+Finalized the system and presented it to the IT
+staff for checking. The IT staff suggested adding a
+Super Admin feature to allow the adding of
+scholarship types and training types.
+Updated the scholarship section by removing the
+Junior High category, replacing it with IP, and
+adding more year level options. The year levels
+were changed from 1st Year to 5th Year to Grade
+7 up to 5th Year College.
+Organizing the frainee update form made the
+system easier to use and less confusing. I leamed
+that a well-aranged form is wvery important
+because it helps users input and update
+information correctly. This task also showed me
+how system layout affects the overall usability of
+the application.
+Updating the UpdateTrainee page taught me that
+data must always match across different pages in
+the system. Some information such as educational
+attainment, type of disability, and employment
+status was not displaying correctly because of
+mismaiched values between the trainee list page
+and update page. Through this, I leamed that
+even small errors in data structure can cause big
+problems in the system.
+Adding scholarship categories such as New, Old,
+and Additional helped improve the organization of
+student records. It made it easier to identify the
+status of each scholar. This task helped me
+understand how categorizing data properly can
+make 3 system more organized and easier to
+manage for users.
+Finalizing the system and presenting it to the IT
+staff gave me a real experience of system
+checking and evaluation. I leamed how important
+feedback is in improving a system. The
+suggestion to add a Super Admin feature helped
+me understand the importance of user roles and
+system control, especially when managing
+scholarship types and training types.
+Updating the scholarship section by changing
+categories and year levels improved the accuracy
+and structure of the system. Replacing Junior
+High with 1P and adjusting year levels from Grade
+7 to 5th Year College made the system more
+correct and suitable for the actual data being
+handled.
+Repuible. of fa Fhifoppaney
+Wolatdics vk, W OEIN Pl g
+
+Fixed the student list page by adding year level in
+the filtering option.
+Moved applicant's scholarship information from
+the form to Excel.
+Continued transferring and organizing the
+scholarship information of applicants into Excel.
+Added 3 "select all" option when editing
+scholarship type during year level filtering, to
+make it easier to change Senior High students into
+College scholars.
+Checked the system for any bugs and deployed it
+since I was the last person who made changes in
+the system.
+Fixed the student list page by adding the year
+level option in the filtering function so users can
+easily sort and view students based on their year
+level. This helped improve the accuracy and
+organization of the displayed data.
+Transferred some scholarship-related information
+of applicants from the form into Excel. This was
+done to keep records more organized and easier
+to manage for future use.
+Continued transferring and organizing the
+scholarship information of applicants into Excel to
+ensure that all necessary data was properly
+recorded and updated.
+Improved the filtering feature by year level and
+added a "select all" option when editing the
+scholarship type. This made it faster and easier to
+update multiple records, especially when changing
+Senior High students into College scholars.
+Checked the whole system for possible bugs and
+errors. After confirming that everything was
+working properly, the system was deployed since |
+was the last person who made updates and
+changes.
+Erpubiis o the Pralsppurcy
+Slimalo B il r.-|Iu|,.|.
+
+1. To assist in office tasks, exam duties, and basic technical work while developing skills,
+responsibility, and discipline.
+Inputted names into excel from application forms.
+Made photocopies.
+We cut out the questionnaire 1o be used duning
+Assisted the proctor for the college scholar exams
+and at the same time replaced the proctor if she
+had something to do.
+Assisted and troubleshooted the LAN cable to see
+if the Ilaptop was the problem or the LAN cable,
+and found out that it was the laptop.
+Served as a proctor during the college scholarship
+examination and attended the TSDC Culmination
+Program held for our last day of OJT.
+Inputting names into Excel from application forms
+and making photocopies helped me improve my
+accuracy and attention to detail. I leamed that
+every piece of information must be entersd
+comrectly to avoid emors in records. While
+photocopying documents, I also learned the
+importance of handling papers carefully and
+making sure that all copies are complets and
+clear.
+Cutting out the questionnaires to be used during
+the interview taught me the impontance of
+preparation and organization. Although the task
+was simple, I realized that prepanng materials
+shead of time helps make the interview process
+smoother and more efficient. This expenence
+showed me that every task, no matter how small,
+contributes to the success of an activity or event.
+Assisting the proctor during the college
+scholarship examination allowed me to help
+monitor students and observe the exam process. |
+slso twok over duties when needed. This
+expenence taught me to be alert. responsible, and
+professional.
+Assisting in troubleshooting the LAN cable helped
+me understand basic problem-solving in computer
+networking. By checking whether the issue was
+caused by the laptop or the LAN cable, I learned
+the importance of testing different possibiliies
+before identifying the actual problem.
+Proctoring the exam helped me become more
+responsible and attentive in handling tasks. |
+learned the importance of monitoring properly and
+following exam rules. The TSDC Culmination
+Program was a meaningful ending to my OJT. It
+helped me reflect on my experiences and
+improvements. Overall, my OJT helped me gain
+skills, knowdedpe, and confidence for future work.
+.mflrflflh
+My o, 55000 I bl gy

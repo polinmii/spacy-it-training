@@ -1,0 +1,516 @@
+Feb 23 | set up my dev environment, installed
+necessary apps, and migrated the capstone UL. |
+added the landing page and cleaned the repo by
+removing old burial/genealogy sections.
+I learned that a clean repository and a proper
+setup are the first steps to a successful
+development process.
+Feb 24 | made the navbar dynamic and mobilefriendly with a drawer menu. I also updated the
+logo, footer, and sidebar icons, and connected the
+dashboard routes.
+I realized how important mobile responsiveness is
+for making a website feel professional and
+modern.
+Feb 25 | debugged Vite errors and refined the
+Grave Statistics and Sales charts. I also added
+smooth transitions to the landing page and fixed
+theme-related text issues.
+Debugging can be frustrating, but seeing the
+charts finally render correctly made the effort
+worth it.
+Feb 26 | enhanced the dashboard with skeleton
+loaders and unclaimed revenue tracking. I also
+streamlined the sidebar and added hover effects
+to the navbar.
+I learned that small visual details, like loaders and
+hover effects, really improve the "feel" of the
+software.
+
+Mar 02 | attended an meeting between our office
+MISO and MENRO for the data gathering of the
+project system that assign to us basically they
+want us to make system for the MENRO a basura
+collection system with GIS.
+All of the system really need an data gathering for
+the component you visualize and for the data
+base normalization.
+Mar 03 | cleaned up the contracts module by
+removing confusing buttons and extra lines on the
+mini-map to make it look simpler.
+I realized that "less is more" in Ul design;
+removing unnecessary buttons makes the map
+easier to understand.
+Mar 04 | built the customer management page
+using Livewire with CRUD functions. I also added
+dummy data seeders and animated the obituary
+cards.
+Learning to use Livewire for CRUD operations
+showed me how to handle data efficiently without
+reloading the page.
+Mar 05 | rewrote the project documentation into
+simple English and organized the folder structure
+to help new developers understand the system.
+Good documentation is just as important as good
+code; it ensures the project can be maintained in
+the future.
+
+Mar 09 | restored the GeoJSON files for the Ilearned how sensitive mapping data can be and
+mapping system and reconfigured the data why keeping a structured data schema is vital for
+schema to ensure grave selections work perfectly. I accuracy.
+Mar 10 | created the Terms of Use and Privacy Dealing with legal pages and bandwidth limits
+Policy pages. I also fixed video upload bandwidth I reminded me that a system must be both secure
+issues and corrected overlapping icons in admin and optimized.
+reports.
+Mar 11 | worked on the MENRO project for a I am learning how to balance my time when
+presentation and attended a meeting for a new working on multiple projects with different
+"Online Servicing" project for the LGU. deadlines.
+Mar 12 | started the new Online Servicing project, | Starting a new project from scratch is exciting,
+created the landing page with light/dark themes, and I'm getting faster at setting up the initial
+and fixed database seeding problems. frontend and database.
+
+Mar 16 UI/UX redesign of Welcome page;
+Authentication standardization; Office search and
+grid view implementation..
+login options is key to user retention and
+accessibility.
+I_Prioritizing a cohesive first impression and flexible
+Mar 17 Multi-step application flow; Superadmin
+centralization; User status tracking; Defensive Ul
+coding. Still fixing the misc files generated when
+using npm run build.
+Centralizing control ensures data integrity, while
+defensive coding is critical for preventing runtime
+crashes in complex SPAs.
+Mar 18 Sub-requirement logic implementation;
+Vite conflict resolution; User management
+expansion. I also made a seeder for all of the
+online service using web scraper.
+Handling complex logic like "OR" requirements
+requires a careful balance between backend
+validation and frontend flexibility.
+Mar 19 On the morning I worked on the functions
+of all the offices before the initial presentation on
+I_the afternoon.
+Presenting in front of the people who is skilled and
+real office set up is really scary.
+
+Mar 23 implemented several critical updates and
+system enhancements. The week began with
+foundational fixes, including resolving Vite route
+errors by regenerating Wayfinder routes and
+correcting office logo mappings in the seeders.
+Without proper knowledge on other components
+you will not know whats the causes of the errors
+until you look into the vite itself and youll know
+why>
+Mar 24 | worked on the security of the system by-]
+implementing and testing 2FA (Two-Factor
+Authentication). I fixed 403 permission errors for
+admins viewing files and added a feature allowing
+users to re-upload requirements. I also
+modernized the Role U, fixed the sidebar
+navigation and resolved some syntax errors in the
+I learned that security features like 2FA and
+proper file permissions are critical when handling
+government or LGU data to keep user information
+safe.
+code.
+Mar 25 [ focused on standardization and mobile
+optimization. I set a new format for reference
+numbers to include the date and office code. |
+also finalized the PWA (Progressive Web App)
+configuration, which allows the website to be
+installed like an app on a phone. Lastly, I updated
+the search bar logo and fixed some minor bugs in
+the layout.
+Mar 26 On the morning I worked on some small
+changes like improving buttons visuals and its
+dynamics and on the afternoon our head gives us
+a modem to configure and make script to make it
+a messaging an OTP using python for online
+servicing on LGU.
+I realized that standardizing ID numbers makes
+tracking transactions much easier for the staff,
+and PWA settings help users access the service
+faster on their mobile devices.
+Dwelling on python again makes me want to learn
+it even more since i have a background of using it
+so I can improve my skills using python language.
+
+Mar 30 Focused on mobile responsiveness for
+system logs, office views, and admin ticket
+dashboards. Improved the ticket chat experience
+with auto-scrolling and notification read status.
+Replaced generic OTC confirm dialogs with a
+I custom design.
+Improving the mobile experience is crucial as
+many users access services via phone; ensuring
+the chat and tables are responsive significantly
+improves usability.
+Mar 31 Moved system overview to the sidebar for
+better navigation and made transaction audits
+responsive. Implemented a styled modal for
+payment proof verification and resolved database
+index collisions.
+Restructuring the navigation based on usage
+patterns makes the system more intuitive, while
+resolving database collisions prevents silent
+failures during high-traffic periods.
+Apr 01 Implemented critical build fixes and
+resolved permission-related exceptions in the test
+suite to ensure stable CI/CD pipelines.
+Keeping the test suite clean and permissions
+correctly scopedis essential for preventing
+regressions during rapid feature deployment.
+
+Apr 06 Fixed text overflow issues on user profile
+cards. Optimized document removal by using
+POST with method spoofing to avoid server
+errors. Implemented inline document previews
+and centralized overdue service logic.
+Centralizing logic like overdue calculations
+ensures consistency across the entire dashboard,
+reducing the risk of data discrepancies between
+different controller views.
+April 07 on the morning I refined some Ul for the
+front-end and in the afternoon I help on the
+Manolo fortich gym for the preparation for bibining
+Manolo im assigned on the laptop configuration
+for the server ip adress and assess my colleague
+on the lan cable make sure its working fine and
+ensuring that the judges scoring system is
+working fine to mitigate risks.
+Even though there is lot of time preparation and
+planning there is always risk ahead will happened
+and you cant stop it but you can mitigate it by the
+preparation and planning cause when binibning
+Manolo event one of the judge scoring system
+have malfunction luckily our seniors is prepared
+for that risk that will happened.
+Apr 08 Implemented a full attachment system for
+support tickets with image previews and autodeletion. Integrated ImageOptimizer for better
+performance and added a custom 429 error page
+with a live countdown.
+Adding value-added features like live countdowns
+on error pages and automatic file cleanup helps
+create a more "premium" and self-maintaining
+application.
+
+Apr 13 | resolved 403 Forbidden errors on fund
+type updates by synchronizing permissions. |
+added a 'View Services & Offices' CTA to the
+landing page with smooth scroll. I also
+fixed useEffect dependency issues in the
+background animations FloatingLines.
+April 14
+*ATTENDED ON THE IT FEST
+April 15
+*ATTENDED ON THE IT FEST
+I found that ensuring permissions are perfectly
+synced avoids user frustration during core data
+updates, while adding prominent CTAs improves
+the landing page's conversion rate.
+Apr 16 | implemented a massive update for "Office
+Remarks," including the database structure,
+models, and a template-based selector for
+transaction updates. I integrated SLA processing
+tracking with completed_at timestamps ~ and
+automated duration accessors.
+I standardized remarks through templates to
+reduce manual typing for admins and ensure
+consistent communication with citizens, while SLA
+tracking provides the data I need for future
+performance audits.
+
+Apr 20 | refactored the transaction audit trail to a
+full-width desktop table and card-based mobile
+feed. I disabled modifying interactions for terminal
+status (rejected/cancelled) transactions. I also
+added file deletion warnings to ticket closure
+dialogs.
+Apr 211 balanced the Ul aesthetics by updating
+rejected status colors and implementing robust
+flex-based centering for all data table headers.
+SERVICING MANOLO FORTICH).
+I've found that card-based layouts for mobile feeds
+are far superior to tables, providing a much cleaner
+information hierarchy on small screens.
+I maintained visual consistency in status indicators
+(red for rejected, green for fulfilled) to reduce the
+"cognitive load" for admins scanning large volumes
+of data.
+Apr 22 | ported the User Management layout to a
+Neubrutalism mobile design. I fixed PWA manifest
+pathing to resolve installation issues. I also
+eliminated sidebar collapse lag by moving to pure
+CSS transitions.
+Apr 23 | integrated mandatory feedback toggles at
+both the office and service levels. I implemented
+automatic document cleanup upon transaction
+rejection to maintain a lean storage footprint.
+I prefer CSS transitions because they are nearly
+always more performant than JS-driven
+animations. Refining the PWA ensures my app can
+be reliably "installed" on mobile devices for quicker
+access.
+I automated the deletion of rejected documents not
+only to save storage but also to address privacy
+concerns by not retaining sensitive files from
+rejected applications.
+
+Apr 27 Aligned the Waste Disposal design with the | A massive launch day focused on standardizing
+premium Weighbridge aesthetic, normalized root I design languages across multiple systems. Moving
+tags to resolve the I charts to a multi-layered radial bar structure and
+MultipleRootElementsDetectedException, and I adding glassmorphism makes data visualization
+revamped the Reports module with an "Intelligence I incredibly elegant, while resolving root element
+Hub" look. Overhauled the System Configuration I exceptions and script errors on the welcome page
+Ul with cyber-premium modals, modernized charts I ensures first-impressions are completely
+(radial bars, glassmorphic tooltips, gradients), I seamless.
+implemented SystemLogs pagination, and
+resolved migrations, Alpine scope, and welcome
+page theme toggle scripts.
+Apr 28 Integrated OpenFreeMap vector styles with
+full light and dark mode toggles, implemented
+native WebGL-based marker clustering for
+scalable data points, fixed map zoom issues by
+restricting bounds strictly to Manolo Fortich
+boundaries, optimized hover performance, and
+resolved theme flickering between welcome and
+dashboard pages.
+Apr 29 Programmed a custom ease-out cubic
+"spiderify" animation for dense collection clusters
+on zoom, added inverse unification and opacity
+cross-fade for seamless transitions between
+cluster states, allowed manual entry of coordinates
+in BarangayMonitoring logs, resolved timeframe
+selector dropdown visibility issues in dark mode,
+and added dynamic timeframe filters to collection
+Transitioning to WebGL-based rendering for
+geolocation clustering prevents client-side
+rendering lags, creating a highly premium, fluid
+dashboard interface even with thousands of data
+points.
+Micro-animations like ease-out spidering and
+opacity cross-fades completely elevate the maps
+from feeling static to feeling alive, reactive, and
+highly professional.
+Apr 30 Launched the Unified Intelligence Hub
+featuring strategic coverage gauges and data
+analytics, replaced Livewire Blade conditions with
+robust AlpineJS x-show triggers for instantaneous
+responsive filter transitions, refactored map and
+chart queries to synchronize filtering, and strictly
+ped data arrays to prevent count errors.
+Switching DOM transitions from server-side
+conditionals to client-side Alpine directives ensures
+zero-delay feedback when users interact with filter
+criteria.
+
+May 4 on the morning | Implemented bidirectional
+deep-linking between Barangay Monitoring and the
+Collection Map using dynamic URL query
+parameters, redesigned map popups with colored
+header strips and flexible mobile close buttons with
+explicit white backgrounds to prevent unstyled
+rendering, and shifted map filters, and on the
+afternoon we present it to the menro admins for
+initial progress report.
+Its so tiring when fixing some bugs while on that the
+same day is the presentation of the system there is
+a lot of bugs and unresolve problems but that is the
+lesson for me Aswell to be weary of the
+presentation day.
+May 51 Overhauled the Barangay Compliance
+Report interface using high-fidelity official
+document aesthetics, registered general print
+layout structures in the application's service
+providers, consolidated WACS & Segregation into
+a tabular view inside Barangay Monitoring, and
+enforced strict barangay-level isolation across all
+fields, bulk uploads, and exports.
+May 6 on the morning!| ported the User
+Management layout to a Neubrutalism mobile
+design. I fixed PWA manifest pathing to resolve
+installation issues. I also eliminated sidebar
+collapse lag by moving to pure css transitions. And
+on the afternoon we have a presentation for the
+tricab gr project on another project we presented it
+on the RTA officers for initial report of the system.
+Adding secure data isolation is a critical step for
+corporate compliance, ensuring personnel only
+access records belonging to their respective
+jurisdiction.
+The presentation is quite not well cause there still
+a bug when we presented the system in front of
+RTA officers on the qr side of the code where when
+you scan it there's no result o the qr so we had to
+code it on the middle of the presentation.
+May 71 Launched the dedicated Sorting
+Supervisor Portal with full batch logging and multitagging capabilities, synced personal payout
+tracking directly within the supervisor interface, and
+aligned the Sorting Supervisor test suite to match
+standard naming conventions..
+Providing dedicated portals tailored for specific
+roles simplifies active screen clutter, giving
+supervisors exactly the workflows they need
+without noise.
+May 8 Authored a user-friendly Scientific Waste
+Metfrics guide to translate technical metrics for
+general personnel, upscaled and unified layout
+geometries of lower dashboard cards to match top
+row layouts.
+High-quality educational guides in the Ul bridge the
+gap between technical data layers and physical
+operation terms, boosting staff confidence.
+
+May 11
+Attended on Emotional Intelligence
+May12
+Attended on Emotional Intelligence
+May13
+(MENROSweep)
+I added contextual notes on the baseline criteria for
+average daily waste generation per person. I also
+refined the Supervisor Portal's Batch History table
+to make it more mobile-responsive on smaller
+viewports.
+May14
+(MENROSweep)
+I implemented database-level aggregations and
+pagination on the Waste Disposal page to boost
+load performance. I also introduced the Scientific
+Analytics card to the Waste Diversion dashboard
+and fixed a missing blade render block in waste
+management.
+May15
+(MENROSweep)
+I standardized System Audit Logs with a unified
+rich-list layout and corporate color systems. |
+resolved UnhandledMatchErrors in Flux
+components, updated report management themes
+to brand green, adjusted stats card metric
+placements, and fixed Excel export text clipping.
+Providing baseline context for waste generation
+calculations ensures administrative reports are
+clear and scientifically grounded. Mobileresponsive tables are critical for supervisors
+checking operations on-site.
+DB-level aggregations prevent memory exhaustion
+as logs grow. Adding the Scientific Analytics card
+gives stakeholders immediate, visual verification of
+recycling progress.
+Aesthetic consistency in secondary cards like Audit
+Logs signals a polished, professional product.
+Preventing text clipping in exports ensures that
+generated data looks clean outside the web
+platform.
+
+Transitioning to Tailwind v4 with
+custom keyframes enables microanimations that feel premium.
+Harmonizing payment cards (like
+GCash Blue and Stripe Indigo)
+increases user trust during the
+checkout flow.
+Enforcing exact filename casing is
+crucial for cross-platform builds, as
+Linux is case-sensitive unlike
+Windows. Switching the user
+update endpoint to POST bypasses
+restrictive server firewall rules that
+block PUT requests.
+Standardizing "Order of Payment"
+terminology removes friction
+between the biling team and
+payers. Tonnage-based
+calculations automate service
+invoicing accurately.
+May18
+(BayadManoloFortich)
+I expanded the Tailwind v4 theme configuration with okich colors
+and keyframe animations. I also updated the visual designs of
+payment gateway cards (GCash, Maya, Stripe) to ensure clean
+branding across light and dark modes.
+May19
+(OnlineServices)
+I fixed case-sensitivity bugs by matching filename casings of
+Paymenttype models, controllers, and factories with PHP class
+declarations to ensure Linux compatibility. I fixed 5 security
+vulnerabilities, replaced the sidebar trigger with an animated
+UnorderedListlcon, adjusted filter dropdown arrow placements,
+May 20
+(MENRO Sweep)
+I enabled tonnage-based pricing calculations for waste disposal
+and vermicast services. I added an account code column to the
+billing database, implemented registry-wide search on OPs, and
+standardized Order of Payment terminology across creation
+modals.
+May21
+(MENROSweep)
+I refactored the billing system to split management into
+separate OrderOfPayments and PaymentCollection components.
+I added an account code registry dropdown, cast weight variables
+to floats to avoid PHP 8 type errors, and widened table columns
+to avoid compressed action buttons.
+May22
+(MENROSweep)
+I redesigned the Treasurer Dashboard, separating reports pages,
+implementing payment audit logs, and adding security controls. |
+added interactive hover tooltips via AlpineJS and client-side filter
+dropdowns using Alpine x-show to eliminate page reload latency.
+Component separation makes the
+billing interface easier to maintain.
+Widening table layouts stops Ul
+clipping, keeping actions readable
+on typical laptop displays.
+Eliminating server roundtrips for
+basic filter dropdown states using
+AlpineJS makes the interface feel
+snappy and instantaneous,
+improving overall dashboard
+usability.
+
+May25
+(MENROSweep)
+I automated the reference number generation for | Automating transaction references eliminates
+recyclable sales and ensured weighbridge remarks I manual entry errors and establishes a reliable audit
+are seamlessly synced to the treasurer's billing I trail for recyclable material sales.
+record view.
+May26
+(BayadManoloFortich)
+On the morning we have field activity where we are | It is kinda hustle when you are on the crowded
+assigned on the gymnasiun where we help I space and still performing the duty but its nice to
+facilitating the gcash implementation on the I have that experience and integrating the Droplet
+honorarium and on the afternoon I implemented I ripples and inactive canvas glow states make
+the modern glassmorphic landing page navbar and I landing pages feel alive. Tightening public search
+added inactive random glowing effects to the I parameters prevents abuse while still serving
+ShapeGrid background canvas. I added LGU I necessary checkout fields.
+search fields, built a user registration validator,
+removed social OAuth, and fixed a dark mode
+vignette interpolation bug.
+HOLIDAY
+May28
+(BayadManoloFortich)
+I engineered a conic-gradient BorderGlow | Using CSS mask composites instead of clipping
+animation on the checkout details card using I containers allows glowing borders to render cleanly
+AlpineJS and CSS masks. I stabilized the I without leaking or clipping on narrow mobile
+background grid coordinates to prevent flicker, I screens.
+added animated micro-interactive SVGs, and
+timized checkout grids for mobile viewports.
+May29 its good to see the project you made is in
+I start fixing some bugs and lints on the production I production.
+i also help on the other projects as well.
+
+Junet
+I have discover a lot of bugs on the menro project
+where the billing page is not quite not doing its
+urpose
+June2
+I scout some bugs on the projects and find some
+on the online servicing projects and on the Bayad
+MF on the OP payment page.
+there is still a lot of bugs even on the productions.
+finding some bugs quite really relief cause you
+finally find the cause of the error.
+June 3
+This is the last day of our OJT for the last time i I im happy that our OJT hours is rendered but sad
+added a little features on some pages on the I as well that we are leaving the MISO office.
+projects.

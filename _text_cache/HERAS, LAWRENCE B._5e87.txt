@@ -1,0 +1,512 @@
+Proposed a centralized file hub I observed that they need a centralized file system
+to store their data and remove the paper
+documents. Started making it, I know that it will
+enhance my prior knowledge on making web
+apps.
+Built the foundation on the file hub First idea on the system is to use a framework;
+however, it might take long to build it as I have
+less knowledge using frameworks, I did it in
+vanilla its barebones for now, but it works. Added
+features such as themes and scanner where it
+scans the image of the document and attempt to
+convert it unto softcopy, it proves difficult so as of
+now the feature works as an image uploader that
+sets the image to black and white, and adjust its
+contrast. I now see that I am still low on the
+knowledge that I need, but I'll try my best
+Proposed a solution on the foundation day The foundation day is coming, now they need an
+attendance in a meeting alternative on how to deal with the students
+attendance, First solution was the RFID based
+attendance but it will take a very long time to
+make and the equipment needed is uncertain to
+be available or not, this was my first suggestion
+because it was based on my capstone research
+so I think I have prior knowledge on it. Second
+solution was the QR based attendance system, |
+am still doubtful on how to make it but I laid out
+the plans on developing the proposed system, |
+felt challenged and excited at the same time. For
+now, they suggested using a tool that is similar to
+what I proposed.
+Built an unstable version of the proposed The suggested tool is very limited and needs
+attendance system subscription for it to work, however I felt inspired
+on how the system works, I explored the system
+further to see how they handle tokens and
+emailing logic, I learned it and took an inspiration
+and built my own similar system, its free however
+there are some limitation and restriction as I used
+my students Gmail as a vessel to handle logics
+and function execution, still the system works and
+I feel proud.
+Presented the built attendance system The system works as barebones as it is, and I felt
+that it is somewhat ready. I explained that I can't
+use the suggested system or tool, however |
+made my own that is free but somewhat limited on
+apON=
+reand futwia, Tiansfomm
+alionis vilae
+
+Updated the system to support offline scans
+The fix that I was thinking was this. By allowing
+the system to work even though its offline the
+scanning officers can be anywhere. I did it by
+saving the scans into a local cache then updating
+it later when the internet becomes available. This
+update, I learned that JSON file or a text string
+that is like the JSON syntax can be saved offline.
+This information is what made the offline scanning
+possible
+Pilot tested the offline scan
+The event has started but I did not have time to
+test the new feature, so the first batch of
+attendance is what I considered a pilot test, the
+offline scan works however there are still
+problems on the students who have received
+multiple email or token caused by the bug
+mentioned on the first report. Seems like this is
+what happens when you recklessly execute your
+program without prior preparation, there are
+problems other than the tokens. Tried my best to
+fix them all.
+Turning the unused pc back on
+It does not have the necessary wire and the EVR
+won't work so I learned that using straight to UPS
+for the power is possible.
+Accommodated students who have multiple
+tokens that are not being scanned by the
+scanner
+I learned that my previous action has cascaded
+into a bigger problem.
+Added a manual token entry on the scanner
+Bandaid fix to grs that are not being scanned,
+main reason is still the previous error where the
+student receive multiple gr and only 1 of them got
+recognized, this has been a very long and
+valuable lesson on the consequences of not
+planning thoroughly.
+Added a new column to put the unrecognized
+Qr to log what the scanners have been
+scanning
+To identify the students who are getting
+unrecognized because their gr is invalid, this new
+column will be used to track the unrecognized
+students. Coincidentally this made the scanners
+log anything they scan on that column as long as
+it's a gr, this helps me identify the students who
+made a fake gr. This update gave me an insight
+on how the scanners scan.
+Fixed the offline sync
+Some data insert are inserted on a different
+column, this made me identify that I have a
+indexing problem on my data insertion.
+
+Compiled & cleaned the students attendance
+data
+I learned using sheet formula to skip tedious task
+on spreadsheet.
+Fixed the scanner problem that I did not fix
+last week
+I don't want to leave the system as it is, it can be
+used for future events so now I have plenty of
+time to refine the system. The problem is fixed; |
+read the documentation of the Google API as well
+as the discussion of some developers who
+encountered the same problem and there, |
+learned how to deal with the problem and found
+the fix.
+Enhanced the security on the scanners log in
+Tested the security of my log ins by doing some
+penetration testing and running script to the
+console. I learned that the log in can be easily
+bypassed and anyone with prior tech knowledge
+can insert data to my spreadsheet database
+without logging in, just by running a simple script
+command. So I decided to enhance and further test
+the security of my systems.
+Planned a centralized system
+I have made more systems but they are not
+mentioned such as the sender script, the upgrade,
+and the unique gr generator. This systems are
+everywhere and im having trouble organizing
+them. So I planned a centralized system where |
+compile all the systems that I made for easier
+access and clean workstation. I learned that
+organizing saves a lot of time.
+Started building the centralized system
+I learned that this system have endless
+possibilities and imagination is my only limit.
+Made the scanner into a web application
+Going to a browser link over and over to access
+the system is tedious so I made the scanner into a
+installable application for mobile and desktop. |
+learn how to do a PWA(progressive web
+application) on this activity.
+Made a Ul for the attendance data instead of
+just spreadsheet
+The spreadsheet Ul is sure better than databases,
+however it is still a hassle to look at, I learned that
+looking at spreadsheets for a long time hurts my
+brain. So I made a dedicated website for the
+attendance with better Ul, better filtering and less
+laggy.
+Compiled all the system I made into the
+centralized system
+Looking at the compilation of my work, I feel proud
+and happy. I'm hoping that more system ideas will
+come and to learn more from them.
+Added a role-based access on the centralized
+system
+Different role, different use case on the
+centralized system. Looking at the centralized
+system some of the systems there are only used
+
+Test post on the announcement
+Tried transiting to another cloud service, because
+google drive causes too much error. I discovered
+a new reliable media api for future projects
+Developed the SAS Messenger core logic
+using Firebase
+I realized that the centralized system needed a
+way for users to communicate without leaving the
+portal. I learned how to set up Firebase listeners
+that update the Ul instantly when a message is
+received.
+Integrated real-time notifications for incoming
+messages
+I learned that users shouldn't have to keep the
+messenger open to know they have a new
+message. I implemented a notification badge
+system that works across all apps in the portal.
+Added "User Status" indicators to the portal
+sidebar
+I learned how to track when a user is online or
+offline. This adds a sense of community to the
+system and lets staff know who is available to
+chat for coordination.
+Optimized the Messenger widget for global
+availability
+I realized that the messenger should be a floating
+widget. I learned how to use z-index and CSS
+positioning to make it accessible even when other
+SAS apps are loaded in the background.
+
+Developed the initial version of the Schedule
+Manager app
+I learned how to bridge the gap between "Time"
+and "Database." I had to create logic that knows if
+it's currently an "AM In" or "PM Out" window
+based on the server time.
+Implemented the auto-logout feature for
+shared devices
+Security is a major concern on school computers.
+I learned how to detect inactivity and automatically
+clear sensitive session data to prevent
+unauthorized access.
+Built the logic for "Active Windows" for
+attendance tracking
+I realized that the attendance scanner needs to
+know which event column to write to. I learned
+how to map specific time ranges to database
+columns automatically.
+Added real-time schedule editing for
+administrators
+I learned that event times change frequently. |
+made it so that admins can update the scanning
+window on the fly without needing to restart the
+system.
+Tepubilic of e Pinlippings
+Manolo Fortich, #7008 Bk idion
+Sign
+0JT Coo dinator
+
+1. To develop the Administrative Attendance Viewer.
+2. Toimplement data filtering and CSV exporting.
+Built the dedicated Attendanc!
+administrators
+I realized that looking at raw spreadsheets hurts
+my brain. I learned how to build a dedicated
+website with a better Ul faster filtering, and less
+lag.
+I learned how lo write Client-side search logic that
+can handle thousands of rows without freezing.
+This makes it much easier to find records.
+I learned how lo generale downloadable files
+directly from the browser. This is essential for the
+\alf when they need to submit physical reporis.
+I realized that frequent API calls were slowing
+down the UL. I learned how to cache data locally to
+make the viewing experience smoother.
+e Viewer for
+ted search an
+Im d filtering logic for
+student logs
+~Added CSV Export Tunctionality for attendance
+reports
+Optimized data fetching to reduce API latency
+CAJIGAL
+Creandb futwra
+ransfom
+abioni
+
+Designed the NBSC Mailer interface for
+single/batch emails
+realized that sending emails manually was a
+bottleneck. I learned how to build a portal
+specifically for official announcements.
+Developed the HTML email template engine
+learned that plain text emails look
+unprofessional. I created a template system that
+automatically injects student names into a
+professional layout.
+Integrated the Mailer with the SAS Masterlist
+database
+learned how to bridge the communications tool
+with our main student database. This allows the
+staff to select a group of students and email them
+instantly.
+Implemented a sending log to track sent
+communications
+realized that the staff needs to know which
+emails were successfully sent. I learned how to
+create a simple logging system for communication
+attempts.
+
+Improved the offline-sync logic for bulk scan
+batches
+noticed that syncing 100+ scans at once was
+causing timeouts. I learned how to "chunk" the
+data so it uploads in small, reliable batches.
+Added the "Manual Entry" fallback for
+damaged IDs
+learned that technology isn't perfect-sometimes
+a barcode is too scratched to scan. I added a
+manual input mode so the guards aren't stuck.
+Implemented local storage clearing after
+successful sync
+realized that storing old data locally forever
+would slow down the device. I learned how to
+properly clear the offline queue only after server
+confirmation.
+Enhanced the scan sound and vibration
+feedback
+learned that physical feedback is important for
+the guards. Adding a distinct sound and vibration
+ets them work faster.
+Mipmalo b aerach W00 Nk wdoon
+Papatin of the Pailippencs
+
+Migrated the Attendance Database to I realized that Google Sheets has its limits.
+Supabase SQL Moving to a real SQL database was a "level up." |
+learned about primary keys and relational data.
+Wrote Row Level Security (RLS) policies for I learned that in a real database, the security rules
+the tables live in the data layer itself. I had to learn how to
+write SQL policies that protect the data.
+Updated the Scanner frontend to use the I learned how to swap out an entire backend. |
+Supabase SDK replaced the old Google Script calls with
+supabase-js, which made the data saving much
+faster.
+Implemented pagination for large masterlist The student masterlist is huge! I learned how to
+downloads download data in "pages" to prevent the browser
+from crashing.
+
+Built the Masterlist Data Manager for bulk
+student imports
+realized that manual entry is the enemy of
+efficiency. I built a tool that can take a CSV or
+even a PDF and sync thousands of students at
+Developed the PDF parsing engine with namecompilation logic
+learned how to deal with messy data. Sometimes
+names are split into "First" and "Last" columns; |
+wrote logic to automatically "compile" them
+cleanly.
+Implemented alphabetical sorting and
+"Production Mode" safety
+realized that one mistake in production can be
+disastrous. I added a "Test/Production" toggle and
+a red warning button for safety.
+Added a hidden developer dashboard with
+system diagnostics
+learned that troubleshooting on a phone is hard.
+added a secret "5-tap" gesture that opens a
+diagnostic menu instantly.
+
+Integrated Supabase and Cloudinary
+Following the migration of our database to
+Supabase and switching our multimedia assets to
+Cloudinary, I spent the week refining how the
+system fetches and displays these assets. Setting
+up the database view and multimedia storage
+view was tricky, but I observed that using these
+dedicated services is far more reliable than our
+old Google Drive setup.
+Designed the Landing Page Template and
+Carousel
+I wanted the system to look modern and
+engaging for the users. I built a dynamic landing
+page template and created a custom carousel
+component (Ip-carousel.js). Designing the
+animations and fixing the pointer visibility logic
+for different screens (like the TV view) took a lot
+of trial and error. I am proud of the aesthetic
+improvements.
+Refined the CI/CD Pipeline and Security Checks
+Since the system handles sensitive student data, |
+added new security and data leakage checks to
+our deployment pipeline. Learning about
+continuous integration and automated testing
+workflows makes me feel like a professional
+developer. Spotting and fixing sandbox issues
+early on gave me confidence in our deployment
+process.
+Integrated Supabase and Cloudinary
+Following the migration of our database to
+Supabase and switching our multimedia assets to
+Cloudinary, I spent the week refining how the
+system fetches and displays these assets. Setting
+up the database view and multimedia storage
+view was tricky, but I observed that using these
+dedicated services is far more reliable than our
+old Google Drive setup.
+
+Enhanced the Progressive Web App (PWA)
+caching
+I worked on the service worker to fix aggressive
+caching issues that were preventing the app from
+updating properly. Handling old cache logic is
+confusing, but I learned that fine-tuning the PWA
+capabilities allows the system to run smoothly
+even on slower connections.
+Finalized the Schedule Manager and TV View
+I adjusted the default view states for the TV
+browsers, ensuring that the schedule manager
+and the collapsing navbar work seamlessly on
+larger screens. Testing these features across
+different devices made me realize the importance
+of responsive design and how a small CSS bug can
+break the entire layout.
+Optimized the Scanner and User Roles
+I did some major updates on the messaging
+functions and routing guards. I set up role-based
+access so that different users (like the uploader
+or users scanning QR codes) are restricted to
+their specific functions. It was challenging to
+manage the authentication flow, but adding this
+security layer is very reassuring.
+Enhanced the Progressive Web App (PWA)
+caching
+I worked on the service worker to fix aggressive
+caching issues that were preventing the app from
+updating properly. Handling old cache logic is
+confusing, but I learned that fine-tuning the PWA
+capabilities allows the system to run smoothly
+even on slower connections.
+Republic af the Philippines
+Manolo Forteh, 8708 Rk dnon
+
+Deployed the web application to kesug.com
+I staged the system for final deployment on a free
+hosting site (nbsc-sas.kesug.com). Moving from
+local environments and Vercel to this new host
+brought up unexpected routing and asset path
+issues. I had to learn how to configure .htaccess
+files and adjust the Vite build logic to ensure all
+assets load correctly.
+Fixed critical production bugs
+I spent a lot of time debugging and applying
+band-aid fixes, then properly restructuring the
+code. This experience proved to me that a system
+is never truly finished until it survives in a live
+environment.
+Final System Review
+Seeing the Centralized SAS Repository live with all
+its features the file hub, attendance scanner,
+multimedia storage, and schedule manager is
+incredibly fulfilling. While I acknowledge that
+relying on free hosting has its limitations, the
+system works as intended. Looking back at the
+barebones vanilla setup from Week 1, I am
+amazed at the progress I have made.
+Deployed the web application to kesug.com
+I staged the system for final deployment on a free
+hosting site (nbsc-sas.kesug.com). Moving from
+local environments and Vercel to this new host
+brought up unexpected routing and asset path
+issues. I had to learn how to configure .htaccess
+files and adjust the Vite build logic to ensure all
+assets load correctly.
+
+I helped verifying students requirement and clearing
+their clearance if the requirements are met.
+I focused heavily on data visualization this week,
+implementing analytics for student demographics and
+job postings. Dealing with data filtering, sorting, and
+Built and integrated Analytics Modules grouping datasets taught me a lot about handling data
+structures. I also had to implement caching and
+background prefetching to ensure the graphs loaded
+smoothly without lagging the system.
+I overhauled the messenger interface and introduced
+global presence tracking to show when users are online.
+Redesigned the Messenger Ul and added | Implementing real-time online borders and broadcast
+Presence Tracking toasts was challenging but highly rewarding, as it makes
+the communication feature feel much more alive and
+responsive for the users.
+I made massive Ul changes to the home layout and TV
+view, including adding a search bar for the different
+systems and refining the dark theme. Constantly
+tweaking the UX based on how it looks across different
+views taught me the importance of responsive design
+and clear navigation.
+I integrated Google Analytics and redesigned how
+system reports are generated and printed. Fixing bugs in
+report generation proved to me how critical accurate
+data presentation is for administrators who rely on these
+exported documents.
+Helped clearing student clearance
+Overhauled Home and TV Views
+Fixed Print Reports and added Google
+Analytics
+Repubhic of the Philippines
+Signed
+Leuaneang // / {.).'v, W
+Creandb futwra
+
+Patched Security Vulnerabilities and
+Environment Variables
+I encountered a major security issue where environment
+variables were accidentally exposed. I quickly addressed
+this by reconfiguring the env setup on different systems
+and fixing the keys directory. This was a tense moment
+but a crucial learning experience about the importance
+of securing credentials and secrets in a production
+environment.
+Finalized Progressive Web App (PWA)
+Features
+I spent significant time addressing PWA bugs, from
+fixing the Web Manifest and event listeners to adding an
+install button directly in the user settings preference.
+Ensuring that the app is properly installable across
+devices makes the system much more accessible for
+end-users.
+Resolved CORS and Networking Issues
+I tackled persistent CORS errors by forcing text/plain for
+POST requests in the analytics API calls.
+Troubleshooting these networking issues deepened my
+understanding of how browsers enforce security policies
+on cross-origin requests and how local environment
+payloads differ from production.
+Code Cleanup and Admin Tools
+Refinement
+I focused on removing dead code, cleaning up unused
+functions, and adding new border templates for the
+admin tools. Cleaning up the codebase at this stage
+made me realize that maintaining readable code is just
+as important as adding new features, ensuring the
+project is sustainable in the long run.
+Rq;uhllc of the Philippines
+Manolo Forich, 8708 Bakidnon
+umentation;
+Signed ;
+.CAJIGAL
+' 7,// f
+[ euwnenry /'/;QL/OS 278 il b 1]
+'_ flffifia_lor ol ki R

@@ -1,0 +1,465 @@
+Most of the week, we assisted the staff in retrieving
+and organizing files for probation clients, as it was
+the reporting period. There were also visitors
+checking the client reports, so the staff needed
+additional assistance to make the reporting
+process easier.
+This activity helped me understand the importance
+of proper document management in an office. It
+also improved my ability to follow instructions and
+work effectively with office personnel.
+Reformatted flash drives used for storing office files
+and documents.
+Through this task, I leamed how important it is to
+maintain clean and organized storage devices to
+ensure files are safe and free from viruses or
+errors.
+Observed the daily workflow and responsibilities of
+the staff in the Parole and Probation Office.
+Observing their work helped me understand how
+the office manages client records and serves the
+community. It also inspired me to be more
+responsible and professional in my own tasks.
+
+Participated in the planning and development of a
+system designed to help staff easily access and
+manage probationer case records. This included
+observing current filing and retrieval processes,
+identifying common challenges such as delays in
+locating files, and suggesting possible
+improvements. Assisted in organizing data
+requirements, discussing system features with
+staff, and contributing ideas for a more efficient and
+user-friendly system.
+This activity helped me understand the importance
+of having an organized and efficient system in
+managing probationer records. I realized that
+manual processes can be time-consuming and
+may lead to emors or delays, especially during
+reporting periods. By participating in the planning
+stage, I leamed how technology can improve
+workflow and make tasks easier for the staff. It also
+enhanced my critical thinking and teamwork skills,
+as I was able to contribute ideas and understand
+the real needs of the office. Overall, this experience
+motivated me to appreciate the value of system
+development in improving service efficiency.
+Observed the daily workflow and responsibilities of
+the staff in the Parole and Probation Office.
+Observing their work helped me understand how
+the office manages client records and serves the
+community. It also inspired me to be more
+responsible and professional in my own tasks.
+Create a system flow and diagrams to illustrate
+how the system will work and how users will
+interact with it.
+By designing the flow and use case diagram, |
+learned how important planning and visualization
+are in system development. It helped the staff
+understand the process of the system and how it
+can simplify the management and retrieval of
+probationer records.
+Troubleshooted a printer that could not print and
+helped identify the problem.
+This task helped me improve my problem-solving
+skills in handling basic hardware and technical
+issues. It also allowed me to apply my technical
+knowledge to help the office continue their work
+without delays.
+
+This activity allowed me to experience actual event
+preparation and understand the importance of
+teamwork and coordination. I learmed that
+organizing an event requires proper planning, time
+management, and cooperation among all
+members. Despite the pressure of completing
+tasks within a limited time, I was able to adapt and
+contribute effectively. This experience also
+improved my confidence in assisting during large
+events and taught me the value of being
+responsible and proactive.
+This activity helped me realize that proper planning
+is essential before staring any system
+development. By analyzing the workflow, I gained
+a better understanding of how systems function
+and how each part is connected. It also taught me
+the importance of teamwork and communication in
+sharing ideas and solving problems. Through this
+experience, I became more aware that a wellplanned system can reduce errors and improve
+efficiency, making the coding process easier and
+more organized.
+Helped in preparing for the National Women's
+Month Celebration of the Bukidnon Parole and
+Probation Office held at Manolo Fortich
+Gymnasium over two days. Assisted in setting up
+the venue, organizing materials, and coordinating
+with staff and participants. Supported various tasks
+such as armanging equipment, preparing
+documents, and ensuring everything was ready
+before and during the event.
+Participated in planning the system flow for two
+days before starting the coding phase. Analyzed
+how the system should work by identifying user
+needs, inputs, processes, and expected outputs.
+Collaborated with the team to create a clear
+workflow, discussed possible features, and
+mapped out how data would be managed within the
+system.
+
+During the 4th week of OJT, we started the actual
+development of the system over a span of four
+days. We created the landing page, login page,
+register page, and dashboard interface. We
+followed the system flow and diagrams prepared
+earlier to guide the coding process and ensure
+proper structure. In addition, we implemented staff
+roles within the system, particularly in the
+dashboard, to manage access and functionalities
+based on user responsibilites. As of now, the
+system is still in progress, with continuous
+improvements being made.
+This activity enhanced my practical skills in system
+development and allowed me to apply what I have
+learned in programming. I realized that having a
+clear system flow and design greatly helps in
+making the coding process more organized and
+efficient. Implementing different staff roles also
+taught me the importance of system security and
+proper access control. Although the system is still
+ongoing, I am proud of the progress we have made.
+This experience improved my problem-solving
+skills, patience, and ability to work collaboratively
+with a team in achieving a goal.
+
+Continued coding and implementation of the
+system''s new features.
+Tested the newly added functionalities to ensure
+they work as intended.
+Debugged and resolved minor errors or issues in
+the system.
+Documented updates and changes made to the
+system for future reference.
+Collaborated with dou to coordinate feature
+integration.
+The week was productive as we successfully
+implemented additional features to the system.
+Testing helped identify minor bugs early, which
+improved overall system stability.
+Continued collaboration and focused work
+increased our efficiency and understanding of the
+system.
+Learned the importance of careful planning before
+adding features to avoid conflicts in the system.
+Looking forward to further refining the system and
+implementing more complex functionalities in the
+upcoming weeks.
+
+Interviewed clients inside the jail to
+understand their background, needs, and
+experiences.
+Gathered feedback to help enhance the
+system's usability and relevance.
+Deployed the developed system for BPPO
+clients.
+Conducted initial testing to ensure the
+system functions properly.
+Documented observations and feedback
+from both the interviews and deployment
+process.
+Interviews provided valuable insights that
+can help improve the system's features
+and user experience.
+Deploying the system gave practical
+experience and highlighted areas for
+refinement.
+Direct interaction with clients emphasized
+the importance of user-centered design.
+The week strengthened skills in both client
+engagement and system implementation.
+Learned to adapt quickly to real-world
+challenges during deployment and client
+interviews.
+
+Fist Day - Polishing SystemIe This week helped me understand the
+Focused on improving the overall system importance of refining both the system and its
+by fixing minor issues, cleaning up code, presentation. Improving the system flow and
+and ensuring smoother performance. adding features enhanced my problem-solving
+e Second Day - Polishing System Flow and technical skills, while assisting in
+Worked on improving the user flow of the organizing and arranging images in the report
+system to make it more organized, template improved my attention to detail and
+efficient, and user-friendly. sense of design. I also learned that clear and
+o Third Day - Adding Features in BPPO well-structured outputs are important for
+System professionalism, especially when presented to
+Implemented new features to enhance clients. Overall, it was a productive experience
+system functionality and better meet user that strengthened my technical, creative, and
+and client needs. teamwork skills.
+Fourth Day - Assisting in BPPO Image
+Report Template (Canva)
+Assisted staff in inputting and arranging
+images within the template using Canva,
+ensuring the reports are organized,
+visually ~clear, and professionally
+presented to clients.
+
+e First Day - Added small changes and [ This week was productive and meaningful. |
+improvements to the system.. was able to improve my technical skills by
+* Second Day - Attended IT Fest working on the system and also gained
+o Participated in school ICS event.. experience by handling real client data.
+Third Day - Continued participation in IT Attending the IT Fest helped me leam more
+Fest and Received Dean's List Award and engage with others in the field. Receiving
+o Fourth Day - Input client data (names and the Dean's List Award motivated me to keep
+details) and Organized files at Bukidnon doing my best Overall, I leaned the
+Parole and Probation Office importance of balancing technical work,
+participation, and responsibility.
+
+e On the first day, I focused on enhancing
+my system design knowledge by studying
+concepts and applying them to our current
+project. On the second day, I attended the
+2nd Research and Extension Summit 2026
+and presented our research study at
+school, which helped me build confidence
+in public speaking. On the third day, |
+attended the awarding ceremony of the
+same summit, where I observed and
+leamed from the achievements and
+outputs of other participants. On the fourth
+day, I assisted clients at the Bukidnon
+Parole and Probation Office, where |
+helped with basic tasks and addressed
+client concems.
+Overall, this week was productive and
+meaningful. I was able to grow academically
+through system design and research activities
+while also gaining practical experience through
+client assistance. These experiences helped
+me become more confident, responsible, and
+better prepared for future tasks.
+
+Day 1:
+Assessed and reviewed client
+records/data at the Bukidnon Parole and
+Probation Office. Ensured that files were
+properly organized, updated, and
+complete for accurate documentation.
+Day 2:
+Set up a new PC for staff at the Bukidnon
+Parole and Probation Office. Installed
+necessary software, configured system
+settings, and ensured the computer was
+fully functional for office use.
+Day 3:
+Attended the Lambigit Event at USTP
+Cagayan de Oro. Participated in activities
+and observed presentations that promote
+collaboration, innovation, and community
+engagement.
+Day 4:
+Presented study at USTP Cagayan de
+Oro. Shared research findings clearly and
+confidently while engaging with the
+audience and responding to questions.
+administrative, and academic experiences.
+Assessing client records improved my
+attention to detail and understanding of data
+management in a professional setting. Setting
+up a new PC enhanced my practical IT skills
+and confidence in handling technical tasks
+independently.
+Attending the Lambigit Event allowed me to
+observe different ideas and innovations, which
+broadened my perspective. Presenting my
+study was a valuable experience that
+strengthened my communication skills and
+boosted my confidence in speaking before an
+audience.
+Overall, the week helped me grow both
+technically and professionally, preparing me
+for future responsibilities in my field.
+
+e Dayt: This week helped me improve my organizational,
+Organized client folders and ensured I technical, and creative skills while working in the
+proper arrangement of records in the I office. Through organizing folders and assisting
+Bukidnon Parole and Probation Office. I with client records, I leamed the importance of
+Assisted in locating missing folders and I proper documentation and accuracy in handling
+verifying documents to maintain accurate I files. Editing templates in Canva enhanced my
+and complete client records. creativity and communication skills, especially in
+e Day2: preparing professional visual materials for public
+Edited templates in Canva for client I information. Finalizing the system flow also gave
+reporting images to be posted on the I me a better understanding of how systems are
+Facebook page of the Bukidnon Parole I planned and developed to improve office
+and Probation Office. Improved layouts, I processes. Overall, the experience taught me the
+text amangement, and overall visual I value of teamwork, responsibility, patience, and
+presentation. attention to detail in accomplishing tasks efficiently.
+e Day3:
+Finalized the system flow for the
+development of a client management
+system intended for the Bukidnon Parole
+and Probation Office. Reviewed processes
+and ensured that the workflow would
+support efficient client monitoring and
+record management.
+e Day4:
+Assisted in organizing client records and
+placing documents into their designated
+folders properly. Helped maintain
+systematic filing to ensure easy access
+and proper documentation of client
+information.
+
+e Dayt:
+Attended and actively participated in the
+Emotional Intelligence seminar held at
+Building Room 306. The activity focused
+on understanding emotions, selfawareness, communication, and building
+positive relationships with others.
+e Day2:
+Continued attending and participating in
+the Emotional Intelligence seminar at
+Building Room 306. Gained additional
+knowledge about emotional management,
+teamwork, empathy, and maintaining
+professionalism in different situations.
+e Day3:
+Performed data entry by inputting the
+names of clients in the Bukidnon Parole
+and Probation Office using Microsoft
+Excel. Arranged the client names
+alphabetically to ensure organized and
+accurate records management.
+e Day4:
+Arranged and organized clients' folders to
+maintain systematic and unique filing of
+important documents. This activity helped
+improve file accessibility, cleanliness, and
+organization within the office.
+This week provided me with valuable leaming
+experiences both personally and professionally.
+Through the Emotional Intelligence seminar, |
+leamed the importance of self-awareness,
+empathy, and proper communication in dealing
+with different people and situations. It also helped
+me understand how emotional intelligence can
+contribute to personal growth and a positive
+working environment.
+Meanwhile, the office activities enhanced my
+organizational and technical skills, especially in
+handling records and arranging files
+systematically. These tasks taught me the value of
+accuracy, patience, responsibility, and teamwork in
+maintaining efficient office operations. Overall, this
+learning, self-improvement, and gaining practical
+experience.
+
+e Dayf:
+Visited the Manolo Fortich District Jail to
+conduct interviews with selected
+probationers as part of the office
+assessment and monitoring process.
+e Day2:
+Assisted in inputting and organizing
+clients' data at the Bukidnon Parole and
+Probation Office to ensure accurate and
+systematic record management.
+e Day3:
+Continued encoding and organizing
+clients' information in the Bukidnon Parole
+and Probation Office database for proper
+documentation and easy retrieval of
+records.
+o Day4:
+Set up and configured the staff computer
+at the Bukidnon Parole and Probation
+Office to support office operations and
+This week helped me gain valuable experience and
+knowledge in the field of parole and probation
+services. During our visit to the Manolo Fortich
+District Jail, I leamed the importance of proper
+communication, respect, and understanding when
+interviewing probationers. It also helped me realize
+the challenges faced by individuals under
+rehabilitation and the importance of giving them
+guidance and support.
+On the following days, I assisted in inputting and
+organizing clients' data at the Bukidnon Parole and
+Probation Office. Through this task, I developed
+patience, accuracy, and responsibility in handling
+important records and documents. I understood
+how proper data management contributes to an
+organized and efficient office system.
+Lastly, setting up the staff computer enhanced my
+technical skills and showed me the importance of
+technology in improving office productivity. Overall,
+this week became a meaningful leaming
+improve work efficiency. experience that helped me improve my
+communication, organizational, and technical
+abiliies while also understanding the
+responsibilities within the parole and probation
+office.
+
+During Day 1, I organized clients' files and
+documents stored on the office laptop at Bukidnon
+Parole and Probation Office No. 1. The files were
+reviewed and arranged systematically to make
+them easier to access and retrieve when needed.
+On Day 2, I continued organizing clients' files and
+documents by applying a proper and standardized
+format. This involved checking file names, folders,
+and document classifications to ensure
+consistency and accuracy. On Day 3, I continued
+organizing and updating clients' digital records on
+the office laptop to maintain an orderly filing
+system. On Day 4, I performed the same task by
+reviewing, verifying, and organizing files to ensure
+their completeness, accuracy, and proper
+arrangement within the office records.
+My activities this week at Bukidnon Parole and
+Probation Office No. 1 focused on organizing and
+managing clients' files and documents. Through
+these tasks, I leamed the importance of
+maintaining a systematic and organized filing
+system to support efficient office operations.
+Proper document management allows records to
+be accessed quickly, reduces the possibility of
+errors, and ensures that important information is
+securely maintained. This experience also helped
+me develop patience, attention to detail,
+responsibility, and professionalism when handling
+confidential client records. Overall, the activities
+enhanced my organizational and administrative
+skills while allowing me to contribute to the office's
+goal of maintaining accurate, accessible, and wellmanaged client information.
+
+On Day 1, I assisted in fixing and troubleshooting
+the Online Attendance Application used by the staff
+of Bukidnon Parole and Probation Office No. 1. The
+application encountered technical issues that
+affected its functionality, and I helped identify and
+resolve the problem to restore its normal operation.
+Additionally, I copied and transferred the
+attendance application files needed by the staff to
+ensure that the system was properly installed and
+accessible for office use.
+On Day 2, I focused on finalizing and organizing
+clients' data and information. This involved
+reviewing records for accuracy, arranging files
+systematically, and ensuring that all client
+information ~ was complete and properly
+documented. The activity helped improve the
+organization and accessibility of records, making
+them easier to retrieve and manage when needed.
+This week's activities provided me with valuable
+experience in both technical support and data
+management at Bukidnon Parole and Probation
+Office No. 1. By assisting in the repair and setup of
+the Online Attendance Application, I gained a
+better understanding of troubleshooting software
+issues and the importance of maintaining reliable
+office systems. Organizing and finalizing clients'
+data reinforced the significance of accuracy,
+attention to detail, and proper record management
+in ensuring efficient office operations. These tasks
+enhanced my technical, organizational, and
+problem-solving skills while allowing me to
+contribute to the office's daily functions and overall
+productivity.

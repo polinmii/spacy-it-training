@@ -1,0 +1,380 @@
+Fixed refactor redirect Fixing the redirect after a refactor helped me
+realize how even small changes to the code's
+structure can unintentionally break functionality.
+This reinforced the importance of thorough testing
+and careful attention to detail when modifying core
+behavior in the system.
+Fixed configuration Fixing the configuration issue taught me how
+critical proper configuration management is for
+ensuring the system runs consistently across
+environments, since even small reconfiguration
+can cause unexpected behavior or deployment
+failures if not tracked and tested. I also learned the
+importance of clear versioning and validation so
+that configuration changes are traceable, easier to
+fix, and less likely to introduce new problems in the
+future.
+User Management I learned that user management is fundamental for
+securely handling user accounts, access rights,
+and roles within a system to ensure that only the
+right people can access the right features and data.
+It also taught me the importance of organizing and
+controlling permissions carefully to maintain
+security, streamline administration.
+
+Implemented a mailer class for sending system
+emails.
+Developed email verification features with secure
+activation links.
+Tested and debugged email
+verification processes. / Integrated backend logic
+for user email confirmation and database updates.
+delivery and
+Mickel Angelo P. Gaudicos
+Institute for Computer Studies
+I leamed how email systems work in web
+applications, including how to configure a mailer
+class and integrate SMTP services for sending
+automated emails. I also understood the
+importance of proper email configuration to ensure
+reliable delivery and avoid errors during sending.
+I learned how to implement user authentication
+through email verification by generating secure
+activation links or tokens. This helped me
+understand how systems confirm that an email
+address is valid and belongs to a real user,
+improving both security and data accuracy
+I learned how to identify and resolve issues related
+to email sending and verification, such as failed
+deliveries or invalid links. This improved my
+debugging skills and helped me understand how
+email verification ensures messages are
+successfully delivered and reduces emors like
+bounced emails
+i Scanned with
+i & CamScanner';
+
+Designed and implemented a role-based access | I leamed how to structure user permissions and
+control (RBAC) system to restrict access based roles within a web application. Understanding
+on user roles. RBAC helped me appreciate how access levels
+are enforced to protect sensitive data and restrict
+unauthorized actions, which is a fundamental
+aspect of secure software development.
+Developed login and logout functionality with I gained hands-on experience with session
+session management. handling in web applications. I leamed how
+sessions are created upon authentication,
+maintained throughout user interaction, and
+properly destroyed logout to prevent unauthorized
+access, reinforcing my understanding of web
+security practices.
+Implemented middleware for route protection and | I leamed how middleware acts as a gatekeeperin
+authentication guards. routing, intercepting requests to verify
+authentication before granting access to protected
+resources. This deepened my understanding of
+backend architecture and how security layers are
+integrated into the application flow.
+Tested and debugged authentication flows and Through testing, I discovered and resolved
+access control mechanisms. various edge cases in the authentication process.
+This experience improved my debugging skills
+and reinforced the importance of thorough testing
+in ensuring that security features behave as
+expected under different conditions.
+Scanned with
+{8 camScanner
+
+Reviewed and optimized the database schema for | I leamed how proper database design directly
+the system's core modules. impacts application performance and
+maintainability. Analyzing the schema helped me
+understand nommalization principles and how to
+structure tables and relationships to minimize
+redundancy and improve data integrity.
+Developed Create, Read, Update, and Delete Implementing full CRUD operations deepened my
+(CRUD) functionalities for the student records understanding of how data flows between the
+module. front end, back end, and database. I leamed how
+to write clean and efficient queries and how each
+operation maps to real-world user actions within
+the system.
+Integrated form validations and error handling for | I leamed the importance of validating user input
+data input processes. both on the client side and on the server side to
+maintain data accuracy and prevent malicious
+input. Handling errors gracefully also taught me
+how to provide meaningful feedback to users
+when something goes wrong.
+Performing a schema backup Creating a schema backup is an essential part of
+database management and data protection.
+Through this activity, I leamed the importance of
+regularly backing up schema structures to prevent
+data loss and maintain system reliability. It also
+helped me understand how backups can support
+recovery processes and ensure business
+continuity in case of system failures or accidental
+data changes. This task emphasized the need for
+careful planning and documentation in database
+administration.
+Scanned with
+{8 camScanner
+
+Developed responsive Ul components for the I leamed how to build reusable and responsive Ul
+student portal using modem frontend frameworks. I components that adapt to different screen sizes.
+This experience reinforced the importance of
+designing with the user in mind and using
+component-based architecture to keep the
+codebase organized and scalable,
+Applied CSS styling and layout techniques to Working on the application's visual design
+improve the overall look and usability of the improved my understanding of layout systems
+application. such as Flexbox and CSS Grid. I realized that
+good Ul design is not just aesthetic but also
+functional, influencing how intuitively users can
+interact with the system.
+Implemented dynamic content rendering and I leamed how to handle asynchronous data
+integrated frontend logic with backend API fetching and display results dynamically without
+responses. refreshing the page. This taught me how modern
+web applications provide a smooth user
+experience through real-time content updates tied
+to backend data.
+Conducted cross-browser compatibility testing I discovered that web applications may behave
+and addressed Ul inconsistencies. differently across various browsers and devices.
+This testing phase taught me the importance of
+writing standard-compliant code and using
+compatibility checks to ensure a consistent
+experience for all users.
+Scanned with
+{8 camScanner
+
+Integrated all developed modules into a unified Combining all the individual components into a
+system. working system taught me how each module
+depends on others. Integration testing helped me
+identify and resolve incompatibilities between
+modules, reinforcing the importance of planning
+and communication in collaborative software
+development.
+I leamed how unit tests help isolate and verify the
+behavior of individual functions or components.
+Wiriting and running tests improved my ability to
+detect logic errors early, reducing the risk of bugs
+reaching production and improving overall code
+reliability.
+Performed bug fixing across various system
+components.
+Working with Git branching and pull requests
+gave me practical experience in industry-standard
+collaboration workflows. I learned how version
+control ensures code changes are tracked,
+reviewed, and merged systematically, which is
+critical in team-based software projects.
+Used Git for version control, created branches,
+and submitted pull requests for code review.
+I leamed that proper documentation is as
+important as the code itself. Creating
+documentation for the system's features and APIs
+helped me communicate technical information
+clearly and will serve as a valuable reference for
+future developers maintaining or extending the
+project.
+Documented system features and deployment
+procedures.
+
+Designed and developed an interactive dashboard
+interface for administrators and users.
+Integrated charts, statistics, and summary cards
+to display real-time system data.
+Connected dashboard modules with backend
+APIs and database queries.
+Tested dashboard responsiveness and optimized
+layout for different screen sizes.
+I leamed how dashboards improve data
+visualization and system monitoring for users and
+administrators. Developing the interface
+enhanced my understanding of layout
+organization and how to present important
+information clearly and efficiently.
+I gained experience in handling dynamic data
+visualization and connecting frontend components
+with backend data sources. This activity taught
+me how real-time updates improve decisionmaking and user interaction.
+I leamed how APIs and databases work together
+to provide updated and accurate information
+within the dashboard. This strengthened my
+understanding of asynchronous data handling and
+system integration.
+Through testing, I leamed the importance of
+responsive design and accessibility. This activity
+improved my ability to create interfaces that work
+properly across multiple devices and screen
+resolutions.
+Scanned with
+i & CamScanner';
+
+Configured the hosting environment and prepared
+the application for deployment.
+Set up web server configurations, environment
+variables, and database connections.
+Performed deployment testing and verified
+application functionality in the live environment.
+Implemented backup and security measures
+for the deployed application.
+I leamed how production environments differ from
+local development environments. Configuring the
+hosting setup helped me understand how
+applications are prepared for real-world usage.
+I gained a deeper understanding of backend
+infrastructure and how servers communicate with
+applications and databases. This activity
+enhanced my technical knowledge of deployment
+processes.
+Testing the deployed application taught me how
+important it is to identify environment-specific
+issues before releasing a system to users. This
+improved my troubleshooting and testing skills.
+I learned the importance of system backups
+and security practices in maintaining reliable
+applications. This activity increased my
+awareness of protecting systems from
+unexpected failures and vulnerabilities.
+i Scanned with
+i & CamScanner';
+Fi DE i
+Supery
+
+Identified and resolved bugs reported during
+system testing.
+Optimized database queries and backend
+processes to improve system performance.
+Enhanced frontend loading speed and reduced
+unnecessary resource usage.
+Conducted performance testing and monitored
+system stability under different workloads.
+limproved my debugging and problem-solving
+skills by analyzing issues and identifying their root
+causes. This activity taught me the importance of
+attention to detail in maintaining software quality.
+I leamed how efficlent database queries
+contribute to faster response times and better
+system performance. This enhanced my
+understanding of optimization techniques and
+backend efficiency.
+I gained experience in improving user experience
+by minimizing delays and optimizing application
+resources. This taught me the value of efficient
+frontend development practices.
+I learned how stress testing helps evaluate
+system reliability and scalability. This activity
+showed me the importance of monitoring
+performance to maintain stable applications.
+i Scanned with
+i & CamScanner';
+
+Developed a forgot password module with email I learned how password recovery systems
+verification and reset functionality. improve account accessibility while maintaining
+security. Implementing this feature enhanced my
+understanding of authentication workflows.
+Integrated validation and security checks for
+password reset requests.
+I gained knowledge about protecting user
+accounts through proper validation and secure
+verification processes. This activity reinforced the
+importance of cybersecurity practices.
+Created a user visited logs feature to record and
+I leamed how activity logs help administrators
+monitor user activities.
+monitor system usage and maintain
+accountability. This improved my understanding
+of database logging and tracking systems.
+Tested password recovery and user logging
+features for accuracy and reliabllity.
+Through testing, I realized the importance of
+verifying all possible scenarios to ensure system
+reliability. This strengthened my debugging and
+quality assurance skills.
+i Scanned with
+i & CamScanner';
+- R S ~
+
+Prepared technical documentation for system
+modules and functionalities.
+Documented database structures, AP| endpoints,
+and deployment procedures.
+Compiled user manuals and guides for system
+navigation and usage.
+Reviewed and revised documentation for clarity
+and completeness.
+_ Mickel Angelo P. Gaudicos
+m Institute for Computer Studies
+- TG RPORISITET SR |
+I leamned how proper documentation helps
+developers and users understand system
+processes clearly. Writing technical
+documentation improved my communication and
+organizational skills.
+I gained experience in creating references for
+future maintenance and development. This
+activity taught me the importance of accurate and
+organized technical records.
+I leamed how user guides improve accessibility
+and reduce confusion for end users. Creating
+manuals strengthened my ability to explain
+system features clearly.
+I realized that documentation requires continuous
+improvement to remain understandable and
+useful. This activity enhanced my proofreading
+and technical writing skills.
+
+Designed and developed the OJT Hours Tracking
+System interface and core functionalities.
+Implemented time-in and time-out recording
+features with automated hour computation.
+Integrated database storage and reporting
+functionalities for OJT records.
+Tested the OJT Hours Tracking System for
+functionality and accuracy.
+m Mickel Angelo P. Gaudicos
+m Institute for Computer Studies
+Semester AY 2025-2026
+System Development
+I leamed how tracking systems are structured to
+manage records efficiently. Developing the
+system improved my understanding of workflowbased application development.
+I gained practical experience in handling time
+calculations and automation processes. This
+activity taught me how systems improve efficiency
+and reduce manual emors.
+I learned how databases organize and retrieve
+tracking information efficiently. This activity
+improved my knowledge of data management and
+report generation.
+Through testing, I identified possible issues in
+data handling and time tracking. This reinforced
+the importance of quality assurance in system
+development.
+i Scanned with
+i & CamScanner';
+afure over Printed Name of HTE
+Supervisor
+Scanned with
+CamScanner';
+
+Prepared the OJT Hours Tracking System for
+deployment in the production environment.
+Configured server settings, database
+connections, and environment variables for the
+tracking system.
+Performed final testing and troubleshooting after
+deployment.
+Monitored system performance and ensured data
+reliability after deployment.
+I leamed how deployment procedures ensure that
+systems are accessible and functional for actual
+users. This activity strengthened my confidence in
+handling production-ready systems.
+I gained a better understanding of server
+management and deployment configurations. This
+improved my technical knowledge of maintaining
+stable applications.
+I leamed how deployment testing helps identify
+environment-related issues before full
+implementation. This activity improved my
+troubleshooting and debugging skills.
+I realized the importance of continuous monitoring
+and maintenance after system release. This
+taught me how to maintain reliability and stability
+in deployed applications.
