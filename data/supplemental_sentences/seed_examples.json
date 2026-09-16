@@ -1,0 +1,5840 @@
+[
+  {
+    "text": "Encoding data in Excel",
+    "entities": [
+      [
+        0,
+        22,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoding data correctly in Excel and assisted with basic Word and Excel tasks",
+    "entities": [
+      [
+        0,
+        77,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Creating certificate templates",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Creating log book templates",
+    "entities": [
+      [
+        0,
+        27,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "AICS Orientation",
+    "entities": [
+      [
+        0,
+        16,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Computer works (covering computer-related tasks)",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Putting new templates and making new certificates updates",
+    "entities": [
+      [
+        0,
+        57,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Making new templates of log books for clients",
+    "entities": [
+      [
+        0,
+        45,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Hardware assembly",
+    "entities": [
+      [
+        0,
+        17,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PC assembling",
+    "entities": [
+      [
+        0,
+        13,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Printer troubleshot",
+    "entities": [
+      [
+        0,
+        19,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Planning System for PNP Operation Office",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Day 1 - UI/UX Designing",
+    "entities": [
+      [
+        0,
+        23,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Day 2 - UI/UX Designing",
+    "entities": [
+      [
+        0,
+        23,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Troubleshoot WIFI and change password",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Researching a best UI design for application build",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Calculate data (yearly expenses)",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Help editing (tarpaulin design for printing)",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Editing certificate",
+    "entities": [
+      [
+        0,
+        19,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Work to create system encryption feature",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continue coding the encryption function and input files",
+    "entities": [
+      [
+        0,
+        55,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixed errors in the encryption",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Finalized the encryption function",
+    "entities": [
+      [
+        0,
+        33,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continue developing the system",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Consulting the system and adding features",
+    "entities": [
+      [
+        0,
+        41,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Inputting the data of examiners",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continue inputting data of the examiner's",
+    "entities": [
+      [
+        0,
+        41,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Consulting and continuing the system",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "To continue developing and maintaining the system",
+    "entities": [
+      [
+        0,
+        49,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixing bugs and checking system errors",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Consulting with teammates about system improvements",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Updating and maintaining system features",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisting enrollees, monitoring and the system performance",
+    "entities": [
+      [
+        0,
+        58,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Create a sample program flow for MOA signing using Canva",
+    "entities": [
+      [
+        0,
+        56,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Guided students on how to access and use the QR code system",
+    "entities": [
+      [
+        0,
+        59,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoded some data",
+    "entities": [
+      [
+        0,
+        17,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in creating admission slip design",
+    "entities": [
+      [
+        0,
+        42,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in creating identification card design using Adobe Photoshop",
+    "entities": [
+      [
+        0,
+        69,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Performed data-input tasks by encoding information",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted with eGOV.PH services",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Used iClinicSys - checked patient names",
+    "entities": [
+      [
+        0,
+        39,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in eGOV.PH transactions",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "IT Fest — presented capstone project",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "2nd Day IT Fest — claimed Dean's List Award",
+    "entities": [
+      [
+        0,
+        43,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoded names, lot numbers, and lot classifications in Microsoft Excel",
+    "entities": [
+      [
+        0,
+        70,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Input briefcase items and other necessary information into Microsoft Excel",
+    "entities": [
+      [
+        0,
+        74,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued encoding data in Microsoft Excel",
+    "entities": [
+      [
+        0,
+        42,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Added missing details to memorial park database",
+    "entities": [
+      [
+        0,
+        47,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Verified and corrected information in Excel file",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued entering data and completing records in Microsoft Excel",
+    "entities": [
+      [
+        0,
+        65,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoding names of beneficiaries in Excel",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Inputting block assignments of each memorial lot",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assigning blocks to each memorial lot in database",
+    "entities": [
+      [
+        0,
+        49,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Organizing data in Excel according to map structure",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Updating and filling in missing information in Excel file",
+    "entities": [
+      [
+        0,
+        57,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Checking and correcting Excel entries",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Organizing and updating data in Excel",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Dispensed medicines and installed a printer driver",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Used iClinicSys - patient management system",
+    "entities": [
+      [
+        0,
+        43,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Scanning important files and saving them in the laptop",
+    "entities": [
+      [
+        0,
+        54,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued scanning remaining files",
+    "entities": [
+      [
+        0,
+        34,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Finished scanning all files and checked if everything was properly saved",
+    "entities": [
+      [
+        0,
+        72,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued arranging documents in proper order",
+    "entities": [
+      [
+        0,
+        45,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Creating posters for upcoming big sale using Canva",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Enhancing poster design with graphics and text elements in Canva",
+    "entities": [
+      [
+        0,
+        64,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Posting designed posters on Facebook",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Editing presentation template from portrait to landscape",
+    "entities": [
+      [
+        0,
+        56,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued layout and preparation of promotional materials for printing",
+    "entities": [
+      [
+        0,
+        70,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in layout preparation of public notice posters",
+    "entities": [
+      [
+        0,
+        55,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Creating a memorial park brochure",
+    "entities": [
+      [
+        0,
+        33,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Editing and arranging brochure layouts",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoding new clients in Excel",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Created poster for Father's Month Promo using Canva",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued editing and enhancing Father's Month poster",
+    "entities": [
+      [
+        0,
+        53,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Created another layout for Father's Month Promo",
+    "entities": [
+      [
+        0,
+        47,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued improving LED layout",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Finalized and reviewed Father's Month Promo poster and LED layout",
+    "entities": [
+      [
+        0,
+        65,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assist in setting up laptops and organizing digital data sheets",
+    "entities": [
+      [
+        0,
+        63,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Perform data encoding and data validation using spreadsheet tools",
+    "entities": [
+      [
+        0,
+        65,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assist in organizing, reviewing, and managing encoded data files",
+    "entities": [
+      [
+        0,
+        64,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Performed technical assistance for office equipment",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Data encoding and validation",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in preparing documents for upcoming activities",
+    "entities": [
+      [
+        0,
+        55,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Helped in documentation and coordination",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in documenting activity by photo documentation",
+    "entities": [
+      [
+        0,
+        55,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Supported data consolidation",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Provided technical assistance in file management",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Edited activity photos and created poster for Facebook",
+    "entities": [
+      [
+        0,
+        54,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in preparing visual materials",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Helped in file organization and coordination",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Provided basic technical support for office tasks",
+    "entities": [
+      [
+        0,
+        49,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Edited materials using Canva for posting",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Participated in MNET activities",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Provided technical assistance",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoded necessary data and information",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Edited materials using Canva",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued editing visual materials through Canva",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in field activity data gathering",
+    "entities": [
+      [
+        0,
+        41,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoded gathered information",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Supported encoding",
+    "entities": [
+      [
+        0,
+        18,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Prepared reports",
+    "entities": [
+      [
+        0,
+        16,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Organized documents",
+    "entities": [
+      [
+        0,
+        19,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Supported office work",
+    "entities": [
+      [
+        0,
+        21,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Finalized documents",
+    "entities": [
+      [
+        0,
+        19,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Completed pending tasks",
+    "entities": [
+      [
+        0,
+        23,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in routine office tasks",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Supported documents and records",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted during Charter Day",
+    "entities": [
+      [
+        0,
+        27,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Supported event coordination and preparation",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted during BNS Refresher course",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Documented activities conducted during training",
+    "entities": [
+      [
+        0,
+        47,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Participated in IT Fest and presented capstone study",
+    "entities": [
+      [
+        0,
+        52,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Edited documentation and preparing WIFA documentation",
+    "entities": [
+      [
+        0,
+        53,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Prepared and wrote captions for documentation photos",
+    "entities": [
+      [
+        0,
+        52,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted in organizing digital files",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Computer hardware maintenance",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixing the wiring of the SSD",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixing laptop printing",
+    "entities": [
+      [
+        0,
+        22,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Installing Composer and PhpSpreadsheet for Nutrimap system",
+    "entities": [
+      [
+        0,
+        58,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Making a poster for AMUMA clinic",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Manage Facebook (posting and comments)",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Operation Timbang (OPT) Plus",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fix and deployed new system features for website and BNS parts",
+    "entities": [
+      [
+        0,
+        62,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Deploy new development updates",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Develop family profiling application",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assist BNS for documentation form",
+    "entities": [
+      [
+        0,
+        33,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Computer troubleshooting",
+    "entities": [
+      [
+        0,
+        24,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Hardware maintenance",
+    "entities": [
+      [
+        0,
+        20,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Manage Facebook posting",
+    "entities": [
+      [
+        0,
+        23,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Review specification",
+    "entities": [
+      [
+        0,
+        20,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Manage Facebook Nutri-Game (comments and winner posting)",
+    "entities": [
+      [
+        0,
+        56,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fix emulator and development tool issues",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Edit Nutri-Game winner in Canva",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Plan and finalize family profile form",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Develop family profile application using Flutter",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Provide basic computer support",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fix laptop freezing issues",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assist BNS with their accomplishment",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Apply new update to the family profile application",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Ongoing to develop family profiling application",
+    "entities": [
+      [
+        0,
+        47,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Provide basic IT support",
+    "entities": [
+      [
+        0,
+        24,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Manage Facebook weekly Nutri-Game (comments and winner posting)",
+    "entities": [
+      [
+        0,
+        63,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Make breastfeeding poster for AMUMA clinic",
+    "entities": [
+      [
+        0,
+        42,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Family profiling application testing",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Apply the recommendation in FP application",
+    "entities": [
+      [
+        0,
+        42,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "General cleaning",
+    "entities": [
+      [
+        0,
+        16,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Documenting opening program for 2nd time crown",
+    "entities": [
+      [
+        0,
+        46,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Cleaned the Epson L310 and fix the laptop issue",
+    "entities": [
+      [
+        0,
+        47,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Presented family profiling application to Ma'am Elma M. Clappano",
+    "entities": [
+      [
+        0,
+        64,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Made 10 Kumainments poster",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Recovered files in flashdrive",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Enhanced and updated Nutrimap system",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Created an Excel file for the graph",
+    "entities": [
+      [
+        0,
+        35,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixed the encountered computer/laptop issues",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued developing Nutrimap system",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisted CNO staff for MELLPI in Barangay Bolo-Bolo",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Presented the updated family profiling application to BNS",
+    "entities": [
+      [
+        0,
+        57,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Update the BNS Nutrimap accounts",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Consulted with Sir Mike regarding facility updates",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixed minor errors and deployed the Nutrimap system onto InfinityFree web hosting",
+    "entities": [
+      [
+        0,
+        81,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Updated the family profiling application facilities",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Troubleshooting flash drive",
+    "entities": [
+      [
+        0,
+        27,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisting on the investigation office",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Editing video for evidence",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PC troubleshooting",
+    "entities": [
+      [
+        0,
+        18,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Check laptop and computer hardware issues",
+    "entities": [
+      [
+        0,
+        41,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Clean computer hardware",
+    "entities": [
+      [
+        0,
+        23,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Install programming tools",
+    "entities": [
+      [
+        0,
+        25,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Start system design and debugging",
+    "entities": [
+      [
+        0,
+        33,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Ongoing system development",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Planning Phase for system development",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Designing Phase - Figma Prototype",
+    "entities": [
+      [
+        0,
+        33,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Assisting on the operation office for PC troubleshooting",
+    "entities": [
+      [
+        0,
+        56,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 1 making the front-end code bypass PC password reset using Hirens",
+    "entities": [
+      [
+        0,
+        71,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 2 coding the front end assemble PC",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 3 coding with the back end moving PC setup",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 4 deploying the code for testing",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 5 adding new features and details moving PC final place",
+    "entities": [
+      [
+        0,
+        61,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Troubleshooting a laptop fixing some errors in coding",
+    "entities": [
+      [
+        0,
+        53,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Testing system",
+    "entities": [
+      [
+        0,
+        14,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixing some errors on the system",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Troubleshoot a phone in the intel office",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Transcribe a recorded meeting",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Adding some new adjustment on the system",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Helping in the admin",
+    "entities": [
+      [
+        0,
+        20,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Coding UI",
+    "entities": [
+      [
+        0,
+        9,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixing code",
+    "entities": [
+      [
+        0,
+        11,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "IT Fest Day 1",
+    "entities": [
+      [
+        0,
+        13,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "IT Fest Day 2",
+    "entities": [
+      [
+        0,
+        13,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Coding with my capstone",
+    "entities": [
+      [
+        0,
+        23,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Making a layout for the DC",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Research Summit Day 1",
+    "entities": [
+      [
+        0,
+        21,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Research Summit Day 2",
+    "entities": [
+      [
+        0,
+        21,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Coding",
+    "entities": [
+      [
+        0,
+        6,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Files management",
+    "entities": [
+      [
+        0,
+        16,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Preparation for the Lambigit",
+    "entities": [
+      [
+        0,
+        28,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Lambigit Day 1",
+    "entities": [
+      [
+        0,
+        14,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Lambigit Day 2",
+    "entities": [
+      [
+        0,
+        14,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continue file management",
+    "entities": [
+      [
+        0,
+        24,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Checking the system if it has bugs",
+    "entities": [
+      [
+        0,
+        34,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Checking the monitor",
+    "entities": [
+      [
+        0,
+        20,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "System planning",
+    "entities": [
+      [
+        0,
+        15,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PC password bypass using HIRENS",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 1 system development",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 2 system development",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 3 system development/PC setup",
+    "entities": [
+      [
+        0,
+        35,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 4 system development",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 5 system development/deployment",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 6 system development/PC setup/laptop troubleshooting",
+    "entities": [
+      [
+        0,
+        58,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PC re-setup",
+    "entities": [
+      [
+        0,
+        11,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 7 system development",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 8 system development/deployment",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Phase 9 system development",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Networking",
+    "entities": [
+      [
+        0,
+        10,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "System deployment",
+    "entities": [
+      [
+        0,
+        17,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "File management",
+    "entities": [
+      [
+        0,
+        15,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Application management",
+    "entities": [
+      [
+        0,
+        22,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Admim PC troubleshooting",
+    "entities": [
+      [
+        0,
+        24,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Basic Life support orientation",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Slow admin PC troubleshooting",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PC troubleshooting (hardware)",
+    "entities": [
+      [
+        0,
+        29,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Police clearance processing",
+    "entities": [
+      [
+        0,
+        27,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Police clearance",
+    "entities": [
+      [
+        0,
+        16,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Admin PC troubleshooting",
+    "entities": [
+      [
+        0,
+        24,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Police Tarp Layout",
+    "entities": [
+      [
+        0,
+        18,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PNP Stencil",
+    "entities": [
+      [
+        0,
+        11,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "System debug",
+    "entities": [
+      [
+        0,
+        12,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Police DO layout",
+    "entities": [
+      [
+        0,
+        16,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Day 1 NBSC research summit",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Day 2 NBSC research summit",
+    "entities": [
+      [
+        0,
+        26,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Laptop troubleshooting",
+    "entities": [
+      [
+        0,
+        22,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PNP document organization",
+    "entities": [
+      [
+        0,
+        25,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Data entry",
+    "entities": [
+      [
+        0,
+        10,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PNP data entry",
+    "entities": [
+      [
+        0,
+        14,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Panday Kabataan research summit",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "PNP checkpoint documenter",
+    "entities": [
+      [
+        0,
+        25,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Created the employer login page",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Developed the employer sign-up form",
+    "entities": [
+      [
+        0,
+        35,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Designed the employer dashboard layout",
+    "entities": [
+      [
+        0,
+        38,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Integrated the PESO job post form",
+    "entities": [
+      [
+        0,
+        33,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Applied capstone design principles",
+    "entities": [
+      [
+        0,
+        34,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Managed code versioning with Git commits",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Attended task alignment with Sir Jerome",
+    "entities": [
+      [
+        0,
+        39,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Presented landing page designs to Ma'am Lorraine",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Merged design elements based on feedback",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Reviewed the updated system requirements",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Continued job seeker portal development",
+    "entities": [
+      [
+        0,
+        39,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Identified new system features",
+    "entities": [
+      [
+        0,
+        30,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Collaborated on team task division",
+    "entities": [
+      [
+        0,
+        34,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Planned the landing page layout in Canva",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Selected and optimized background assets",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Started coding the landing page structure",
+    "entities": [
+      [
+        0,
+        41,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Conducted a CSS \"flexibility\" review",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixed CSS for responsive design",
+    "entities": [
+      [
+        0,
+        31,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Configured the mobile background layout",
+    "entities": [
+      [
+        0,
+        39,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Synced final design changes with the team",
+    "entities": [
+      [
+        0,
+        41,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Digitalized raw survey data via Google Forms",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Updated system branding and portal title",
+    "entities": [
+      [
+        0,
+        40,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Adjusted the background image for mobile view",
+    "entities": [
+      [
+        0,
+        45,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Fixed the CSS",
+    "entities": [
+      [
+        0,
+        13,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Visual polish: shadows and thickness",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Refined element sizing for uniformity",
+    "entities": [
+      [
+        0,
+        37,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Prepared code for repository merging",
+    "entities": [
+      [
+        0,
+        36,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Developed mobile-responsive CSS for portal features",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Optimized mobile background and tabulation layout",
+    "entities": [
+      [
+        0,
+        49,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Performed CSS cleanup and removed redundant code",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Added the system Favicon and fixed background loading",
+    "entities": [
+      [
+        0,
+        53,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Encoded the week 2 market crisis survey data",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Synced all UI and mobile updates to GitHub",
+    "entities": [
+      [
+        0,
+        42,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Configured system routing for Admin and Job Seekers",
+    "entities": [
+      [
+        0,
+        51,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Integrated the Job Seeker dashboard PHP components",
+    "entities": [
+      [
+        0,
+        50,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Updated home page UI with job listings and icons",
+    "entities": [
+      [
+        0,
+        48,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Refined UI alignment and \"Apply\" button centering",
+    "entities": [
+      [
+        0,
+        49,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Developed the Admin login module",
+    "entities": [
+      [
+        0,
+        32,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Developed the initial Admin Dashboard and routing logic",
+    "entities": [
+      [
+        0,
+        55,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Conducted UI fixes for footer components and system icons",
+    "entities": [
+      [
+        0,
+        57,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Implemented the initial OFW Dashboard module",
+    "entities": [
+      [
+        0,
+        44,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Integrated the Data Privacy Act Consent before registration",
+    "entities": [
+      [
+        0,
+        59,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Standardized titles across Admin, Employer, and JobSeeker portal",
+    "entities": [
+      [
+        0,
+        64,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Conducted final refinements on the OFW dashboard layout",
+    "entities": [
+      [
+        0,
+        55,
+        "IT_TASK"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 1.0,
+      "CLERICAL": 0.0
+    }
+  },
+  {
+    "text": "Organizing documents alphabetically",
+    "entities": [
+      [
+        0,
+        35,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Printing forms",
+    "entities": [
+      [
+        0,
+        14,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranging files",
+    "entities": [
+      [
+        0,
+        15,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Updating passbooks",
+    "entities": [
+      [
+        0,
+        18,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Giving certificates",
+    "entities": [
+      [
+        0,
+        19,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Document distribution",
+    "entities": [
+      [
+        0,
+        21,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Record management",
+    "entities": [
+      [
+        0,
+        17,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Filing and organizing folders",
+    "entities": [
+      [
+        0,
+        29,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Locating and listing files",
+    "entities": [
+      [
+        0,
+        26,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Audit preparations",
+    "entities": [
+      [
+        0,
+        18,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Processing police clearance",
+    "entities": [
+      [
+        0,
+        27,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Editing certificates",
+    "entities": [
+      [
+        0,
+        20,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Inputting examiner data",
+    "entities": [
+      [
+        0,
+        23,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranging hard copies of client payment details in alphabetical order",
+    "entities": [
+      [
+        0,
+        69,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisting during enrollment process",
+    "entities": [
+      [
+        0,
+        35,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Coordinating with barangay personnel",
+    "entities": [
+      [
+        0,
+        36,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during orientation activity with barangay nutrition scholars",
+    "entities": [
+      [
+        0,
+        69,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Routed documents for signatories related to RGPS post-evaluation",
+    "entities": [
+      [
+        0,
+        64,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized and reviewed office documents",
+    "entities": [
+      [
+        0,
+        39,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in office documentation",
+    "entities": [
+      [
+        0,
+        32,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in office operations",
+    "entities": [
+      [
+        0,
+        29,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized files and reports",
+    "entities": [
+      [
+        0,
+        27,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during OPT PLUS DOC supervision",
+    "entities": [
+      [
+        0,
+        40,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Visited barangays for consultation and coordination",
+    "entities": [
+      [
+        0,
+        51,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in routine office operations",
+    "entities": [
+      [
+        0,
+        37,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized documents and files",
+    "entities": [
+      [
+        0,
+        29,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in nutrition counseling",
+    "entities": [
+      [
+        0,
+        32,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in distribution of nutrition counseling forms",
+    "entities": [
+      [
+        0,
+        54,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended the distribution of certificates of recognition",
+    "entities": [
+      [
+        0,
+        56,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in the recognition program for 2024 interns",
+    "entities": [
+      [
+        0,
+        56,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Continued performing office tasks and documentation",
+    "entities": [
+      [
+        0,
+        51,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Supported administrative tasks",
+    "entities": [
+      [
+        0,
+        30,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during the 5th BNS meeting",
+    "entities": [
+      [
+        0,
+        35,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Documented discussions and meeting proceedings",
+    "entities": [
+      [
+        0,
+        46,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in preparation of meeting materials",
+    "entities": [
+      [
+        0,
+        48,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Calling clients with balance or due dates",
+    "entities": [
+      [
+        0,
+        41,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Recording and confirming payment information from clients",
+    "entities": [
+      [
+        0,
+        57,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Photocopying important documents",
+    "entities": [
+      [
+        0,
+        32,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisting in laminating stall numbers",
+    "entities": [
+      [
+        0,
+        37,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Double-checked payment records in Google Sheets and Excel",
+    "entities": [
+      [
+        0,
+        57,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Recorded insurance details in the system",
+    "entities": [
+      [
+        0,
+        40,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Went to the cemetery to give flowers and thank you cards",
+    "entities": [
+      [
+        0,
+        56,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Helping facilitate at memorial park - client payments and records",
+    "entities": [
+      [
+        0,
+        65,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Making thank you cards for bereaved families",
+    "entities": [
+      [
+        0,
+        44,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Distributing promotional flyers in the community",
+    "entities": [
+      [
+        0,
+        48,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Printing flyers for Mother's Month Promo",
+    "entities": [
+      [
+        0,
+        40,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organizing and arranging student scholarship data",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranged and organized student scholarship data",
+    "entities": [
+      [
+        0,
+        47,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assist creating 800 identification cards for student scholars",
+    "entities": [
+      [
+        0,
+        61,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during the enrollment process",
+    "entities": [
+      [
+        0,
+        38,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in the release of finalized IDs",
+    "entities": [
+      [
+        0,
+        40,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Rush of inputting data for freshmen",
+    "entities": [
+      [
+        0,
+        35,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Stamped documents, created medicine sachets",
+    "entities": [
+      [
+        0,
+        43,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Created medicine sachets, wrote medicine names",
+    "entities": [
+      [
+        0,
+        46,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Created medicine sachets, stamped documents",
+    "entities": [
+      [
+        0,
+        43,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Wrote medicine names on sachets",
+    "entities": [
+      [
+        0,
+        31,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranged medicines and made medicine sachets",
+    "entities": [
+      [
+        0,
+        44,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Refilled medicines into medicine sachets and stamped documents",
+    "entities": [
+      [
+        0,
+        62,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranged medicines and created medicine sachets",
+    "entities": [
+      [
+        0,
+        47,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Dispensed medicines from prescriptions of each patient",
+    "entities": [
+      [
+        0,
+        54,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Stamped documents and created medicine sachets for use in RQPS outreach",
+    "entities": [
+      [
+        0,
+        71,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Dispensed medicines based on prescriptions",
+    "entities": [
+      [
+        0,
+        42,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Dispensed medicines based on their prescriptions",
+    "entities": [
+      [
+        0,
+        48,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended RQPS activity in Lindaban",
+    "entities": [
+      [
+        0,
+        34,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranged medicines in their proper storage areas",
+    "entities": [
+      [
+        0,
+        48,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Counted available stocks to ensure accurate inventory records",
+    "entities": [
+      [
+        0,
+        61,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended the Charter Day celebration",
+    "entities": [
+      [
+        0,
+        36,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in stamping documents and wrote medicine names on sachets for proper labeling and distribution",
+    "entities": [
+      [
+        0,
+        103,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Used iClinicSys to encode, update and manage patient records",
+    "entities": [
+      [
+        0,
+        60,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Used iClinicSys for patient record to manage their prescription",
+    "entities": [
+      [
+        0,
+        63,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Refilled medicines, assisted in medicine distribution",
+    "entities": [
+      [
+        0,
+        53,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Used iClinicSys and checked PhilHealth eligibility",
+    "entities": [
+      [
+        0,
+        50,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in distribution of medicines to patients",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Updated recording in medical records",
+    "entities": [
+      [
+        0,
+        36,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Used iClinicSys and prepared medicine sachets",
+    "entities": [
+      [
+        0,
+        45,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Conducted stock transfer, used iClinicSys and checked PhilHealth eligibility",
+    "entities": [
+      [
+        0,
+        76,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Created buletas and stamped documents",
+    "entities": [
+      [
+        0,
+        37,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Prepared medicine sachets and stamped documents",
+    "entities": [
+      [
+        0,
+        47,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Refilled medicines, stamped documents and organized inventory and transfer slips",
+    "entities": [
+      [
+        0,
+        80,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Used iClinicSys and stamped documents",
+    "entities": [
+      [
+        0,
+        37,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Refilled medicine, assisted patients in answering the client satisfaction survey",
+    "entities": [
+      [
+        0,
+        80,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Refilled medicine stocks, updated and checked patient records",
+    "entities": [
+      [
+        0,
+        61,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Refilled medicines as needed and used iClinicSys to manage and verify patient records and medication information",
+    "entities": [
+      [
+        0,
+        112,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Used iClinicSys to access, update, and verify patient records and related healthcare information",
+    "entities": [
+      [
+        0,
+        96,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Stamped documents and created medicine sachets on sachets",
+    "entities": [
+      [
+        0,
+        57,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Created medicine sachets, stamped documents and wrote medicine names",
+    "entities": [
+      [
+        0,
+        68,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Stamped documents, created medicine sachets and wrote medicine names",
+    "entities": [
+      [
+        0,
+        68,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Stamped documents and created medicine sachets",
+    "entities": [
+      [
+        0,
+        46,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Continued assist during the enrollment process by releasing QR codes",
+    "entities": [
+      [
+        0,
+        68,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in completing documentation requirements",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized and reviewed office files",
+    "entities": [
+      [
+        0,
+        35,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Continued routing and organizing important documents related to RGPS post-evaluation",
+    "entities": [
+      [
+        0,
+        84,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Recorded contact numbers of buyers",
+    "entities": [
+      [
+        0,
+        34,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized remaining new permits and arranged documents properly",
+    "entities": [
+      [
+        0,
+        63,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Recorded attendance at municipal gym event",
+    "entities": [
+      [
+        0,
+        42,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisting during the investigation office",
+    "entities": [
+      [
+        0,
+        41,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisting on investigating office",
+    "entities": [
+      [
+        0,
+        33,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Investigating office - editing video for evidence",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Police clearance process",
+    "entities": [
+      [
+        0,
+        24,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended orientation activity attended by barangay nutrition scholars",
+    "entities": [
+      [
+        0,
+        69,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Coordinated with different agencies in supporting community workers",
+    "entities": [
+      [
+        0,
+        67,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during nutrition counseling and distribution of nutrition counseling forms",
+    "entities": [
+      [
+        0,
+        83,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in document filing",
+    "entities": [
+      [
+        0,
+        27,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in field activity setup",
+    "entities": [
+      [
+        0,
+        36,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Recorded activity details and attendance",
+    "entities": [
+      [
+        0,
+        40,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assigned as an usher at the event",
+    "entities": [
+      [
+        0,
+        33,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Continued organizing files and materials for preparation of public notice posters",
+    "entities": [
+      [
+        0,
+        81,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Continued organizing and completing student scholarship data",
+    "entities": [
+      [
+        0,
+        60,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in coordinating student scholarship data",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Arranged and reviewed office documents",
+    "entities": [
+      [
+        0,
+        38,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in compiling and organizing documents",
+    "entities": [
+      [
+        0,
+        46,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Prepared documents and reports",
+    "entities": [
+      [
+        0,
+        30,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Supported office documentation tasks",
+    "entities": [
+      [
+        0,
+        36,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted in routine office work",
+    "entities": [
+      [
+        0,
+        31,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized records and files",
+    "entities": [
+      [
+        0,
+        27,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during BNS monthly meeting",
+    "entities": [
+      [
+        0,
+        35,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Documented the meeting activities and discussions",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended awarding and distribution of certificates of recognition",
+    "entities": [
+      [
+        0,
+        65,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized files and documents",
+    "entities": [
+      [
+        0,
+        29,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Prepared documents for provincial nutrition evaluation",
+    "entities": [
+      [
+        0,
+        54,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Organized and reviewed files for submission",
+    "entities": [
+      [
+        0,
+        43,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during Provincial Nutrition Evaluation",
+    "entities": [
+      [
+        0,
+        47,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Escorted evaluators to selected facilities",
+    "entities": [
+      [
+        0,
+        42,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Supported monitoring related to Food Fortification and BNS Lab",
+    "entities": [
+      [
+        0,
+        62,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in OPT Panaguay activity",
+    "entities": [
+      [
+        0,
+        37,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during Nutrition lecture",
+    "entities": [
+      [
+        0,
+        33,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended emotional intelligence seminar",
+    "entities": [
+      [
+        0,
+        39,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in discussions and listening to lectures",
+    "entities": [
+      [
+        0,
+        53,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Continued participation in emotional intelligence seminar",
+    "entities": [
+      [
+        0,
+        57,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in discussions and team strategies",
+    "entities": [
+      [
+        0,
+        47,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Assisted during orientation activity",
+    "entities": [
+      [
+        0,
+        36,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Transcribed the meeting recording",
+    "entities": [
+      [
+        0,
+        33,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Attended the LGU Charter Day opening ceremony",
+    "entities": [
+      [
+        0,
+        45,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Provided technical support at the Job Start Employers' Forum",
+    "entities": [
+      [
+        0,
+        60,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Facilitated the SPES examination for student applicants",
+    "entities": [
+      [
+        0,
+        55,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Evaluated and checked the SPES examination papers",
+    "entities": [
+      [
+        0,
+        49,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  },
+  {
+    "text": "Participated in the Capstone Showcasing event",
+    "entities": [
+      [
+        0,
+        45,
+        "CLERICAL"
+      ]
+    ],
+    "cats": {
+      "IT_TASK": 0.0,
+      "CLERICAL": 1.0
+    }
+  }
+]

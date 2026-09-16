@@ -1,0 +1,117 @@
+[
+  {
+    "text": "Created infographic designs using Canva for the department's social media posts.",
+    "entities": [
+      [
+        34,
+        39,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Digitalized physical logbooks into Microsoft Excel spreadsheets for recordkeeping.",
+    "entities": [
+      [
+        35,
+        50,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Edited promotional banners and posters using Adobe Photoshop.",
+    "entities": [
+      [
+        45,
+        60,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Built a QR-based attendance system using HTML, CSS, and JavaScript.",
+    "entities": [
+      [
+        41,
+        45,
+        "PROG_LANG"
+      ],
+      [
+        47,
+        50,
+        "PROG_LANG"
+      ],
+      [
+        56,
+        66,
+        "PROG_LANG"
+      ]
+    ]
+  },
+  {
+    "text": "Deployed the student portal application on a local server using XAMPP.",
+    "entities": [
+      [
+        64,
+        69,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Encoded and organized data entries in Microsoft Word documents.",
+    "entities": [
+      [
+        38,
+        52,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Developed a file management system using PHP and Laravel framework.",
+    "entities": [
+      [
+        41,
+        44,
+        "PROG_LANG"
+      ],
+      [
+        49,
+        56,
+        "FRAMEWORK"
+      ]
+    ]
+  },
+  {
+    "text": "Used Google Sheets to track and monitor daily attendance records.",
+    "entities": [
+      [
+        5,
+        18,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Designed UI mockups and wireframes using Figma for the capstone project.",
+    "entities": [
+      [
+        41,
+        46,
+        "TOOL"
+      ]
+    ]
+  },
+  {
+    "text": "Set up user accounts and configured email using Microsoft Outlook.",
+    "entities": [
+      [
+        48,
+        65,
+        "TOOL"
+      ]
+    ]
+  }
+]
