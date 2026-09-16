@@ -1,42 +1,374 @@
 term,label
-Python,PROG_LANG
-Java,PROG_LANG
-JavaScript,PROG_LANG
-TypeScript,PROG_LANG
-C#,PROG_LANG
-PHP,PROG_LANG
-React,FRAMEWORK
-Angular,FRAMEWORK
-Vue.js,FRAMEWORK
-Django,FRAMEWORK
-Flask,FRAMEWORK
-Laravel,FRAMEWORK
-Spring Boot,FRAMEWORK
-Node.js,FRAMEWORK
-MySQL,DATABASE
-PostgreSQL,DATABASE
-MongoDB,DATABASE
-SQLite,DATABASE
-Oracle Database,DATABASE
-Git,TOOL
-GitHub,TOOL
-Docker,TOOL
-Kubernetes,TOOL
-Jenkins,TOOL
-Postman,TOOL
-Jira,TOOL
-Figma,TOOL
-AWS,CLOUD
-Microsoft Azure,CLOUD
-Google Cloud Platform,CLOUD
-Linux,OS
-Windows Server,OS
-Ubuntu,OS
-REST API,CONCEPT
-Machine Learning,CONCEPT
-Data Structures,CONCEPT
-Object-Oriented Programming,CONCEPT
-Version Control,CONCEPT
-Agile,METHODOLOGY
-Scrum,METHODOLOGY
-DevOps,METHODOLOGY
+Python,IT_TASK
+Java,IT_TASK
+JavaScript,IT_TASK
+TypeScript,IT_TASK
+C#,IT_TASK
+PHP,IT_TASK
+React,IT_TASK
+Angular,IT_TASK
+Vue.js,IT_TASK
+Django,IT_TASK
+Flask,IT_TASK
+Laravel,IT_TASK
+Spring Boot,IT_TASK
+Node.js,IT_TASK
+MySQL,IT_TASK
+PostgreSQL,IT_TASK
+MongoDB,IT_TASK
+SQLite,IT_TASK
+Oracle Database,IT_TASK
+Git,IT_TASK
+GitHub,IT_TASK
+Docker,IT_TASK
+Kubernetes,IT_TASK
+Jenkins,IT_TASK
+Postman,IT_TASK
+Jira,IT_TASK
+Figma,IT_TASK
+AWS,IT_TASK
+Microsoft Azure,IT_TASK
+Google Cloud Platform,IT_TASK
+Linux,IT_TASK
+Windows Server,IT_TASK
+Ubuntu,IT_TASK
+REST API,IT_TASK
+Machine Learning,IT_TASK
+Data Structures,IT_TASK
+Object-Oriented Programming,IT_TASK
+Version Control,IT_TASK
+Agile,IT_TASK
+Scrum,IT_TASK
+DevOps,IT_TASK
+Computer,IT_TASK
+PC,IT_TASK
+Laptop,IT_TASK
+Hardware,IT_TASK
+Excel,IT_TASK
+Microsoft Excel,IT_TASK
+PDF,IT_TASK
+Computer Setup,IT_TASK
+Computer Support,IT_TASK
+Computer Assembly,IT_TASK
+PC Assembly,IT_TASK
+Hardware Assembly,IT_TASK
+Hardware Maintenance,IT_TASK
+Hardware Installation,IT_TASK
+Hardware Repair,IT_TASK
+Hardware Troubleshooting,IT_TASK
+Printer Installation,IT_TASK
+Printer Repair,IT_TASK
+Printer Troubleshooting,IT_TASK
+Printer Driver,IT_TASK
+Scanning,IT_TASK
+PDF Conversion,IT_TASK
+File Conversion,IT_TASK
+Troubleshooting,IT_TASK
+Network Troubleshooting,IT_TASK
+WiFi,IT_TASK
+Data Management,IT_TASK
+Data Encoding,IT_TASK
+Data Entry,IT_TASK
+Data Validation,IT_TASK
+Data Calculation,IT_TASK
+Data Input,IT_TASK
+Database,IT_TASK
+Database Management,IT_TASK
+Database Schema,IT_TASK
+Database Queries,IT_TASK
+Database Seeder,IT_TASK
+Database Connections,IT_TASK
+Database Storage,IT_TASK
+Database Normalization,IT_TASK
+Schema Backup,IT_TASK
+System Development,IT_TASK
+System Design,IT_TASK
+System Planning,IT_TASK
+System Testing,IT_TASK
+System Debugging,IT_TASK
+System Deployment,IT_TASK
+System Maintenance,IT_TASK
+System Encryption,IT_TASK
+System Features,IT_TASK
+System Modules,IT_TASK
+System Interface,IT_TASK
+System Performance,IT_TASK
+System Stability,IT_TASK
+Application Development,IT_TASK
+Application Management,IT_TASK
+Family Profiling Application,IT_TASK
+Nutrimap System,IT_TASK
+Inquiry System,IT_TASK
+AI Chatbot,IT_TASK
+Gemini API,IT_TASK
+Backend API,IT_TASK
+API Routes,IT_TASK
+API Endpoints,IT_TASK
+CRUD,IT_TASK
+Livewire,IT_TASK
+Spatie,IT_TASK
+Composer,IT_TASK
+PhpSpreadsheet,IT_TASK
+Flutter,IT_TASK
+Programming Tools,IT_TASK
+Codebase,IT_TASK
+Coding,IT_TASK
+Code Debugging,IT_TASK
+Code Refactoring,IT_TASK
+Bug Fixing,IT_TASK
+Error Handling,IT_TASK
+Form Validation,IT_TASK
+Authentication,IT_TASK
+Login,IT_TASK
+Logout,IT_TASK
+Session Management,IT_TASK
+Middleware,IT_TASK
+RBAC,IT_TASK
+Access Control,IT_TASK
+Role Assignment,IT_TASK
+User Management,IT_TASK
+Password Recovery,IT_TASK
+Password Reset,IT_TASK
+Email Verification,IT_TASK
+Email Service,IT_TASK
+Mailer,IT_TASK
+Credentials,IT_TASK
+Security,IT_TASK
+Rate Limiting,IT_TASK
+Backup,IT_TASK
+Repository,IT_TASK
+GitHub Workflow,IT_TASK
+Git Commits,IT_TASK
+Git Branches,IT_TASK
+Merge Conflict,IT_TASK
+Frontend,IT_TASK
+Backend,IT_TASK
+CSS,IT_TASK
+Responsive Design,IT_TASK
+UI,IT_TASK
+UI Components,IT_TASK
+UI/UX Design,IT_TASK
+UI Design,IT_TASK
+UX Design,IT_TASK
+Wireframe,IT_TASK
+Figma Prototype,IT_TASK
+Dashboard,IT_TASK
+Dashboard Interface,IT_TASK
+Landing Page,IT_TASK
+Navbar,IT_TASK
+Sidebar,IT_TASK
+Layout Design,IT_TASK
+Visual Design,IT_TASK
+Canva,IT_TASK
+Adobe Photoshop,IT_TASK
+Poster Design,IT_TASK
+Brochure Design,IT_TASK
+Certificate Design,IT_TASK
+Template Design,IT_TASK
+Logbook Template,IT_TASK
+Tarpaulin Design,IT_TASK
+Identification Card Design,IT_TASK
+QR Code,IT_TASK
+Interactive Map,IT_TASK
+GeoJSON,IT_TASK
+Geospatial Tracking,IT_TASK
+Web Hosting,IT_TASK
+InfinityFree,IT_TASK
+Hosting Environment,IT_TASK
+Web Server,IT_TASK
+Server Settings,IT_TASK
+Server Configuration,IT_TASK
+Deployment Testing,IT_TASK
+Production Deployment,IT_TASK
+Network,IT_TASK
+Internet Connection,IT_TASK
+Computer Hardware Maintenance,IT_TASK
+SSD,IT_TASK
+Flash Drive,IT_TASK
+Monitor,IT_TASK
+Phone Troubleshooting,IT_TASK
+iClinicSys,IT_TASK
+eGOV.PH,IT_TASK
+Microsoft Word,IT_TASK
+Google Forms,IT_TASK
+Google Sheets,IT_TASK
+Facebook Management,IT_TASK
+Facebook Posting,IT_TASK
+Digital File Management,IT_TASK
+File Management,IT_TASK
+Digital File Organization,IT_TASK
+Technical Support,IT_TASK
+Technical Assistance,IT_TASK
+Computer Skills,IT_TASK
+Technical Skills,IT_TASK
+Capstone Project,IT_TASK
+Capstone Study,IT_TASK
+IT Fest,IT_TASK
+Research Summit,IT_TASK
+Canva,IT_TASK
+Microsoft Excel,IT_TASK
+CLERICAL,CLERICAL
+Document Organization,CLERICAL
+Document Filing,CLERICAL
+Document Sorting,CLERICAL
+Document Arrangement,CLERICAL
+Document Management,CLERICAL
+Document Handling,CLERICAL
+Document Preparation,CLERICAL
+Document Distribution,CLERICAL
+Document Routing,CLERICAL
+Document Review,CLERICAL
+Document Checking,CLERICAL
+Document Verification,CLERICAL
+Document Editing,CLERICAL
+Document Processing,CLERICAL
+Document Forwarding,CLERICAL
+Document Delivery,CLERICAL
+Document Safekeeping,CLERICAL
+Document Labeling,CLERICAL
+File Organization,CLERICAL
+File Arrangement,CLERICAL
+File Management,CLERICAL
+File Filing,CLERICAL
+File Checking,CLERICAL
+Folder Organization,CLERICAL
+Filing System,CLERICAL
+Records,CLERICAL
+Record Management,CLERICAL
+Record Keeping,CLERICAL
+Record Organization,CLERICAL
+Record Checking,CLERICAL
+Records Management,CLERICAL
+Physical Files,CLERICAL
+File Cabinets,CLERICAL
+Binders,CLERICAL
+Incoming Documents,CLERICAL
+File Labels,CLERICAL
+Name Labels,CLERICAL
+Labels,CLERICAL
+Printing,CLERICAL
+Photocopying,CLERICAL
+Scanning Documents,CLERICAL
+Encoding,CLERICAL
+Information Updating,CLERICAL
+Information Reviewing,CLERICAL
+Information Checking,CLERICAL
+Data Correction,CLERICAL
+Data Recording,CLERICAL
+Data Consolidation,CLERICAL
+Data Organization,CLERICAL
+Data Verification,CLERICAL
+Data Management,CLERICAL
+Excel,IT_TASK
+Google Sheets,IT_TASK
+Google Forms,IT_TASK
+Passbooks,CLERICAL
+Savings Accounts,CLERICAL
+Shares Accounts,CLERICAL
+Loans,CLERICAL
+Account Balances,CLERICAL
+Financial Transactions,CLERICAL
+Payment Records,CLERICAL
+Insurance Details,CLERICAL
+Collection Reports,CLERICAL
+Financial Records,CLERICAL
+Ticket Serial Numbers,CLERICAL
+Contact Details,CLERICAL
+Member ID,CLERICAL
+Beneficiary Records,CLERICAL
+Scholarship Data,CLERICAL
+Student Records,CLERICAL
+Patient Records,CLERICAL
+Medical Records,CLERICAL
+Prescription Records,CLERICAL
+PhilHealth Eligibility,CLERICAL
+Client Records,CLERICAL
+Client Payments,CLERICAL
+Inventory Records,CLERICAL
+Inventory,CLERICAL
+Stock Records,CLERICAL
+Medicine Stocks,CLERICAL
+Medicine Sachets,CLERICAL
+Medicine Distribution,CLERICAL
+Medicine Labeling,CLERICAL
+Stock Transfer,CLERICAL
+Transfer Slips,CLERICAL
+Document Stamping,CLERICAL
+Certificate Distribution,CLERICAL
+Certificate Release,CLERICAL
+ID Release,CLERICAL
+ID Distribution,CLERICAL
+Form Distribution,CLERICAL
+Flyer Distribution,CLERICAL
+Promotional Materials,CLERICAL
+Administrative Tasks,CLERICAL
+Office Work,CLERICAL
+Office Operations,CLERICAL
+Office Tasks,CLERICAL
+Office Workflow,CLERICAL
+Clerical Duties,CLERICAL
+Routine Office Tasks,CLERICAL
+Office Documentation,CLERICAL
+Office Coordination,CLERICAL
+Records Office,CLERICAL
+Resource Management,CLERICAL
+Workplace Organization,CLERICAL
+Workspace Organization,CLERICAL
+Meeting,CLERICAL
+Meeting Materials,CLERICAL
+Meeting Proceedings,CLERICAL
+Orientation,CLERICAL
+Enrollment,CLERICAL
+Student Enrollment,CLERICAL
+Scholarship Records,CLERICAL
+Police Clearance,CLERICAL
+Audit Preparation,CLERICAL
+Signatories,CLERICAL
+Clearance Forms,CLERICAL
+Exit Clearance Forms,CLERICAL
+Public Notices,CLERICAL
+Reports,CLERICAL
+Report Preparation,CLERICAL
+Activity Documentation,CLERICAL
+Photo Documentation,CLERICAL
+Attendance Records,CLERICAL
+Event Coordination,CLERICAL
+Event Preparation,CLERICAL
+Field Activity,CLERICAL
+Community Coordination,CLERICAL
+Barangay Coordination,CLERICAL
+Client Assistance,CLERICAL
+Customer Service,CLERICAL
+Nutrition Counseling,CLERICAL
+Health Records,CLERICAL
+Medical Inventory,CLERICAL
+Medicine Dispensing,CLERICAL
+Medicine Refill,CLERICAL
+Patient Assistance,CLERICAL
+Client Satisfaction Survey,CLERICAL
+Inventory Counting,CLERICAL
+Inventory Organization,CLERICAL
+Community Outreach,CLERICAL
+Certificate Recognition,CLERICAL
+Awarding Ceremony,CLERICAL
+Charter Day,CLERICAL
+BNS Meeting,CLERICAL
+BNS Activities,CLERICAL
+OPT Plus,CLERICAL
+Nutrition Activities,CLERICAL
+Seminars,CLERICAL
+Training Activities,CLERICAL
+Presentation Materials,CLERICAL
+Research Activities,CLERICAL
+Task Alignment,CLERICAL
+Team Coordination,CLERICAL
+Team Task Division,CLERICAL
+Meeting Transcription,CLERICAL
+Captions,CLERICAL
+General Cleaning,CLERICAL
+Office Cleaning,CLERICAL
+Materials Preparation,CLERICAL
+Material Distribution,CLERICAL
+Inventory Analysis,CLERICAL
+Outdoor Activities,CLERICAL
+Office Errands,CLERICAL
